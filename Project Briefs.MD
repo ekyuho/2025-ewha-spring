@@ -70,14 +70,14 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에
 
 | 항목               | 내용                                                                                                                 |
 |--------------------|---------------------------------------------------------------------------------------------------------------------|
-| **팀명칭**        | 지구정복 연구젝트                                                                                                         |
+| **팀명칭**        | 우주정복 연구젝트                                                                                                         |
 | **키워드**        | AI, Multi-modal data, Missing data optimization                                                                       |
 | **기술 키워드**   | Pytorch, Cuda, Dall-E                                                                                                |
 | **프로젝트명**    | [멀티모달 생성 AI] 멀티 모달리티 학습 환경에서 누락된 모달리티 데이터 생성 연구                                                |
-| **프로젝트 브랜드**| 미씽멀티버스                                                                                                              |
+| **프로젝트 브랜드**| 미씽유니버스                                                                                                              |
 | **사용할 소프트웨어** | [CLIP (Hugging Face)](https://huggingface.co/docs/transformers/ko/model_doc/clip) <br> [FLAVA (Hugging Face)](https://huggingface.co/docs/transformers/model_doc/flava) |
-| **만들고자 하는 것** | 탐사선(케플러/허블/로버 등등 중 하나) 이미지 데이터 누락 시 관련 정보 이용 복구                                                   |
-| **팀 그라운드 룰**  | [Ground Rules](https://github.com/Earth-Conquest-Research-Project/Team-Ground-Rule/blob/main/README.md) |
+| **만들고자 하는 것** | 우주 탐사선을 통해 수집 된 데이터 중 누락 모달리티 데이터 생성 연구                                               |
+| **팀 그라운드 룰**  | [Ground Rules](https://github.com/Earth-Conquest-Research-Project/Multimodal-Missing-Data/blob/main/GroundRule.MD) |
 | **최종 수정일**    | 2025.03.10                                                                                                           |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
