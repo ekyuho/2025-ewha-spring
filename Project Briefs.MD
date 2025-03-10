@@ -1,334 +1,335 @@
-blank lineÀ» ³ÖÀ¸¸é table formÀÌ ±úÁö´Ï ÁÖÀÇ¿ä¸Á. pull requestÀü¿¡ È®ÀÎÇØÁÖ¼¼¿ä.  MD Æ÷¸Ë¿¡ ´ëÇÑ ³»¿ëÀº °£´ÜÇÑ °Ë»öÀ¸·Î ¸¹ÀÌ Ã£¾Æº¼ ¼ö ÀÖ½À´Ï´Ù
-# 2025 Spring ÀüÃ¼ ÇÁ·ÎÁ§Æ® ¸®½ºÆ®
-|ÆÀ¹øÈ£|ÆÀ¸í| ÇÁ·ÎÁ§Æ®¸í|ºê·£µå¸í|
+blank lineì„ ë„£ìœ¼ë©´ table formì´ ê¹¨ì§€ë‹ˆ ì£¼ì˜ìš”ë§. pull requestì „ì— í™•ì¸í•´ì£¼ì„¸ìš”.  MD í¬ë§·ì— ëŒ€í•œ ë‚´ìš©ì€ ê°„ë‹¨í•œ ê²€ìƒ‰ìœ¼ë¡œ ë§Žì´ ì°¾ì•„ë³¼ ìˆ˜ ìžˆìŠµë‹ˆë‹¤
+# 2025 Spring ì „ì²´ í”„ë¡œì íŠ¸ ë¦¬ìŠ¤íŠ¸
+|íŒ€ë²ˆí˜¸|íŒ€ëª…| í”„ë¡œì íŠ¸ëª…|ë¸Œëžœë“œëª…|
 |:---|:---|:---|:---|
-| [3](#team-3) | ³ëÆäÀÎ ³ë°ÔÀÎ | ±³Åë¾àÀÚ¸¦ À§ÇÑ ¹«Àå¾Ö ±æÃ£±â ¼­ºñ½º | PathEase |
-| [4](#team-4) | ÀÌµ¥´ó±è | ÀÌ¹ÌÁö ±â¹Ý ¸ÂÃã ¿µ¾î È¸È­ ÇÐ½À | PicChat |
-| [6](#team-6) | ´ÑÀÚÅä³¢ | È¸ÇÇÇü ¼º°Ý ±Øº¹À» À§ÇÑ ¸ÂÃãÇü ½À°ü Çü¼º ¼­ºñ½º | HabitAI |
-| [7](#team-7) | Áö±¸Á¤º¹ ¿¬±¸Á§Æ® |  [¸ÖÆ¼¸ð´Þ  »ý¼º AI] ¸ÖÆ¼ ¸ð´Þ¸®Æ¼ ÇÐ½À È¯°æ¿¡¼­ ´©¶ôµÈ ¸ð´Þ¸®Æ¼ µ¥ÀÌÅÍ »ý¼º ¿¬±¸ | ¹Ì¾Å¸ÖÆ¼¹ö½º |
-| [8](#team-8) | µå¶ø ´õ 8bit | Collab8 (Collaboration + 8  ¹«ÇÑÇÑ Çù¾÷ °¡´É¼ºÀ» ÀÇ¹Ì) | HiveMind (Áý´Ü Áö¼ºÀ» ¹ßÈÖÇÏ´Â ÆÀ Çù¾÷ °ø°£) |
-| [9](#team-9) | ±¸¸£¹Ì | ¹ÂÃß¾óÅ¬¶ó¿ìµå : ÀüÁö±¸Àû ÀÚ¿øÀÇ Å½»ö ¹× ºÐ±ÇÇü °ü¸®ÀÇ ÇÊ¿ä¼º | ¹ÝÈ¿°æ ±³¼ö´Ô |
-| [11](#team-11) | DevEwha | ÄÁÅ×ÀÌ³Ê ±â¹Ý AI ¿öÅ©ÇÃ·Î¿ì ÆÄÀÌÇÁ¶óÀÎ ÃÖÀûÈ­ (CI/CD, MLOps °üÁ¡) | AIOpsLab |
-| [12](#team-12) | ³»°¡±×¸° | Å¬¶ó¿ìµå AI¸¦ È°¿ëÇÏ¿© »ç¿ëÀÚ µ¥ÀÌÅÍ¿Í Æ®·¡ÇÈ ºÐ¼®À» ÅëÇØ IT È¯°æ ÃÖÀûÈ­¸¦ ¸ñÀûÀ¸·Î ÇÏ´Â ÇÁ·Î±×·¥ | (¹ÌÁ¤) |
-| [13](#team-13) | e½ÃÅ© | ¸ÖÆ¼ ¸ð´Þ µ¥ÀÌÅÍ ÇÐ½ÀÀ» ÀÌ¿ëÇÑ ¼ö¿ä ¿¹Ãøµµ Çâ»ó  | e½ÃÅ© ¼ö¿ä ¿¹Ãø |
-| [14](#team-14) | team329 | Overcoming Missing Modalities with Clustering: A Cross-Attention and Federated Learning Approach | team329 (¿¬±¸Æ®·¢ÀÌ¶ó ÆÀ¸íÀ¸·Î ´ëÃ¼ÇÕ´Ï´Ù) |
-| [15](#team-15) | GRAD | ÀÏÁ¤ °ü¸®°¡ ¾î·Á¿î »ç¶÷µéÀ» À§ÇÑ °³ÀÎ ¸ÂÃã ´ëÇÐ »ýÈ° AI ºñ¼­ | À§µå¹Ì |
-| [16](#team-16) | ¹è²É¿£µù | AI ±â¹Ý ¹®¼­ ºÐ¼® ±â¼úÀ» ÅëÇØ °è¾à¼­ÀÇ Áß¿äÇÑ Á¶Ç×À» ÀÚµ¿ ÃßÃâÇÏ°í, »ç¿ëÀÚ°¡ ½±°Ô ÀÌÇØÇÒ ¼ö ÀÖµµ·Ï Á¦°øÇÏ´Â ¼­ºñ½º | DocSense |
-| [17](#team-17) | ±×¸°µ¥ºô | ¿¬ÇÕ ÇÐ½À(Federated Learning) È¯°æ¿¡¼­ ÀÌÁúÀûÀÎ µ¥ÀÌÅÍ ÇÐ½ÀÀ» ÅëÇØ ·ÎÄÃ¿¡ Æ¯È­µÈ ÇÐ½À ¸ðµ¨°ú ÀÏ¹ÝÀûÀÎ Ãß·ÐÀ» À§ÇÑ ÇÐ½À ¸ðµ¨ ºñ±³ |  |
-| [18](#team-18) | ÄÚµå¸¸µÎ(Code ¸¸ Do!) | Ã¤¿ë µ¥ÀÌÅÍ ºÐ¼®°ú ÀÚ¿¬¾î Ã³¸® ±â¼úÀ» È°¿ëÇÏ¿© ÀÌ·Â¼­ ¹®ÀåÀ» ÃÖÀûÈ­ÇÏ°í ±¸Á÷ÀÚ¿Í ±â¾÷À» ÀÚµ¿À¸·Î ¿¬°áÇØÁÖ´Â AI ±â¹Ý Ã¤¿ë Áö¿ø ÇÃ·§Æû | JobBridge |
-| [19](#team-19) | TÆÄ´Ï | ÀÌ¹ÌÁö ±â¹Ý »óÇ° °Ë»ö ¹× ÃßÃµ  | ÇÍ¼­Ä¡ |
-| [20](#team-20) | ½ºÄ«ÀÌÈ­ | AI ±â¹Ý ¿¹¼ú ÀÛÇ° ÇØ¼³ ¼­ºñ½º | ³» ¼Õ ¾ÈÀÇ Å¥·¹ÀÌÅÍ |
-| [21](#team-21) | Åõ¾Ö´Ï¿ø | BuddyEdu: ¿µÀ¯¾Æ¸¦ À§ÇÑ Á¤¼­ Áö¿ø ¹× ±âÃÊ ±³À° ÇÁ·Î±×·¥ | BuddyEdu |
-| [22](#team-22) | Å¥¸®È£½º(Curihous) | ÄöÆ® ±â¹Ý ¾Ë°í¸®Áò ÅõÀÚ ÀÚµ¿È­ ¼­ºñ½º | ½ºÆÄÀÌÄÚ |
-| [24](#team-24) | °­¹è¿ì | AI¸¦ ±â¹ÝÀ¸·Î ÇÏ¿© »ç¿ëÀÚÀÇ °¡¿ë ½Ã°£ ¹× ¿¹»êÀ» °í·ÁÇÏ¿© ¿©Çà ÀÏÁ¤À» ÃßÃµÇØÁÖ´Â ¼­ºñ½º | OTK |
-| [25](#team-25) | Ä¡Å²¸Ô±â | °ø¸ðÁÖ ÃßÃµ |  |
-| [27](#team-27) | ¿ë¿ë | AI¸¦ ±â¹ÝÀ¸·Î »ç¿ëÀÚ°¡ º¸À¯ÇÑ °¡»óÈ­Æó¸¦ ÇØÄ¿·ÎºÎÅÍ º¸È£ÇÏ±â À§ÇØ ÀÌÁß º¸¾È Ã¼°è¸¦ Àû¿ëÇÏ´Â Áö°© ¼Ö·ç¼Ç | Virtual Wallet |
-| [28](#team-28) | e½ºÅ¸Æ® | OCR°ú AI¸¦ È°¿ëÇÑ 20´ëÀÇ °ú¼Òºñ ¹æÁö¸¦ À§ÇÑ ¼Òºñ ÆÐÅÏ ºÐ¼® ¹× ¼Òºñ ½À°ü ÄÚÄª ¼­ºñ½º | TETS (Too Easy to Spend) |
+| [3](#team-3) | ë…¸íŽ˜ì¸ ë…¸ê²Œì¸ | êµí†µì•½ìžë¥¼ ìœ„í•œ ë¬´ìž¥ì•  ê¸¸ì°¾ê¸° ì„œë¹„ìŠ¤ | PathEase |
+| [4](#team-4) | ì´ë°ëŒ•ê¹€ | ì´ë¯¸ì§€ ê¸°ë°˜ ë§žì¶¤ ì˜ì–´ íšŒí™” í•™ìŠµ | PicChat |
+| [6](#team-6) | ë‹Œìží† ë¼ | íšŒí”¼í˜• ì„±ê²© ê·¹ë³µì„ ìœ„í•œ ë§žì¶¤í˜• ìŠµê´€ í˜•ì„± ì„œë¹„ìŠ¤ | HabitAI |
+| [7](#team-7) | ì§€êµ¬ì •ë³µ ì—°êµ¬ì íŠ¸ |  [ë©€í‹°ëª¨ë‹¬  ìƒì„± AI] ë©€í‹° ëª¨ë‹¬ë¦¬í‹° í•™ìŠµ í™˜ê²½ì—ì„œ ëˆ„ë½ëœ ëª¨ë‹¬ë¦¬í‹° ë°ì´í„° ìƒì„± ì—°êµ¬ | ë¯¸ì”½ë©€í‹°ë²„ìŠ¤ |
+| [8](#team-8) | ë“œëž ë” 8bit | Collab8 (Collaboration + 8  ë¬´í•œí•œ í˜‘ì—… ê°€ëŠ¥ì„±ì„ ì˜ë¯¸) | HiveMind (ì§‘ë‹¨ ì§€ì„±ì„ ë°œíœ˜í•˜ëŠ” íŒ€ í˜‘ì—… ê³µê°„) |
+| [9](#team-9) | êµ¬ë¥´ë¯¸ | ë®¤ì¶”ì–¼í´ë¼ìš°ë“œ : ì „ì§€êµ¬ì  ìžì›ì˜ íƒìƒ‰ ë° ë¶„ê¶Œí˜• ê´€ë¦¬ì˜ í•„ìš”ì„± | ë°˜íš¨ê²½ êµìˆ˜ë‹˜ |
+| [11](#team-11) | DevEwha | ì»¨í…Œì´ë„ˆ ê¸°ë°˜ AI ì›Œí¬í”Œë¡œìš° íŒŒì´í”„ë¼ì¸ ìµœì í™” (CI/CD, MLOps ê´€ì ) | AIOpsLab |
+| [12](#team-12) | ë‚´ê°€ê·¸ë¦° | í´ë¼ìš°ë“œ AIë¥¼ í™œìš©í•˜ì—¬ ì‚¬ìš©ìž ë°ì´í„°ì™€ íŠ¸ëž˜í”½ ë¶„ì„ì„ í†µí•´ IT í™˜ê²½ ìµœì í™”ë¥¼ ëª©ì ìœ¼ë¡œ í•˜ëŠ” í”„ë¡œê·¸ëž¨ | (ë¯¸ì •) |
+| [13](#team-13) | eì‹œí¬ | ë©€í‹° ëª¨ë‹¬ ë°ì´í„° í•™ìŠµì„ ì´ìš©í•œ ìˆ˜ìš” ì˜ˆì¸¡ë„ í–¥ìƒ  | eì‹œí¬ ìˆ˜ìš” ì˜ˆì¸¡ |
+| [14](#team-14) | team329 | Overcoming Missing Modalities with Clustering: A Cross-Attention and Federated Learning Approach | team329 (ì—°êµ¬íŠ¸ëž™ì´ë¼ íŒ€ëª…ìœ¼ë¡œ ëŒ€ì²´í•©ë‹ˆë‹¤) |
+| [15](#team-15) | GRAD | ì¼ì • ê´€ë¦¬ê°€ ì–´ë ¤ìš´ ì‚¬ëžŒë“¤ì„ ìœ„í•œ ê°œì¸ ë§žì¶¤ ëŒ€í•™ ìƒí™œ AI ë¹„ì„œ | ìœ„ë“œë¯¸ |
+| [16](#team-16) | ë°°ê½ƒì—”ë”© | AI ê¸°ë°˜ ë¬¸ì„œ ë¶„ì„ ê¸°ìˆ ì„ í†µí•´ ê³„ì•½ì„œì˜ ì¤‘ìš”í•œ ì¡°í•­ì„ ìžë™ ì¶”ì¶œí•˜ê³ , ì‚¬ìš©ìžê°€ ì‰½ê²Œ ì´í•´í•  ìˆ˜ ìžˆë„ë¡ ì œê³µí•˜ëŠ” ì„œë¹„ìŠ¤ | DocSense |
+| [17](#team-17) | ê·¸ë¦°ë°ë¹Œ | ì—°í•© í•™ìŠµ(Federated Learning) í™˜ê²½ì—ì„œ ì´ì§ˆì ì¸ ë°ì´í„° í•™ìŠµì„ í†µí•´ ë¡œì»¬ì— íŠ¹í™”ëœ í•™ìŠµ ëª¨ë¸ê³¼ ì¼ë°˜ì ì¸ ì¶”ë¡ ì„ ìœ„í•œ í•™ìŠµ ëª¨ë¸ ë¹„êµ |  |
+| [18](#team-18) | ì½”ë“œë§Œë‘(Code ë§Œ Do!) | ì±„ìš© ë°ì´í„° ë¶„ì„ê³¼ ìžì—°ì–´ ì²˜ë¦¬ ê¸°ìˆ ì„ í™œìš©í•˜ì—¬ ì´ë ¥ì„œ ë¬¸ìž¥ì„ ìµœì í™”í•˜ê³  êµ¬ì§ìžì™€ ê¸°ì—…ì„ ìžë™ìœ¼ë¡œ ì—°ê²°í•´ì£¼ëŠ” AI ê¸°ë°˜ ì±„ìš© ì§€ì› í”Œëž«í¼ | JobBridge |
+| [19](#team-19) | TíŒŒë‹ˆ | ì´ë¯¸ì§€ ê¸°ë°˜ ìƒí’ˆ ê²€ìƒ‰ ë° ì¶”ì²œ  | í•ì„œì¹˜ |
+| [20](#team-20) | ìŠ¤ì¹´ì´í™” | AI ê¸°ë°˜ ì˜ˆìˆ  ìž‘í’ˆ í•´ì„¤ ì„œë¹„ìŠ¤ | ë‚´ ì† ì•ˆì˜ íë ˆì´í„° |
+| [21](#team-21) | íˆ¬ì• ë‹ˆì› | BuddyEdu: ì˜ìœ ì•„ë¥¼ ìœ„í•œ ì •ì„œ ì§€ì› ë° ê¸°ì´ˆ êµìœ¡ í”„ë¡œê·¸ëž¨ | BuddyEdu |
+| [22](#team-22) | íë¦¬í˜¸ìŠ¤(Curihous) | í€€íŠ¸ ê¸°ë°˜ ì•Œê³ ë¦¬ì¦˜ íˆ¬ìž ìžë™í™” ì„œë¹„ìŠ¤ | ìŠ¤íŒŒì´ì½” |
+| [23](#team-23) | YagInfo | ì•½ ë´‰íˆ¬ë¥¼ ì‚¬ì§„ ì°ì–´ì„œ ì—…ë¡œë“œí•˜ë©´ ì•½ ì •ë³´ë¥¼ ì•Œë ¤ì£¼ëŠ” ë³µì•½ì§€ë„ ì„œë¹„ìŠ¤  | YagInfo |
+| [24](#team-24) | ê°•ë°°ìš° | AIë¥¼ ê¸°ë°˜ìœ¼ë¡œ í•˜ì—¬ ì‚¬ìš©ìžì˜ ê°€ìš© ì‹œê°„ ë° ì˜ˆì‚°ì„ ê³ ë ¤í•˜ì—¬ ì—¬í–‰ ì¼ì •ì„ ì¶”ì²œí•´ì£¼ëŠ” ì„œë¹„ìŠ¤ | OTK |
+| [25](#team-25) | ì¹˜í‚¨ë¨¹ê¸° | ê³µëª¨ì£¼ ì¶”ì²œ |  |
+| [27](#team-27) | ìš©ìš© | AIë¥¼ ê¸°ë°˜ìœ¼ë¡œ ì‚¬ìš©ìžê°€ ë³´ìœ í•œ ê°€ìƒí™”íë¥¼ í•´ì»¤ë¡œë¶€í„° ë³´í˜¸í•˜ê¸° ìœ„í•´ ì´ì¤‘ ë³´ì•ˆ ì²´ê³„ë¥¼ ì ìš©í•˜ëŠ” ì§€ê°‘ ì†”ë£¨ì…˜ | Virtual Wallet |
+| [28](#team-28) | eìŠ¤íƒ€íŠ¸ | OCRê³¼ AIë¥¼ í™œìš©í•œ 20ëŒ€ì˜ ê³¼ì†Œë¹„ ë°©ì§€ë¥¼ ìœ„í•œ ì†Œë¹„ íŒ¨í„´ ë¶„ì„ ë° ì†Œë¹„ ìŠµê´€ ì½”ì¹­ ì„œë¹„ìŠ¤ | TETS (Too Easy to Spend) |
 ## Team 3
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | ³ëÆäÀÎ ³ë°ÔÀÎ |
-| Å°¿öµå | ±³Åë¾àÀÚ, À½¼ºÀÎ½Ä, °æ·Î ÃßÃµ |
-| ±â¼úÅ°¿öµå | ½Ç½Ã°£ ´ëÁß±³Åë ¿¬µ¿, Áöµµ api ¿¬µ¿, Àå¾Ö¹° °¨Áö ¹× °æ·Î ÃÖÀûÈ­ |
-| ÇÁ·ÎÁ§Æ®¸í | ±³Åë¾àÀÚ¸¦ À§ÇÑ ¹«Àå¾Ö ±æÃ£±â ¼­ºñ½º |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | PathEase |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://github.com/openai/whisper<br>https://www.openstreetmap.org/<br>https://t-data.seoul.go.kr/ |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ë…¸íŽ˜ì¸ ë…¸ê²Œì¸ |
+| í‚¤ì›Œë“œ | êµí†µì•½ìž, ìŒì„±ì¸ì‹, ê²½ë¡œ ì¶”ì²œ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | ì‹¤ì‹œê°„ ëŒ€ì¤‘êµí†µ ì—°ë™, ì§€ë„ api ì—°ë™, ìž¥ì• ë¬¼ ê°ì§€ ë° ê²½ë¡œ ìµœì í™” |
+| í”„ë¡œì íŠ¸ëª… | êµí†µì•½ìžë¥¼ ìœ„í•œ ë¬´ìž¥ì•  ê¸¸ì°¾ê¸° ì„œë¹„ìŠ¤ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | PathEase |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://github.com/openai/whisper<br>https://www.openstreetmap.org/<br>https://t-data.seoul.go.kr/ |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 4
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | ÀÌµ¥´ó±è |
-| Å°¿öµå | ¿µ¾î È¸È­ ÇÐ½À, ÀÌ¹ÌÁö ±â¹Ý, ÅØ½ºÆ® ¹× À½¼º Ã¤ÆÃ |
-| ±â¼úÅ°¿öµå | ÀÌ¹ÌÁö Ä¸¼Å´×, ´ëÈ­Çü AI, RAG |
-| ÇÁ·ÎÁ§Æ®¸í | ÀÌ¹ÌÁö ±â¹Ý ¸ÂÃã ¿µ¾î È¸È­ ÇÐ½À |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | PicChat |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://research.google/pubs/show-and-tell-a-neural-image-caption-generator/<br>https://cocodataset.org/#download |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ì´ë°ëŒ•ê¹€ |
+| í‚¤ì›Œë“œ | ì˜ì–´ íšŒí™” í•™ìŠµ, ì´ë¯¸ì§€ ê¸°ë°˜, í…ìŠ¤íŠ¸ ë° ìŒì„± ì±„íŒ… |
+| ê¸°ìˆ í‚¤ì›Œë“œ | ì´ë¯¸ì§€ ìº¡ì…”ë‹, ëŒ€í™”í˜• AI, RAG |
+| í”„ë¡œì íŠ¸ëª… | ì´ë¯¸ì§€ ê¸°ë°˜ ë§žì¶¤ ì˜ì–´ íšŒí™” í•™ìŠµ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | PicChat |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://research.google/pubs/show-and-tell-a-neural-image-caption-generator/<br>https://cocodataset.org/#download |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 6
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | ´ÑÀÚÅä³¢ |
-| Å°¿öµå | »ç¿ëÀÚÀÇ Çàµ¿ ÆÐÅÏ&¾ð¾î ½À°ü&ÀÎÁö ¿À·ù ºÐ¼®, ÀÎÅÍ·¢Æ¼ºê AI ÄÚÄª, Çàµ¿ ¹× ½À°ü ±³Á¤ |
-| ±â¼úÅ°¿öµå | RAG ±â¹Ý AI Ãªº¿À» ±â¹ÝÀ¸·Î ÇÑ ÀÚ¿¬¾î Ã³¸®, ½À°ü Çü¼º ¾Ë°í¸®Áò,  µ¥ÀÌÅÍ ºÐ¼® |
-| ÇÁ·ÎÁ§Æ®¸í | È¸ÇÇÇü ¼º°Ý ±Øº¹À» À§ÇÑ ¸ÂÃãÇü ½À°ü Çü¼º ¼­ºñ½º |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | HabitAI |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://openai.com/index/openai-api/<br>RAG<br>https://github.com/sloria/TextBlob - °¨Á¤ ºÐ¼®<br>https://github.com/HabitRPG/habitica - ½À°ü Çü¼º µ½´Â ½Ã½ºÅÛ<br>https://github.com/TheoKanning/openai-java - ÀÚ¹Ù¿¡¼­ GPT »ç¿ë ¶óÀÌºê·¯¸® |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ë‹Œìží† ë¼ |
+| í‚¤ì›Œë“œ | ì‚¬ìš©ìžì˜ í–‰ë™ íŒ¨í„´&ì–¸ì–´ ìŠµê´€&ì¸ì§€ ì˜¤ë¥˜ ë¶„ì„, ì¸í„°ëž™í‹°ë¸Œ AI ì½”ì¹­, í–‰ë™ ë° ìŠµê´€ êµì • |
+| ê¸°ìˆ í‚¤ì›Œë“œ | RAG ê¸°ë°˜ AI ì±—ë´‡ì„ ê¸°ë°˜ìœ¼ë¡œ í•œ ìžì—°ì–´ ì²˜ë¦¬, ìŠµê´€ í˜•ì„± ì•Œê³ ë¦¬ì¦˜,  ë°ì´í„° ë¶„ì„ |
+| í”„ë¡œì íŠ¸ëª… | íšŒí”¼í˜• ì„±ê²© ê·¹ë³µì„ ìœ„í•œ ë§žì¶¤í˜• ìŠµê´€ í˜•ì„± ì„œë¹„ìŠ¤ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | HabitAI |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://openai.com/index/openai-api/<br>RAG<br>https://github.com/sloria/TextBlob - ê°ì • ë¶„ì„<br>https://github.com/HabitRPG/habitica - ìŠµê´€ í˜•ì„± ë•ëŠ” ì‹œìŠ¤í…œ<br>https://github.com/TheoKanning/openai-java - ìžë°”ì—ì„œ GPT ì‚¬ìš© ë¼ì´ë¸ŒëŸ¬ë¦¬ |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 7
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | Áö±¸Á¤º¹ ¿¬±¸Á§Æ® |
-| Å°¿öµå | AI, Multi-modal data, Missing data optimization |
-| ±â¼úÅ°¿öµå | Pytorch, Cuda, Dall-E |
-| ÇÁ·ÎÁ§Æ®¸í |  [¸ÖÆ¼¸ð´Þ  »ý¼º AI] ¸ÖÆ¼ ¸ð´Þ¸®Æ¼ ÇÐ½À È¯°æ¿¡¼­ ´©¶ôµÈ ¸ð´Þ¸®Æ¼ µ¥ÀÌÅÍ »ý¼º ¿¬±¸ |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | ¹Ì¾Å¸ÖÆ¼¹ö½º |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://huggingface.co/docs/transformers/ko/model_doc/clip<br>https://huggingface.co/docs/transformers/model_doc/flava |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ì§€êµ¬ì •ë³µ ì—°êµ¬ì íŠ¸ |
+| í‚¤ì›Œë“œ | AI, Multi-modal data, Missing data optimization |
+| ê¸°ìˆ í‚¤ì›Œë“œ | Pytorch, Cuda, Dall-E |
+| í”„ë¡œì íŠ¸ëª… |  [ë©€í‹°ëª¨ë‹¬  ìƒì„± AI] ë©€í‹° ëª¨ë‹¬ë¦¬í‹° í•™ìŠµ í™˜ê²½ì—ì„œ ëˆ„ë½ëœ ëª¨ë‹¬ë¦¬í‹° ë°ì´í„° ìƒì„± ì—°êµ¬ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | ë¯¸ì”½ë©€í‹°ë²„ìŠ¤ |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://huggingface.co/docs/transformers/ko/model_doc/clip<br>https://huggingface.co/docs/transformers/model_doc/flava |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 8
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | µå¶ø ´õ 8bit |
-| Å°¿öµå | 1. ¸àÅä¸µ ³×Æ®¿öÅ©, 2. Ä¿¸®¾î ¼ºÀå, 3. Áø·Î Å½»ö |
-| ±â¼úÅ°¿öµå | 1. AI ±â¹Ý ¸ÅÄª ½Ã½ºÅÛ, 2. ½ºÄÉÁÙ ÃÖÀûÈ­ ¹× ÀÏÁ¤ Á¶À², 3. Áø·Î µ¥ÀÌÅÍ ºÐ¼® ¹× ÃßÃµ ¿£Áø |
-| ÇÁ·ÎÁ§Æ®¸í | Collab8 (Collaboration + 8  ¹«ÇÑÇÑ Çù¾÷ °¡´É¼ºÀ» ÀÇ¹Ì) |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | HiveMind (Áý´Ü Áö¼ºÀ» ¹ßÈÖÇÏ´Â ÆÀ Çù¾÷ °ø°£) |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | 1. Surprise (Collaborative Filtering) ¡æ Çù¾÷ ÇÊÅÍ¸µ ±â¹Ý ÃßÃµ ½Ã½ºÅÛ ±¸Çö<br>2. spaCy (NLP Processing) ¡æ »ç¿ëÀÚÀÇ °ü½É»ç ¹× Áø·Î ¸ñÇ¥ ºÐ¼®<br>3. Google Calendar API ¡æ ¼±¹è-ÈÄ¹è ÀÏÁ¤ µ¿±âÈ­<br>4. LinkedIn Open Data ¡æ ½ÇÁ¦ ¾÷°è Á¾»çÀÚÀÇ Ä¿¸®¾î µ¥ÀÌÅÍ È°¿ë °¡´É<br>5. LangChain (LLM Integration) ¡æ GPT ±â¹Ý Áø·Î ÃßÃµ ¹× ¼±¹è Q&A ÀÚµ¿È­ |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ë“œëž ë” 8bit |
+| í‚¤ì›Œë“œ | 1. ë©˜í† ë§ ë„¤íŠ¸ì›Œí¬, 2. ì»¤ë¦¬ì–´ ì„±ìž¥, 3. ì§„ë¡œ íƒìƒ‰ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | 1. AI ê¸°ë°˜ ë§¤ì¹­ ì‹œìŠ¤í…œ, 2. ìŠ¤ì¼€ì¤„ ìµœì í™” ë° ì¼ì • ì¡°ìœ¨, 3. ì§„ë¡œ ë°ì´í„° ë¶„ì„ ë° ì¶”ì²œ ì—”ì§„ |
+| í”„ë¡œì íŠ¸ëª… | Collab8 (Collaboration + 8  ë¬´í•œí•œ í˜‘ì—… ê°€ëŠ¥ì„±ì„ ì˜ë¯¸) |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | HiveMind (ì§‘ë‹¨ ì§€ì„±ì„ ë°œíœ˜í•˜ëŠ” íŒ€ í˜‘ì—… ê³µê°„) |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | 1. Surprise (Collaborative Filtering) â†’ í˜‘ì—… í•„í„°ë§ ê¸°ë°˜ ì¶”ì²œ ì‹œìŠ¤í…œ êµ¬í˜„<br>2. spaCy (NLP Processing) â†’ ì‚¬ìš©ìžì˜ ê´€ì‹¬ì‚¬ ë° ì§„ë¡œ ëª©í‘œ ë¶„ì„<br>3. Google Calendar API â†’ ì„ ë°°-í›„ë°° ì¼ì • ë™ê¸°í™”<br>4. LinkedIn Open Data â†’ ì‹¤ì œ ì—…ê³„ ì¢…ì‚¬ìžì˜ ì»¤ë¦¬ì–´ ë°ì´í„° í™œìš© ê°€ëŠ¥<br>5. LangChain (LLM Integration) â†’ GPT ê¸°ë°˜ ì§„ë¡œ ì¶”ì²œ ë° ì„ ë°° Q&A ìžë™í™” |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 9
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | ±¸¸£¹Ì |
-| Å°¿öµå | Å¬¶ó¿ìµå, ºí·ÏÃ¼ÀÎ, ³×Æ®¿öÅ© |
-| ±â¼úÅ°¿öµå | Å¬¶ó¿ìµå, ºí·ÏÃ¼ÀÎ, ³×Æ®¿öÅ© |
-| ÇÁ·ÎÁ§Æ®¸í | ¹ÂÃß¾óÅ¬¶ó¿ìµå : ÀüÁö±¸Àû ÀÚ¿øÀÇ Å½»ö ¹× ºÐ±ÇÇü °ü¸®ÀÇ ÇÊ¿ä¼º |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | ¹ÝÈ¿°æ ±³¼ö´Ô |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://github.com/nextcloud/server<br><br> |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | êµ¬ë¥´ë¯¸ |
+| í‚¤ì›Œë“œ | í´ë¼ìš°ë“œ, ë¸”ë¡ì²´ì¸, ë„¤íŠ¸ì›Œí¬ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | í´ë¼ìš°ë“œ, ë¸”ë¡ì²´ì¸, ë„¤íŠ¸ì›Œí¬ |
+| í”„ë¡œì íŠ¸ëª… | ë®¤ì¶”ì–¼í´ë¼ìš°ë“œ : ì „ì§€êµ¬ì  ìžì›ì˜ íƒìƒ‰ ë° ë¶„ê¶Œí˜• ê´€ë¦¬ì˜ í•„ìš”ì„± |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | ë°˜íš¨ê²½ êµìˆ˜ë‹˜ |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://github.com/nextcloud/server<br><br> |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 11
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | DevEwha |
-| Å°¿öµå | AI ¸ðµ¨ ¹èÆ÷ ¹× ¼­ºù / MLOps ÆÄÀÌÇÁ¶óÀÎ / ½Ç½Ã°£ ¸ðµ¨ Ãß·Ð |
-| ±â¼úÅ°¿öµå | Docker / Kubernetes / CI/CD |
-| ÇÁ·ÎÁ§Æ®¸í | ÄÁÅ×ÀÌ³Ê ±â¹Ý AI ¿öÅ©ÇÃ·Î¿ì ÆÄÀÌÇÁ¶óÀÎ ÃÖÀûÈ­ (CI/CD, MLOps °üÁ¡) |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | AIOpsLab |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | Docker<br>Kubernetes<br>Kubeflow<br>TensorFlow Extended (TFX) |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | DevEwha |
+| í‚¤ì›Œë“œ | AI ëª¨ë¸ ë°°í¬ ë° ì„œë¹™ / MLOps íŒŒì´í”„ë¼ì¸ / ì‹¤ì‹œê°„ ëª¨ë¸ ì¶”ë¡  |
+| ê¸°ìˆ í‚¤ì›Œë“œ | Docker / Kubernetes / CI/CD |
+| í”„ë¡œì íŠ¸ëª… | ì»¨í…Œì´ë„ˆ ê¸°ë°˜ AI ì›Œí¬í”Œë¡œìš° íŒŒì´í”„ë¼ì¸ ìµœì í™” (CI/CD, MLOps ê´€ì ) |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | AIOpsLab |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | Docker<br>Kubernetes<br>Kubeflow<br>TensorFlow Extended (TFX) |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 12
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | ³»°¡±×¸° |
-| Å°¿öµå | IT È¯°æ ÃÖÀûÈ­, µ¥ÀÌÅÍ Áö¼Ó°¡´É¼º, »ç¿ëÀÚ ¸ÂÃã ÀÎ½Ä °³¼± |
-| ±â¼úÅ°¿öµå | Å¬¶ó¿ìµå AI, µ¥ÀÌÅÍº£ÀÌ½º, Æ®·¡ÇÈ ºÐ¼® |
-| ÇÁ·ÎÁ§Æ®¸í | Å¬¶ó¿ìµå AI¸¦ È°¿ëÇÏ¿© »ç¿ëÀÚ µ¥ÀÌÅÍ¿Í Æ®·¡ÇÈ ºÐ¼®À» ÅëÇØ IT È¯°æ ÃÖÀûÈ­¸¦ ¸ñÀûÀ¸·Î ÇÏ´Â ÇÁ·Î±×·¥ |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | (¹ÌÁ¤) |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | GPT-4o : https://chatgpt.com/<br>React : https://ko.legacy.reactjs.org/<br>mySQL : https://www.mysql.com/ |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ë‚´ê°€ê·¸ë¦° |
+| í‚¤ì›Œë“œ | IT í™˜ê²½ ìµœì í™”, ë°ì´í„° ì§€ì†ê°€ëŠ¥ì„±, ì‚¬ìš©ìž ë§žì¶¤ ì¸ì‹ ê°œì„  |
+| ê¸°ìˆ í‚¤ì›Œë“œ | í´ë¼ìš°ë“œ AI, ë°ì´í„°ë² ì´ìŠ¤, íŠ¸ëž˜í”½ ë¶„ì„ |
+| í”„ë¡œì íŠ¸ëª… | í´ë¼ìš°ë“œ AIë¥¼ í™œìš©í•˜ì—¬ ì‚¬ìš©ìž ë°ì´í„°ì™€ íŠ¸ëž˜í”½ ë¶„ì„ì„ í†µí•´ IT í™˜ê²½ ìµœì í™”ë¥¼ ëª©ì ìœ¼ë¡œ í•˜ëŠ” í”„ë¡œê·¸ëž¨ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | (ë¯¸ì •) |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | GPT-4o : https://chatgpt.com/<br>React : https://ko.legacy.reactjs.org/<br>mySQL : https://www.mysql.com/ |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 13
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | e½ÃÅ© |
-| Å°¿öµå | °ø±Þ¸Á °ü¸®, ¼ö¿ä¿¹Ãø, Àç°í°ü¸® |
-| ±â¼úÅ°¿öµå | ÀÎ°øÁö´É, ¸ÖÆ¼ ¸ð´Þ, µ¥ÀÌÅÍ ÇÐ½À |
-| ÇÁ·ÎÁ§Æ®¸í | ¸ÖÆ¼ ¸ð´Þ µ¥ÀÌÅÍ ÇÐ½ÀÀ» ÀÌ¿ëÇÑ ¼ö¿ä ¿¹Ãøµµ Çâ»ó  |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | e½ÃÅ© ¼ö¿ä ¿¹Ãø |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0016627586 |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | eì‹œí¬ |
+| í‚¤ì›Œë“œ | ê³µê¸‰ë§ ê´€ë¦¬, ìˆ˜ìš”ì˜ˆì¸¡, ìž¬ê³ ê´€ë¦¬ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | ì¸ê³µì§€ëŠ¥, ë©€í‹° ëª¨ë‹¬, ë°ì´í„° í•™ìŠµ |
+| í”„ë¡œì íŠ¸ëª… | ë©€í‹° ëª¨ë‹¬ ë°ì´í„° í•™ìŠµì„ ì´ìš©í•œ ìˆ˜ìš” ì˜ˆì¸¡ë„ í–¥ìƒ  |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | eì‹œí¬ ìˆ˜ìš” ì˜ˆì¸¡ |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0016627586 |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 14
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | team329 |
-| Å°¿öµå | ai, ¿¬±¸, ¿¬ÇÕÇÐ½À |
-| ±â¼úÅ°¿öµå | multi-modality, clustering, cross-attention |
-| ÇÁ·ÎÁ§Æ®¸í | Overcoming Missing Modalities with Clustering: A Cross-Attention and Federated Learning Approach |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | team329 (¿¬±¸Æ®·¢ÀÌ¶ó ÆÀ¸íÀ¸·Î ´ëÃ¼ÇÕ´Ï´Ù) |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://github.com/huggingface/transformers.git<br>https://chatgpt.com/ |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | team329 |
+| í‚¤ì›Œë“œ | ai, ì—°êµ¬, ì—°í•©í•™ìŠµ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | multi-modality, clustering, cross-attention |
+| í”„ë¡œì íŠ¸ëª… | Overcoming Missing Modalities with Clustering: A Cross-Attention and Federated Learning Approach |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | team329 (ì—°êµ¬íŠ¸ëž™ì´ë¼ íŒ€ëª…ìœ¼ë¡œ ëŒ€ì²´í•©ë‹ˆë‹¤) |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://github.com/huggingface/transformers.git<br>https://chatgpt.com/ |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 15
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | GRAD |
-| Å°¿öµå | ÀÏÁ¤°ü¸®, °³ÀÎ¸ÂÃã ¼­ºñ½º,  |
-| ±â¼úÅ°¿öµå | »ý¼ºÇü AI, MySQL, React |
-| ÇÁ·ÎÁ§Æ®¸í | ÀÏÁ¤ °ü¸®°¡ ¾î·Á¿î »ç¶÷µéÀ» À§ÇÑ °³ÀÎ ¸ÂÃã ´ëÇÐ »ýÈ° AI ºñ¼­ |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | À§µå¹Ì |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | »ý¼ºÇü AI API OpenAI GPT API(GPT-4o mini) https://chatgpt.com/ |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | GRAD |
+| í‚¤ì›Œë“œ | ì¼ì •ê´€ë¦¬, ê°œì¸ë§žì¶¤ ì„œë¹„ìŠ¤,  |
+| ê¸°ìˆ í‚¤ì›Œë“œ | ìƒì„±í˜• AI, MySQL, React |
+| í”„ë¡œì íŠ¸ëª… | ì¼ì • ê´€ë¦¬ê°€ ì–´ë ¤ìš´ ì‚¬ëžŒë“¤ì„ ìœ„í•œ ê°œì¸ ë§žì¶¤ ëŒ€í•™ ìƒí™œ AI ë¹„ì„œ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | ìœ„ë“œë¯¸ |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | ìƒì„±í˜• AI API OpenAI GPT API(GPT-4o mini) https://chatgpt.com/ |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 16
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | ¹è²É¿£µù |
-| Å°¿öµå | °è¾à¼­ ºÐ¼®, ³»¿ë ¿ä¾à, Àü¹® ¿ë¾î ÇØ¼³ |
-| ±â¼úÅ°¿öµå | ÀÚ¿¬¾î Ã³¸®(NLP), AI, ¸ÂÃã ÇÐ½À |
-| ÇÁ·ÎÁ§Æ®¸í | AI ±â¹Ý ¹®¼­ ºÐ¼® ±â¼úÀ» ÅëÇØ °è¾à¼­ÀÇ Áß¿äÇÑ Á¶Ç×À» ÀÚµ¿ ÃßÃâÇÏ°í, »ç¿ëÀÚ°¡ ½±°Ô ÀÌÇØÇÒ ¼ö ÀÖµµ·Ï Á¦°øÇÏ´Â ¼­ºñ½º |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | DocSense |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | ÀÚ¿¬¾î Ã³¸®(NLP) - NLTK (https://www.nltk.org/)<br>AI - LexNLP (https://github.com/LexPredict/lexpredict-lexnlp)<br>¸ÂÃã ÇÐ½À - RAG |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ë°°ê½ƒì—”ë”© |
+| í‚¤ì›Œë“œ | ê³„ì•½ì„œ ë¶„ì„, ë‚´ìš© ìš”ì•½, ì „ë¬¸ ìš©ì–´ í•´ì„¤ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | ìžì—°ì–´ ì²˜ë¦¬(NLP), AI, ë§žì¶¤ í•™ìŠµ |
+| í”„ë¡œì íŠ¸ëª… | AI ê¸°ë°˜ ë¬¸ì„œ ë¶„ì„ ê¸°ìˆ ì„ í†µí•´ ê³„ì•½ì„œì˜ ì¤‘ìš”í•œ ì¡°í•­ì„ ìžë™ ì¶”ì¶œí•˜ê³ , ì‚¬ìš©ìžê°€ ì‰½ê²Œ ì´í•´í•  ìˆ˜ ìžˆë„ë¡ ì œê³µí•˜ëŠ” ì„œë¹„ìŠ¤ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | DocSense |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | ìžì—°ì–´ ì²˜ë¦¬(NLP) - NLTK (https://www.nltk.org/)<br>AI - LexNLP (https://github.com/LexPredict/lexpredict-lexnlp)<br>ë§žì¶¤ í•™ìŠµ - RAG |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 17
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | ±×¸°µ¥ºô |
-| Å°¿öµå | (¿¬±¸ Æ®·¢)º¸¾È, °³ÀÎÁ¤º¸, ¸ðµ¨ ºñ±³ |
-| ±â¼úÅ°¿öµå | ¿§ÁöAI, ¿¬ÇÕ ÇÐ½À, ·ÎÄÃ/±Û·Î¹ú ¸ðµ¨ |
-| ÇÁ·ÎÁ§Æ®¸í | ¿¬ÇÕ ÇÐ½À(Federated Learning) È¯°æ¿¡¼­ ÀÌÁúÀûÀÎ µ¥ÀÌÅÍ ÇÐ½ÀÀ» ÅëÇØ ·ÎÄÃ¿¡ Æ¯È­µÈ ÇÐ½À ¸ðµ¨°ú ÀÏ¹ÝÀûÀÎ Ãß·ÐÀ» À§ÇÑ ÇÐ½À ¸ðµ¨ ºñ±³ |
-| ÇÁ·ÎÁ§Æ® ºê·£µå |  |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | NVIDIA FLARE https://nvflare.readthedocs.io/en/main/flare_overview.html<br>FLOWER https://flower.ai/docs/framework/tutorial-series-get-started-with-flower-pytorch.html<br>Substra https://github.com/Substra/substra/tree/main/docs |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ê·¸ë¦°ë°ë¹Œ |
+| í‚¤ì›Œë“œ | (ì—°êµ¬ íŠ¸ëž™)ë³´ì•ˆ, ê°œì¸ì •ë³´, ëª¨ë¸ ë¹„êµ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | ì—£ì§€AI, ì—°í•© í•™ìŠµ, ë¡œì»¬/ê¸€ë¡œë²Œ ëª¨ë¸ |
+| í”„ë¡œì íŠ¸ëª… | ì—°í•© í•™ìŠµ(Federated Learning) í™˜ê²½ì—ì„œ ì´ì§ˆì ì¸ ë°ì´í„° í•™ìŠµì„ í†µí•´ ë¡œì»¬ì— íŠ¹í™”ëœ í•™ìŠµ ëª¨ë¸ê³¼ ì¼ë°˜ì ì¸ ì¶”ë¡ ì„ ìœ„í•œ í•™ìŠµ ëª¨ë¸ ë¹„êµ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ |  |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | NVIDIA FLARE https://nvflare.readthedocs.io/en/main/flare_overview.html<br>FLOWER https://flower.ai/docs/framework/tutorial-series-get-started-with-flower-pytorch.html<br>Substra https://github.com/Substra/substra/tree/main/docs |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 18
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | ÄÚµå¸¸µÎ(Code ¸¸ Do!) |
-| Å°¿öµå | ±â¾÷ ¸ÂÃãÇü ÀÎÀç ÃßÃµ / ±¸Á÷ÀÚ & Ã¤¿ëÀÚ ³×Æ®¿öÅ· / ÀÌ·Â¼­ Æò°¡ & ÇÇµå¹é |
-| ±â¼úÅ°¿öµå | GPT-4 / OpenAI API / Google Jobs API  |
-| ÇÁ·ÎÁ§Æ®¸í | Ã¤¿ë µ¥ÀÌÅÍ ºÐ¼®°ú ÀÚ¿¬¾î Ã³¸® ±â¼úÀ» È°¿ëÇÏ¿© ÀÌ·Â¼­ ¹®ÀåÀ» ÃÖÀûÈ­ÇÏ°í ±¸Á÷ÀÚ¿Í ±â¾÷À» ÀÚµ¿À¸·Î ¿¬°áÇØÁÖ´Â AI ±â¹Ý Ã¤¿ë Áö¿ø ÇÃ·§Æû |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | JobBridge |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://platform.openai.com/docs/guides/gpt<br>https://github.com/saadq/resumake<br>https://github.com/mozilla/pdf.js<br>https://github.com/UKPLab/sentence-transformers<br>https://github.com/deepset-ai/haystack |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ì½”ë“œë§Œë‘(Code ë§Œ Do!) |
+| í‚¤ì›Œë“œ | ê¸°ì—… ë§žì¶¤í˜• ì¸ìž¬ ì¶”ì²œ / êµ¬ì§ìž & ì±„ìš©ìž ë„¤íŠ¸ì›Œí‚¹ / ì´ë ¥ì„œ í‰ê°€ & í”¼ë“œë°± |
+| ê¸°ìˆ í‚¤ì›Œë“œ | GPT-4 / OpenAI API / Google Jobs API  |
+| í”„ë¡œì íŠ¸ëª… | ì±„ìš© ë°ì´í„° ë¶„ì„ê³¼ ìžì—°ì–´ ì²˜ë¦¬ ê¸°ìˆ ì„ í™œìš©í•˜ì—¬ ì´ë ¥ì„œ ë¬¸ìž¥ì„ ìµœì í™”í•˜ê³  êµ¬ì§ìžì™€ ê¸°ì—…ì„ ìžë™ìœ¼ë¡œ ì—°ê²°í•´ì£¼ëŠ” AI ê¸°ë°˜ ì±„ìš© ì§€ì› í”Œëž«í¼ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | JobBridge |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://platform.openai.com/docs/guides/gpt<br>https://github.com/saadq/resumake<br>https://github.com/mozilla/pdf.js<br>https://github.com/UKPLab/sentence-transformers<br>https://github.com/deepset-ai/haystack |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 19
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | TÆÄ´Ï |
-| Å°¿öµå | ÆÐ¼Ç, ¼îÇÎ¸ô, °Ë»ö  |
-| ±â¼úÅ°¿öµå | ÀÌ¹ÌÁöÃ³¸®, ÃßÃµ ¾Ë°í¸®Áò, ÀÚµ¿¹èÆ÷  |
-| ÇÁ·ÎÁ§Æ®¸í | ÀÌ¹ÌÁö ±â¹Ý »óÇ° °Ë»ö ¹× ÃßÃµ  |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | ÇÍ¼­Ä¡ |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | React Native: https://reactnative.dev<br>springboot: https://spring.io/projects/spring-boot<br>mysql: https://www.mysql.com<br>docker: https://www.docker.com |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | TíŒŒë‹ˆ |
+| í‚¤ì›Œë“œ | íŒ¨ì…˜, ì‡¼í•‘ëª°, ê²€ìƒ‰  |
+| ê¸°ìˆ í‚¤ì›Œë“œ | ì´ë¯¸ì§€ì²˜ë¦¬, ì¶”ì²œ ì•Œê³ ë¦¬ì¦˜, ìžë™ë°°í¬  |
+| í”„ë¡œì íŠ¸ëª… | ì´ë¯¸ì§€ ê¸°ë°˜ ìƒí’ˆ ê²€ìƒ‰ ë° ì¶”ì²œ  |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | í•ì„œì¹˜ |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | React Native: https://reactnative.dev<br>springboot: https://spring.io/projects/spring-boot<br>mysql: https://www.mysql.com<br>docker: https://www.docker.com |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 20
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | ½ºÄ«ÀÌÈ­ |
-| Å°¿öµå | ÀÛÇ° ÇØ¼³, ÀÌ¹ÌÁö ÀÎ½Ä, ¿¬°ü ÀÛÇ° ÃßÃµ ¼­ºñ½º |
-| ±â¼úÅ°¿öµå | ÇÃ·¯ÅÍ, ½ºÇÁ¸µ, CLIP |
-| ÇÁ·ÎÁ§Æ®¸í | AI ±â¹Ý ¿¹¼ú ÀÛÇ° ÇØ¼³ ¼­ºñ½º |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | ³» ¼Õ ¾ÈÀÇ Å¥·¹ÀÌÅÍ |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://github.com/openai/CLIP |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ìŠ¤ì¹´ì´í™” |
+| í‚¤ì›Œë“œ | ìž‘í’ˆ í•´ì„¤, ì´ë¯¸ì§€ ì¸ì‹, ì—°ê´€ ìž‘í’ˆ ì¶”ì²œ ì„œë¹„ìŠ¤ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | í”ŒëŸ¬í„°, ìŠ¤í”„ë§, CLIP |
+| í”„ë¡œì íŠ¸ëª… | AI ê¸°ë°˜ ì˜ˆìˆ  ìž‘í’ˆ í•´ì„¤ ì„œë¹„ìŠ¤ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | ë‚´ ì† ì•ˆì˜ íë ˆì´í„° |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://github.com/openai/CLIP |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 21
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | Åõ¾Ö´Ï¿ø |
-| Å°¿öµå | ¿µÀ¯¾Æ ±âÃÊ ±³À°, Á¤¼­ Áö¿ø, AIÄ£±¸ |
-| ±â¼úÅ°¿öµå | Android, Spring, DALL-E |
-| ÇÁ·ÎÁ§Æ®¸í | BuddyEdu: ¿µÀ¯¾Æ¸¦ À§ÇÑ Á¤¼­ Áö¿ø ¹× ±âÃÊ ±³À° ÇÁ·Î±×·¥ |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | BuddyEdu |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://i-nuri.go.kr/main/board/index.do?manage_idx=97&menu_idx=246<br>starfall.com<br>moodle.org |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | íˆ¬ì• ë‹ˆì› |
+| í‚¤ì›Œë“œ | ì˜ìœ ì•„ ê¸°ì´ˆ êµìœ¡, ì •ì„œ ì§€ì›, AIì¹œêµ¬ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | Android, Spring, DALL-E |
+| í”„ë¡œì íŠ¸ëª… | BuddyEdu: ì˜ìœ ì•„ë¥¼ ìœ„í•œ ì •ì„œ ì§€ì› ë° ê¸°ì´ˆ êµìœ¡ í”„ë¡œê·¸ëž¨ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | BuddyEdu |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://i-nuri.go.kr/main/board/index.do?manage_idx=97&menu_idx=246<br>starfall.com<br>moodle.org |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 22
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | Å¥¸®È£½º(Curihous) |
-| Å°¿öµå | ÄöÆ® ÅõÀÚ, ÀÚµ¿ ¸Å¸Å, Æ÷Æ®Æú¸®¿À °ü¸® |
-| ±â¼úÅ°¿öµå | Spring Boot, React, Python |
-| ÇÁ·ÎÁ§Æ®¸í | ÄöÆ® ±â¹Ý ¾Ë°í¸®Áò ÅõÀÚ ÀÚµ¿È­ ¼­ºñ½º |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | ½ºÆÄÀÌÄÚ |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://github.com/quantconnect/Lean |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | íë¦¬í˜¸ìŠ¤(Curihous) |
+| í‚¤ì›Œë“œ | í€€íŠ¸ íˆ¬ìž, ìžë™ ë§¤ë§¤, í¬íŠ¸í´ë¦¬ì˜¤ ê´€ë¦¬ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | Spring Boot, React, Python |
+| í”„ë¡œì íŠ¸ëª… | í€€íŠ¸ ê¸°ë°˜ ì•Œê³ ë¦¬ì¦˜ íˆ¬ìž ìžë™í™” ì„œë¹„ìŠ¤ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | ìŠ¤íŒŒì´ì½” |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://github.com/quantconnect/Lean |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 24
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | °­¹è¿ì |
-| Å°¿öµå | AI ÃßÃµ, ¸ÂÃãÇü ¿©Çà, °£ÆíÇÑ °èÈ¹ |
-| ±â¼úÅ°¿öµå | ¸Ó½Å·¯´×, µ¥ÀÌÅÍ ºÐ¼®, À¥ ¾îÇÃ¸®ÄÉÀÌ¼Ç |
-| ÇÁ·ÎÁ§Æ®¸í | AI¸¦ ±â¹ÝÀ¸·Î ÇÏ¿© »ç¿ëÀÚÀÇ °¡¿ë ½Ã°£ ¹× ¿¹»êÀ» °í·ÁÇÏ¿© ¿©Çà ÀÏÁ¤À» ÃßÃµÇØÁÖ´Â ¼­ºñ½º |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | OTK |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://developers.google.com/maps?hl=ko |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ê°•ë°°ìš° |
+| í‚¤ì›Œë“œ | AI ì¶”ì²œ, ë§žì¶¤í˜• ì—¬í–‰, ê°„íŽ¸í•œ ê³„íš |
+| ê¸°ìˆ í‚¤ì›Œë“œ | ë¨¸ì‹ ëŸ¬ë‹, ë°ì´í„° ë¶„ì„, ì›¹ ì–´í”Œë¦¬ì¼€ì´ì…˜ |
+| í”„ë¡œì íŠ¸ëª… | AIë¥¼ ê¸°ë°˜ìœ¼ë¡œ í•˜ì—¬ ì‚¬ìš©ìžì˜ ê°€ìš© ì‹œê°„ ë° ì˜ˆì‚°ì„ ê³ ë ¤í•˜ì—¬ ì—¬í–‰ ì¼ì •ì„ ì¶”ì²œí•´ì£¼ëŠ” ì„œë¹„ìŠ¤ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | OTK |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://developers.google.com/maps?hl=ko |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 25
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | Ä¡Å²¸Ô±â |
-| Å°¿öµå | ±ÝÀ¶, ÃßÃµ½Ã½ºÅÛ, AI |
-| ±â¼úÅ°¿öµå | ¸®¾×Æ®, ½ºÇÁ¸µºÎÆ®, µµÄ¿ |
-| ÇÁ·ÎÁ§Æ®¸í | °ø¸ðÁÖ ÃßÃµ |
-| ÇÁ·ÎÁ§Æ® ºê·£µå |  |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://github.com/tensorflow/tensorflow (TensorFlow)<br>https://github.com/plotly/dash (µ¥ÀÌÅÍ ½Ã°¢È­)<br> https://github.com/mrjbq7/ta-lib (TA-Lib)<br> https://github.com/pmorissette/ffn (Ffn) |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ì¹˜í‚¨ë¨¹ê¸° |
+| í‚¤ì›Œë“œ | ê¸ˆìœµ, ì¶”ì²œì‹œìŠ¤í…œ, AI |
+| ê¸°ìˆ í‚¤ì›Œë“œ | ë¦¬ì•¡íŠ¸, ìŠ¤í”„ë§ë¶€íŠ¸, ë„ì»¤ |
+| í”„ë¡œì íŠ¸ëª… | ê³µëª¨ì£¼ ì¶”ì²œ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ |  |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://github.com/tensorflow/tensorflow (TensorFlow)<br>https://github.com/plotly/dash (ë°ì´í„° ì‹œê°í™”)<br> https://github.com/mrjbq7/ta-lib (TA-Lib)<br> https://github.com/pmorissette/ffn (Ffn) |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 27
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | ¿ë¿ë |
-| Å°¿öµå | AI, ±ÝÀ¶, º¸¾È |
-| ±â¼úÅ°¿öµå | ÀÌÁß¼­¸í, TSS,  MPC |
-| ÇÁ·ÎÁ§Æ®¸í | AI¸¦ ±â¹ÝÀ¸·Î »ç¿ëÀÚ°¡ º¸À¯ÇÑ °¡»óÈ­Æó¸¦ ÇØÄ¿·ÎºÎÅÍ º¸È£ÇÏ±â À§ÇØ ÀÌÁß º¸¾È Ã¼°è¸¦ Àû¿ëÇÏ´Â Áö°© ¼Ö·ç¼Ç |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | Virtual Wallet |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | https://github.com/safe-global/safe-smart-account<br>https://docs.aws.amazon.com/kms/latest/developerguide/overview.html |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | ìš©ìš© |
+| í‚¤ì›Œë“œ | AI, ê¸ˆìœµ, ë³´ì•ˆ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | ì´ì¤‘ì„œëª…, TSS,  MPC |
+| í”„ë¡œì íŠ¸ëª… | AIë¥¼ ê¸°ë°˜ìœ¼ë¡œ ì‚¬ìš©ìžê°€ ë³´ìœ í•œ ê°€ìƒí™”íë¥¼ í•´ì»¤ë¡œë¶€í„° ë³´í˜¸í•˜ê¸° ìœ„í•´ ì´ì¤‘ ë³´ì•ˆ ì²´ê³„ë¥¼ ì ìš©í•˜ëŠ” ì§€ê°‘ ì†”ë£¨ì…˜ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | Virtual Wallet |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | https://github.com/safe-global/safe-smart-account<br>https://docs.aws.amazon.com/kms/latest/developerguide/overview.html |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
 ## Team 28
-|Ç×¸ñ|³»¿ë|
+|í•­ëª©|ë‚´ìš©|
 |---|---|
-| ÆÀ¸íÄª | e½ºÅ¸Æ® |
-| Å°¿öµå | ±ÝÀ¶, ¼Òºñ ºÐ¼®, °ú¼Òºñ ¹æÁö |
-| ±â¼úÅ°¿öµå | OCR, AI, µ¥ÀÌÅÍºÐ¼® |
-| ÇÁ·ÎÁ§Æ®¸í | OCR°ú AI¸¦ È°¿ëÇÑ 20´ëÀÇ °ú¼Òºñ ¹æÁö¸¦ À§ÇÑ ¼Òºñ ÆÐÅÏ ºÐ¼® ¹× ¼Òºñ ½À°ü ÄÚÄª ¼­ºñ½º |
-| ÇÁ·ÎÁ§Æ® ºê·£µå | TETS (Too Easy to Spend) |
-| »ç¿ëÇÒ ¼ÒÇÁÆ®¿þ¾î | [Matplotlib] https://matplotlib.org/<br>]Teseract OCR] https://github.com/tesseract-ocr/tesseract |
-|¸¸µé°íÀÚ ÇÏ´Â °Í||
-|ÆÀ±×¶ó¿îµå·ê||
-|ÃÖÁ¾¼öÁ¤ÀÏ||
+| íŒ€ëª…ì¹­ | eìŠ¤íƒ€íŠ¸ |
+| í‚¤ì›Œë“œ | ê¸ˆìœµ, ì†Œë¹„ ë¶„ì„, ê³¼ì†Œë¹„ ë°©ì§€ |
+| ê¸°ìˆ í‚¤ì›Œë“œ | OCR, AI, ë°ì´í„°ë¶„ì„ |
+| í”„ë¡œì íŠ¸ëª… | OCRê³¼ AIë¥¼ í™œìš©í•œ 20ëŒ€ì˜ ê³¼ì†Œë¹„ ë°©ì§€ë¥¼ ìœ„í•œ ì†Œë¹„ íŒ¨í„´ ë¶„ì„ ë° ì†Œë¹„ ìŠµê´€ ì½”ì¹­ ì„œë¹„ìŠ¤ |
+| í”„ë¡œì íŠ¸ ë¸Œëžœë“œ | TETS (Too Easy to Spend) |
+| ì‚¬ìš©í•  ì†Œí”„íŠ¸ì›¨ì–´ | [Matplotlib] https://matplotlib.org/<br>]Teseract OCR] https://github.com/tesseract-ocr/tesseract |
+|ë§Œë“¤ê³ ìž í•˜ëŠ” ê²ƒ||
+|íŒ€ê·¸ë¼ìš´ë“œë£°||
+|ìµœì¢…ìˆ˜ì •ì¼||
 
-  [Return Top](#2025-Spring-ÀüÃ¼-ÇÁ·ÎÁ§Æ®-¸®½ºÆ®)
+  [Return Top](#2025-Spring-ì „ì²´-í”„ë¡œì íŠ¸-ë¦¬ìŠ¤íŠ¸)
