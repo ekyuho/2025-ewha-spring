@@ -276,6 +276,21 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에
 |팀그라운드룰||
 |최종수정일||
 
+[Return Top](#2025-Spring-전체-프로젝트-리스트)
+## Team 23
+|항목|내용|
+|---|---|
+| 팀명칭 | 졸업하고 싶조|
+| 키워드 | AI, image recognition, text-to-speech |
+| 기술키워드 |  |
+| 프로젝트명 |  약 봉투를 사진 찍어서 업로드하면 약 정보를 알려주는 복약지도 서비스  |
+| 프로젝트 브랜드 |  YagInfo |
+| 사용할 소프트웨어 |  |
+|만들고자 하는 것| App|
+|팀그라운드룰|https://github.com/lailim200/YagInfo/blob/9e7b53bd65082b721a89a4dc92b59efc5ed7b86e/GroundRules.MD|
+|최종수정일|10.05.2025|
+
+
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 24
 |항목|내용|
