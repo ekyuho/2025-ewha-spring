@@ -229,9 +229,10 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에
 | 프로젝트명 | 이미지 기반 상품 검색 및 추천  |
 | 프로젝트 브랜드 | 핏서치 |
 | 사용할 소프트웨어 | React Native: https://reactnative.dev<br>springboot: https://spring.io/projects/spring-boot<br>mysql: https://www.mysql.com<br>docker: https://www.docker.com |
-|만들고자 하는 것||
-|팀그라운드룰||
-|최종수정일||
+|만들고자 하는 것|옷 매칭에 어려움을 겪는 2030 이 본인이 가지고 있는 패션 아이템을 업로드하면, 다양한 코디 이미지를 학습시킨 AI 를 기반으로 그와 매치되는 아이템을 추천해주는 맞춤형 서비스|
+|팀그라운드룰|https://github.com/TEAM-FITSEARCH/BACK/blob/main/GroundRule.MD|
+|최종수정일|2025.03.10|
+
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 20
