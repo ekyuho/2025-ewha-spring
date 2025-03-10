@@ -35,7 +35,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에
 | 사용할 소프트웨어 | https://github.com/openai/whisper<br>https://www.openstreetmap.org/<br>https://t-data.seoul.go.kr/ |
 |만들고자 하는 것| 교통약자를 위한 음성 안내 서비스와 지도 GPS를 활용하여 최적화된 경로를 추천해주는 웹/앱 서비스입니다. |
 |팀그라운드룰| https://github.com/Team-NoPainNoGain/NoPainNoGain/blob/main/GroundRule.md |
-|최종수정일||
+|최종수정일| 2025.03.10 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 4
