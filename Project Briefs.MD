@@ -188,7 +188,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에
 | 프로젝트 브랜드 | DocSense |
 | 사용할 소프트웨어 | 자연어 처리(NLP) - NLTK (https://www.nltk.org/)<br>AI - LexNLP (https://github.com/LexPredict/lexpredict-lexnlp)<br>맞춤 학습 - RAG |
 |만들고자 하는 것| AI 기반 문서 분석 기술을 활용해 계약서의 중요한 조항을 자동 추출하고, 사회초년생·프리랜서·소상공인 등이 복잡한 법률 용어 없이 핵심 내용을 쉽게 이해할 수 있도록 돕는 서비스 |
-|팀그라운드룰||
+|팀그라운드룰| https://github.com/sunny5374/2025-ewha-spring/blob/main/GroundRule.MD |
 |최종수정일| 2025-03-10 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
