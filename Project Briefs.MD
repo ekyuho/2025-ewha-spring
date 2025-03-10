@@ -131,9 +131,9 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에
 | 프로젝트명 | 클라우드 AI를 활용하여 사용자 데이터와 트래픽 분석을 통해 IT 환경 최적화를 목적으로 하는 프로그램 |
 | 프로젝트 브랜드 | (미정) |
 | 사용할 소프트웨어 | GPT-4o : https://chatgpt.com/<br>React : https://ko.legacy.reactjs.org/<br>mySQL : https://www.mysql.com/ |
-|만들고자 하는 것||
-|팀그라운드룰||
-|최종수정일||
+| 만들고자 하는 것 | 인터넷 헤비유저에게 불필요한 디지털 환경오염을 줄이기 위한 방법을 실생활에서 제시해주어 경각심을 자극해주는 프로그램이다. 이는 클라우드 AI를 활용하여 친환경 IT 환경을 지향하고, 디지털 웨이스트를 정리해 데이터 및 인터넷 환경을 최적화하는 것을 목적으로 한다. |
+| 팀그라운드룰 | https://github.com/CAPSTONEEEEE/project-repo/blob/main/GroundRule.MD |
+| 최종수정일 | 2025.03.10 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 13
