@@ -13,7 +13,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에
 | [9](#team-9) | 구르미 | 소규모 AI 연구자를 위한 HPC2 기반 QoS-aware 스케줄링 기법 | CloudOptAI |
 | [10](#team-10) | 2ys | Secure and Energy-Efficient Resource Optimization Framework for Real-time Task Execution in Industrial IoT | Secure IIOT |
 | [11](#team-11) | DevEwha | 컨테이너 기반 AI 워크플로우 파이프라인 최적화 (CI/CD, MLOps 관점) | AIOpsLab |
-| [12](#team-12) | 내가그린 | 클라우드 AI를 활용하여 사용자 데이터와 트래픽 분석을 통해 IT 환경 최적화를 목적으로 하는 프로그램 | (미정) |
+| [12](#team-12) | 내가그린 | 클라우드 AI를 활용하여 사용자 데이터와 트래픽 분석을 통해 IT 환경 최적화를 목적으로 하는 프로그램 | CleanCloud |
 | [13](#team-13) | e시크 | 멀티 모달 데이터 학습을 이용한 수요 예측도 향상  | e시크 수요 예측 |
 | [14](#team-14) | team329 | Overcoming Missing Modalities with Clustering: A Cross-Attention and Federated Learning Approach | team329 (연구트랙이라 팀명으로 대체합니다) |
 | [15](#team-15) | GRAD | 일정 관리가 어려운 사람들을 위한 개인 맞춤 대학 생활 AI 비서 | 위드미 |
@@ -151,11 +151,11 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에
 | 키워드 | IT 환경 최적화, 데이터 지속가능성, 사용자 맞춤 인식 개선 |
 | 기술키워드 | 클라우드 AI, 데이터베이스, 트래픽 분석 |
 | 프로젝트명 | 클라우드 AI를 활용하여 사용자 데이터와 트래픽 분석을 통해 IT 환경 최적화를 목적으로 하는 프로그램 |
-| 프로젝트 브랜드 | (미정) |
+| 프로젝트 브랜드 | CleanCloud |
 | 사용할 소프트웨어 | GPT-4o : https://chatgpt.com/<br>React : https://ko.legacy.reactjs.org/<br>mySQL : https://www.mysql.com/ |
 | 만들고자 하는 것 | 인터넷 헤비유저에게 불필요한 디지털 환경오염을 줄이기 위한 방법을 실생활에서 제시해주어 경각심을 자극해주는 프로그램이다. 이는 클라우드 AI를 활용하여 친환경 IT 환경을 지향하고, 디지털 웨이스트를 정리해 데이터 및 인터넷 환경을 최적화하는 것을 목적으로 한다. |
 | 팀그라운드룰 | https://github.com/CAPSTONEEEEE/project-repo/blob/main/GroundRule.MD |
-| 최종수정일 | 2025.03.10 |
+| 최종수정일 | 2025.03.13 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 13
