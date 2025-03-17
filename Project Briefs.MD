@@ -37,13 +37,13 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |프로젝트명|  청각 장애인을 위한 수어-텍스트-음성 변환 비대면 진료 서비스  |
 |프로젝트 키워드|  수어 인식, 비대면 진료, 베리어 프리  |
 |무엇을 만들고자 하는가|  - 수어 인식 AI 모델을 통해, 청각장애인의 수어를 텍스트와 음성으로 변환해주는 비대면 진료 서비스 </br> - AI를 이용한 환자와 의료진 간의 대화내용 요약 |
-|고객|  |
-|Pain Point|  |
-|기술 솔루션 서술|  |
+|고객| 1.**비대면 진료를 희망하는 청각 장애인**  </br> </br> <페르소나> </br> </br> • 이름: 최수현 </br> • 나이: 28세 </br> • 성별: 남성 </br> • 배경: 고향이 부산인 최수현씨는 현재 서울로 내려와 혼자 살고 있다. 병원에 방문하면 주로 수어가 불가능한 의사와 진료를 보게 되어, 메모장에 글을 써 소통해야 하기 때문에 시간이 오래걸려, 비대면 진료를 사용하고 싶지만 비대면 진료 서비스는 음성만을 지원하여 사용할 수가 없다. </br> • 사용자의 요구 </br> -보호자의 동반 없이 혼자서 수어만으로 빠르고 정확한 진료 상담을 받기 원한다. </br> -수어를 이용한 비대면 진료가 가능함을 원한다. </br> -본인의 증상을 정확하게 전달하고, 의사의 설명을 쉽게 이해함을 원한다. </br> </br>2. **청각 장애인과의 원활한 소통을 통한 진료를 희망하는 의사** </br> </br> <페르소나> </br> </br> • 이름: 차수현 </br> • 나이: 48세 </br> • 성별: 여성 </br> • 배경: 15년차 내과 전문의 차현수씨는 정확한 진료로 좋은 평가를 받는 의사이다. 그러나 70대 청각 장애인 환자를 진료하게 되었고 바디 랭귀지, 글을 통한 소통에도 어려움을 느껴 위기에 봉착하였다. </br> • 사용자의 요구 </br> -청각장애인과의 진료 시 별도의 수어 교육 없이 쉽게 사용할 수 있는 진료 수단을 원한다. </br> -청각장애 환자와 원활하게 소통하여 진료 품질을 높이기를 원한다. </br> -청각장애 환자의 증상을 정확히 파악하고, 신속하게 설명할 수 있는 도구를 필요로 한다. |
+|Pain Point| **고객 A(청각장애인 환자)** </br> 대부분의 의료진은 수어를 이해하지 못해 구두가 아닌 문자(필담)로만 증상을 얘기할 수 있어 진료에 오랜 시간이 소요되며 직관적인 증상 표현이 불가하다. 이에 더해  현존 비대면 진료는 대부분 음성통화로 진행되기에 구두가 아닌 문자로밖에 소통이 불가해 개인필력에 따라 정확한 증상을 표현하는 데 어려움을 겪는다. </br></br> **고객 B (의사)** </br> 비대면 진료 시 기존 진료방법인 전화/화상통화만으로는 청각장애인 환자와의 소통이 어려우며 문자를 사용할 시 환자의 필력에 따라 정확한 증상을 습득하기 어려우며 즉각적인 의사소통이 불가하다.|
+|기술 솔루션 서술| 1. **의사 → 청각 장애인 : 음성을 텍스트로 변환 (STT)** </br> - [Naver CLOVA Speech](https://www.ncloud.com/product/aiService/clovaSpeech)</br> - [WebRTC] https://webrtc.org/?hl=ko) / [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) 을 활용하여 실시간 처리 최적화</br> </br> 2. **청각 장애인 → 의사 : 수어를 텍스트로 변환 (MTT)** </br> - [WebRTC](https://webrtc.org/?hl=ko)을 활용하여 실시간 영상 스트리밍 </br>  - 수어 인식 AI 모델 적용 : [MediaPipe](https://github.com/google-ai-edge/mediapipe) 를 통해 손의 3D 키포인트 추출 , [Transformer 기반 모델](https://huggingface.co/)를 통해 연속된 동작 분석 후 텍스트 변환</br> </br>3. **AI 대화 요약 : 진료 후 AI가 전체 대화 내용을 요약하여 환자에게 제공**</br>- [Open AI](https://platform.openai.com/docs/models/gpt-4o) 를 활용하여 대화 요약 생성  |
 |구현기술 키워드|  STT, TTS, mediapipe  |
 |사용할 소프트웨어의 구체적 명세(명칭과 URL)|  TTS: https://www.ncloud.com/product/aiService/clovaDubbing   </br>    MediaPipe: https://www.ncloud.com/product/aiService/clovaDubbing </br> STT: https://www.ncloud.com/product/aiService/clovaSpeech   |
 |팀그라운드룰| https://github.com/Team-NoPainNoGain/NoPainNoGain/blob/main/GroundRule.md |
-|최종수정일|  |
+|최종수정일| 2025-03-17  |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
