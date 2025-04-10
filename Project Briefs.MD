@@ -82,16 +82,16 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 ## Team 7  우주정복 연구젝트 
 |항목|내용|
 |---|---|
-|프로젝트명|   [멀티모달  생성 AI] 멀티 모달리티 학습 환경에서 누락된 모달리티 데이터 생성 연구  |
-|프로젝트 키워드|  Multi-modal AI, Space science data, Missing data optimization, Generative AI  |
-|무엇을 만들고자 하는가|  천문 또는 우주과학 분야에서 수집된 데이터 중 누락 모달리티 생성 연구 |
-|고객| 천문학 연구자, 위성 데이터 분석가, 기상 과학자, 천체 물리학자, 우주 환경 연구자 등 다양한 과학자들은 데이터 기반 연구를 수행하며, 이를 통해 우주 및 지구 환경을 분석하고 예측하는 역할을 합니다. 이들은 고품질의 데이터를 필요로 하지만, 다양한 기술적 한계와 환경적 요인으로 인해 데이터 손실, 오류, 노이즈 등의 문제가 발생합니다.   |
-|Pain Point| 과학 데이터의 신뢰성을 높이는 과정에서 여러 가지 문제가 발생합니다. 천문학 연구자들은 관측 장비의 한계와 환경적 요인으로 인해 결측 데이터가 자주 발생하며, 위성 데이터 분석가들은 위성 센서의 오류 및 데이터 전송 과정에서 발생하는 데이터 손실 문제를 겪습니다. 기상 과학자들은 다양한 센서에서 수집된 데이터가 일관되지 않거나 정확도가 낮아 모델링의 어려움을 겪으며, 천체 물리학자들은 다중 파장 관측 데이터에서 특정 파장의 정보가 손실되는 문제를 해결해야 합니다. 또한, 우주 환경 연구자들은 위성이 실시간으로 수집하는 데이터에서 노이즈와 이상치를 처리하는 데 많은 어려움을 겪고 있습니다. |
-|기술 솔루션 서술| 이러한 문제를 해결하기 위해 AI 및 데이터 분석 기술을 활용한 다양한 솔루션을 적용하고자 합니다. 결측 데이터를 보완하기 위해 멀티모달 AI, 생성형 AI(GAN, VAEs)를 활용하여 손실된 데이터를 복원할 예정입니다. 또한, 센서 오류 및 데이터 불일치 문제를 해결하기 위해 딥러닝 기반 데이터 정규화 및 보정 알고리즘을 도입하여 데이터를 정제하고 일관성을 유지하는 방법을 사용할 것입니다. 구체적으로, 다중 파장 관측에서 누락된 데이터를 예측하기 위해 물리적 모델링과 AI 기반 분석 기법을 결합하여 정확도를 높이는 방법 또는, 실시간 데이터에서 발생하는 노이즈와 이상치를 탐지하고 제거하기 위해 AI 기반 실시간 필터링 및 이상치 탐지 시스템을 적용할 예정입니다. 이러한 기술적 접근법을 통해 데이터의 신뢰성을 높이고, 연구의 정확도를 향상시키는 것이 저희 연구의 최종적인 목표입니다. |
-|구현기술 키워드|  Pytorch, Cuda, Dall-E, Gemma3 4B   |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  [Gemma3 4B](https://huggingface.co/blog/gemma3), [CLIP](https://huggingface.co/docs/transformers/ko/model_doc/clip), [FLAVA](https://huggingface.co/docs/transformers/model_doc/flava), [OpenCV](https://github.com/opencv/opencv), [NumPy](https://github.com/numpy/numpy), [PyTorch](https://github.com/pytorch/examples/tree/main/vae), [Hugging Face](https://github.com/huggingface/transformers)  |
+|프로젝트명|   [Post-merger Masquerade] 은하 병합 여부를 분류하는 멀티모달 AI 모델 연구 개발  |
+|프로젝트 키워드|  Multi-modal AI, Space science, Galaxy Merge, Galaxy Classification  |
+|무엇을 만들고자 하는가|  겉보기엔 고립된 은하처럼 보이지만 실제로는 병합 이력을 숨기고 있는 은하들 즉, post-merger imposter 은하를 찾아내는 멀티모달 AI 모델을 개발한다. 이를 위해 은하 이미지와 물리량(질량, 속도, 별 형성률 등)을 결합해 병합 전/중/직후/후 단계를 자동으로 분류하고, 시계열적 병합 이력까지 추정할 수 있는 AI 기반 은하 병합 탐지 시스템을 구축한다. |
+|고객| - 천문학 및 우주과학 연구자 <br>- 관측천문대 및 천문 빅데이터 연구기관 (예: KASI, NASA, ESO 등) <br>- 천문 서베이(LSST, Euclid 등) 데이터 분석팀   |
+|Pain Point| - 수십 TB에 달하는 은하 이미지 및 분광 데이터를 수작업으로 분석하는 것은 비효율적임 <br>- 시민 참여 분류 프로젝트는 막대한 시간과 인적 자원을 요구하여 확장성 한계 <br>- 이미지 기반 단일 모달 분류 모델은 최근 급격히 증가한 데이터 규모와 복잡성을 충분히 처리하기 어려움 |
+|기술 솔루션 서술| [이미지 데이터 벡터화]<br>- Zoobot의 Swin Transformer, ViT, ConvNeXt 등의 백본을 활용 <br>- 이미지 → CLS Token Vector로 임베딩 <br>[수치 데이터 정렬] <br>- 결측치 처리, 정규화 등 전처리 수행 <br>- MLP, TabTransformer, FT-Transformer 등을 통해 1D Feature Vector로 변환 <br>[데이터 융합 (Fusion)] <br>- 이미지와 수치 벡터를 Cross-Attention Fusion Layer에서 통합 <br>- 서로의 맥락을 반영해 정보 간 관계를 학습 <br>- 결과는 Dense Layer를 통해 통합 <br>[학습 및 예측] <br>- 최종 Fusion Vector를 기반으로 멀티클래스 분류 모델 학습 <br>- 은하 병합 단계를 "병합 전 / 병합 중 / 직후 / 이후"로 분류 예측 |
+|구현기술 키워드| Multi-modal AI, Space science data, Modality Fusion, Transformer Architecture   |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  [Google Colab](https://colab.research.google.com/), [PyTorch](https://pytorch.org/), [ZooBot](https://github.com/mwalmsley/zoobot), [Hugging Face Transformers](https://huggingface.co/docs/transformers), [NumPy](https://github.com/numpy/numpy), [Pandas](https://pandas.pydata.org/), [Illustris TNG Public Data](	https://www.tng-project.org/data/)  |
 |팀그라운드룰| [GroundRule](https://github.com/Earth-Conquest-Research-Project/Multimodal-Missing-Data/blob/main/GroundRule.MD) |
-|최종수정일| 2025.03.17 |
+|최종수정일| 2025.04.11 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
