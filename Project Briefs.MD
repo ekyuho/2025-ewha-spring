@@ -91,7 +91,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |구현기술 키워드| Multi-modal AI, Space science data, Modality Fusion, Transformer Architecture   |
 |사용할 소프트웨어의 구체적 명세(명칭과 URL)|  - 우주 시뮬레이션 데이터: [Illustris TNG](	https://www.tng-project.org/data/) <br>- 은하 이미지 생성 도구: [SKIRT 알고리즘](https://skirt.ugent.be/root/_home.html) <br>- 이미지 인코더 프레임워크: Zoobot의 백본 모델 - [convnext-large](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_large), [convnext-small](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_small), [convnext-nano](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_nano), [convnext-base](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_base), [maxvit-large](https://huggingface.co/mwalmsley/zoobot-encoder-maxvit_large_tf_224), [maxvit-small](https://huggingface.co/mwalmsley/zoobot-encoder-maxvit_rmlp_small_rw_224) <br>- 수치 물리량 인코더: [Tab Transformer](https://github.com/lucidrains/tab-transformer-pytorch), [FT-Transformer](https://github.com/yandex-research/rtdl-revisiting-models)  |
 |팀그라운드룰| [GroundRule](https://github.com/Earth-Conquest-Research-Project/Multimodal-Missing-Data/blob/main/GroundRule.MD) |
-|최종수정일| 2025.04.11 |
+|최종수정일| 2025.06.05 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
