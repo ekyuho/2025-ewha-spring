@@ -8,7 +8,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |[3](#team-3--노페인-노게인)|노페인 노게인|청각 장애인을 위한 수어-텍스트-음성 변환 비대면 진료 서비스|
 |[4](#team-4--이데댕김)|이데댕김|블록체인 비전문가 의사결정자를 위한, Fine-tuned CodeBERT 기반 스마트 컨트랙트의 보안 취약점 분석 및 LLM 기반 솔루션 리포트 제공 자동화 웹 서비스|
 |[6](#team-6--닌자토끼)|닌자토끼|전통주에 관심이 많지만 관련 지식이 부족한 입문자들을 위해, 사용자의 주류 선호도를 학습하고 위치·시간 등의 맥락을 반영하여, 개인 맞춤형 전통주를 추천해주는 AI 기반의 전통주 큐레이션 서비스|
-|[7](#team-7--우주정복-연구젝트)|우주정복 연구젝트|[멀티모달  생성 AI] 멀티 모달리티 학습 환경에서 누락된 모달리티 데이터 생성 연구|
+|[7](#team-7--우주정복-연구젝트)|우주정복 연구젝트|은하 병합 여부 및 단계를 분류하는 이미지-수치기반 멀티모달 AI 모델 개발|
 |[8](#team-8--드랍-더-8bit)|드랍 더 8bit|아이가 그린 이미지를 AI가 캐릭터로 구현하여 창의력을 확장하고, 부모와 함께 동화를 제작하며 정서적 교감을 키우는 프로그램|
 |[9](#team-9--구르미)|구르미|소규모 서버 자원 연합 기반 뮤츄얼 클라우드 시스템 설계 및 효율성 평가|
 |[10](#team-10--2ys)|2ys|Secure and Energy-Efficient Resource Optimization Framework for Real-time Task Execution in Industrial IoT|
@@ -82,16 +82,16 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 ## Team 7  우주정복 연구젝트 
 |항목|내용|
 |---|---|
-|프로젝트명|   [Post-merger Masquerade] 은하 병합 여부를 분류하는 멀티모달 AI 모델 연구 개발  |
-|프로젝트 키워드|  Multi-modal AI, Space science, Galaxy Merge, Galaxy Classification  |
-|무엇을 만들고자 하는가|  겉보기엔 고립된 은하처럼 보이지만 실제로는 병합 이력을 숨기고 있는 은하들 즉, post-merger imposter 은하를 찾아내는 멀티모달 AI 모델을 개발한다. 이를 위해 은하 이미지와 물리량(질량, 속도, 별 형성률 등)을 결합해 병합 전/중/직후/후 단계를 자동으로 분류하고, 시계열적 병합 이력까지 추정할 수 있는 AI 기반 은하 병합 탐지 시스템을 구축한다. |
-|고객| - 천문학 및 우주과학 연구자 <br>- 관측천문대 및 천문 빅데이터 연구기관 (예: KASI, NASA, ESO 등) <br>- 천문 서베이(LSST, Euclid 등) 데이터 분석팀   |
+|프로젝트명|   은하 병합 여부 및 단계를 분류하는 이미지-수치기반 멀티모달 AI 모델 개발  |
+|프로젝트 키워드|  Multi-modal AI, Space science, Galaxy Merger Classification  |
+|무엇을 만들고자 하는가|  천문 시뮬레이션 데이터를 기반으로 은하 간 병합 여부(O/X)와 병합의 시간 단계(Pre-merger / Ongoing / Post-merger)를 예측할 수 있는 멀티모달 AI 분류 모델 |
+|고객| - 천체물리 연구자 <br>- 관측천문대 및 천문 빅데이터 연구기관 (예: KASI, NASA, ESO 등) <br>- 천문 서베이(LSST, Euclid 등) 데이터 분석팀   |
 |Pain Point| - 수십 TB에 달하는 은하 이미지 및 분광 데이터를 수작업으로 분석하는 것은 비효율적임 <br>- 시민 참여 분류 프로젝트는 막대한 시간과 인적 자원을 요구하여 확장성 한계 <br>- 이미지 기반 단일 모달 분류 모델은 최근 급격히 증가한 데이터 규모와 복잡성을 충분히 처리하기 어려움 |
-|기술 솔루션 서술| [이미지 데이터 벡터화]<br>- Zoobot의 Swin Transformer, ViT, ConvNeXt 등의 백본을 활용 <br>- 이미지 → CLS Token Vector로 임베딩 <br>[수치 데이터 정렬] <br>- 결측치 처리, 정규화 등 전처리 수행 <br>- MLP, TabTransformer, FT-Transformer 등을 통해 1D Feature Vector로 변환 <br>[데이터 융합 (Fusion)] <br>- 이미지와 수치 벡터를 Cross-Attention Fusion Layer에서 통합 <br>- 서로의 맥락을 반영해 정보 간 관계를 학습 <br>- 결과는 Dense Layer를 통해 통합 <br>[학습 및 예측] <br>- 최종 Fusion Vector를 기반으로 멀티클래스 분류 모델 학습 <br>- 은하 병합 단계를 "병합 전 / 병합 중 / 직후 / 이후"로 분류 예측 |
+|기술 솔루션 서술| [이미지 데이터 벡터화]<br>- Zoobot 프레임워크에서 지원하는 백본 모델인 ConvNeXt, maxViT 활용 <br>- 이미지 → CLS Token Vector로 임베딩 <br>[수치 데이터 정렬] <br>- 결측치 처리, 정규화 등 전처리 수행 <br>- TabTransformer, FT-Transformer 등을 통해 1D Feature Vector로 변환 <br>[데이터 융합 (Fusion)] <br>- 이미지와 수치 벡터를 Cross-Attention Fusion Layer에서 통합 <br>- 서로의 맥락을 반영해 정보 간 관계를 학습 <br>- 결과는 Dense Layer를 통해 통합 <br>[학습 및 예측] <br>- 최종 Fusion Vector를 기반으로 멀티클래스 분류 모델 학습 <br>- 은하 병합 단계를 "Pre-merger / Ongoing / Post-merger"로 분류 예측 |
 |구현기술 키워드| Multi-modal AI, Space science data, Modality Fusion, Transformer Architecture   |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  [Google Colab](https://colab.research.google.com/), [PyTorch](https://pytorch.org/), [ZooBot](https://github.com/mwalmsley/zoobot), [Hugging Face Transformers](https://huggingface.co/docs/transformers), [NumPy](https://github.com/numpy/numpy), [Pandas](https://pandas.pydata.org/), [Illustris TNG Public Data](	https://www.tng-project.org/data/)  |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  - 우주 시뮬레이션 데이터: [Illustris TNG](	https://www.tng-project.org/data/) <br>- 은하 이미지 생성 도구: [SKIRT 알고리즘](https://skirt.ugent.be/root/_home.html) <br>- 이미지 인코더 프레임워크: Zoobot의 백본 모델 - [convnext-large](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_large), [convnext-small](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_small), [convnext-nano](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_nano), [convnext-base](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_base), [maxvit-large](https://huggingface.co/mwalmsley/zoobot-encoder-maxvit_large_tf_224), [maxvit-small](https://huggingface.co/mwalmsley/zoobot-encoder-maxvit_rmlp_small_rw_224) <br>- 수치 물리량 인코더: [Tab Transformer](https://github.com/lucidrains/tab-transformer-pytorch), [FT-Transformer](https://github.com/yandex-research/rtdl-revisiting-models)  |
 |팀그라운드룰| [GroundRule](https://github.com/Earth-Conquest-Research-Project/Multimodal-Missing-Data/blob/main/GroundRule.MD) |
-|최종수정일| 2025.04.11 |
+|최종수정일| 2025.06.05 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
