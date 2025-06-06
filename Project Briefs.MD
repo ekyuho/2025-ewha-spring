@@ -8,7 +8,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |[3](#team-3--노페인-노게인)|노페인 노게인|청각 장애인을 위한 수어-텍스트-음성 변환 비대면 진료 서비스|
 |[4](#team-4--이데댕김)|이데댕김|블록체인 비전문가 의사결정자를 위한, Fine-tuned CodeBERT 기반 스마트 컨트랙트의 보안 취약점 분석 및 LLM 기반 솔루션 리포트 제공 자동화 웹 서비스|
 |[6](#team-6--닌자토끼)|닌자토끼|전통주에 관심이 많지만 관련 지식이 부족한 입문자들을 위해, 사용자의 주류 선호도를 학습하고 위치·시간 등의 맥락을 반영하여, 개인 맞춤형 전통주를 추천해주는 AI 기반의 전통주 큐레이션 서비스|
-|[7](#team-7--우주정복-연구젝트)|우주정복 연구젝트|은하 병합 여부 및 단계를 분류하는 이미지-수치기반 멀티모달 AI 모델 개발|
+|[7](#team-7--우주정복-연구젝트)|우주정복 연구젝트|[멀티모달  생성 AI] 멀티 모달리티 학습 환경에서 누락된 모달리티 데이터 생성 연구|
 |[8](#team-8--드랍-더-8bit)|드랍 더 8bit|아이가 그린 이미지를 AI가 캐릭터로 구현하여 창의력을 확장하고, 부모와 함께 동화를 제작하며 정서적 교감을 키우는 프로그램|
 |[9](#team-9--구르미)|구르미|소규모 서버 자원 연합 기반 뮤츄얼 클라우드 시스템 설계 및 효율성 평가|
 |[10](#team-10--2ys)|2ys|Secure and Energy-Efficient Resource Optimization Framework for Real-time Task Execution in Industrial IoT|
@@ -17,7 +17,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |[13](#team-13--e시크)|e시크| 프랜차이즈 베이커리 가맹점 POS 데이터를 활용한 수요 예측 시스템 개발 |
 |[14](#team-14--team329)|team329|Overcoming Missing Modalities with Clustering: A Cross-Attention and Federated Learning Approach|
 |[15](#team-15--GRAD)|GRAD|일정 관리가 어려운 사람들을 위한 개인 맞춤 대학 생활 AI 비서|
-|[16](#team-16--배꽃엔딩)|배꽃엔딩|AI 기반 성분 분석 및 추천 알고리즘을 통해, 온라인 쇼핑몰의 가공식품을 사용자 조건에 맞게 분석·비교하고, 맞춤형 제품을 제안해주는 개인 맞춤형 서비스|
+|[16](#team-16--배꽃엔딩)|배꽃엔딩|AI 기반 성분 분석 및 추천 알고리즘을 통해, 편의점 가공식품을 사용자 조건에 맞게 분석·비교하고, 맞춤형 제품을 제안하는 개인 맞춤형 서비스|
 |[17](#team-17--그린데빌)|그린데빌|전자 의료 기록(EHR) 기반 질병 예측 모델의 Source-free domain adaptation 적용 및 성능 비교|
 |[18](#team-18--코드만두(Code-만-Do!))|코드만두(Code 만 Do!)|AI 음성 요약으로 공연 후기를 간편하게 기록하고, 생성형 AI 티켓 이미지로 나만의 포토티켓을 간직하는 디지털 티켓북|
 |[19](#team-19--카드메이트)|카드메이트|카드별 할인 및 혜택을 분석하여 사용자 위치 기반 최적의 할인 혜택을 제공하는 매장을 안내해주는 모바일 어플리케이션|
@@ -82,16 +82,16 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 ## Team 7  우주정복 연구젝트 
 |항목|내용|
 |---|---|
-|프로젝트명|   은하 병합 여부 및 단계를 분류하는 이미지-수치기반 멀티모달 AI 모델 개발  |
-|프로젝트 키워드|  Multi-modal AI, Space science, Galaxy Merger Classification  |
-|무엇을 만들고자 하는가|  천문 시뮬레이션 데이터를 기반으로 은하 간 병합 여부(O/X)와 병합의 시간 단계(Pre-merger / Ongoing / Post-merger)를 예측할 수 있는 멀티모달 AI 분류 모델 |
-|고객| - 천체물리 연구자 <br>- 관측천문대 및 천문 빅데이터 연구기관 (예: KASI, NASA, ESO 등) <br>- 천문 서베이(LSST, Euclid 등) 데이터 분석팀   |
+|프로젝트명|   [Post-merger Masquerade] 은하 병합 여부를 분류하는 멀티모달 AI 모델 연구 개발  |
+|프로젝트 키워드|  Multi-modal AI, Space science, Galaxy Merge, Galaxy Classification  |
+|무엇을 만들고자 하는가|  겉보기엔 고립된 은하처럼 보이지만 실제로는 병합 이력을 숨기고 있는 은하들 즉, post-merger imposter 은하를 찾아내는 멀티모달 AI 모델을 개발한다. 이를 위해 은하 이미지와 물리량(질량, 속도, 별 형성률 등)을 결합해 병합 전/중/직후/후 단계를 자동으로 분류하고, 시계열적 병합 이력까지 추정할 수 있는 AI 기반 은하 병합 탐지 시스템을 구축한다. |
+|고객| - 천문학 및 우주과학 연구자 <br>- 관측천문대 및 천문 빅데이터 연구기관 (예: KASI, NASA, ESO 등) <br>- 천문 서베이(LSST, Euclid 등) 데이터 분석팀   |
 |Pain Point| - 수십 TB에 달하는 은하 이미지 및 분광 데이터를 수작업으로 분석하는 것은 비효율적임 <br>- 시민 참여 분류 프로젝트는 막대한 시간과 인적 자원을 요구하여 확장성 한계 <br>- 이미지 기반 단일 모달 분류 모델은 최근 급격히 증가한 데이터 규모와 복잡성을 충분히 처리하기 어려움 |
-|기술 솔루션 서술| [이미지 데이터 벡터화]<br>- Zoobot 프레임워크에서 지원하는 백본 모델인 ConvNeXt, maxViT 활용 <br>- 이미지 → CLS Token Vector로 임베딩 <br>[수치 데이터 정렬] <br>- 결측치 처리, 정규화 등 전처리 수행 <br>- TabTransformer, FT-Transformer 등을 통해 1D Feature Vector로 변환 <br>[데이터 융합 (Fusion)] <br>- 이미지와 수치 벡터를 Cross-Attention Fusion Layer에서 통합 <br>- 서로의 맥락을 반영해 정보 간 관계를 학습 <br>- 결과는 Dense Layer를 통해 통합 <br>[학습 및 예측] <br>- 최종 Fusion Vector를 기반으로 멀티클래스 분류 모델 학습 <br>- 은하 병합 단계를 "Pre-merger / Ongoing / Post-merger"로 분류 예측 |
+|기술 솔루션 서술| [이미지 데이터 벡터화]<br>- Zoobot의 Swin Transformer, ViT, ConvNeXt 등의 백본을 활용 <br>- 이미지 → CLS Token Vector로 임베딩 <br>[수치 데이터 정렬] <br>- 결측치 처리, 정규화 등 전처리 수행 <br>- MLP, TabTransformer, FT-Transformer 등을 통해 1D Feature Vector로 변환 <br>[데이터 융합 (Fusion)] <br>- 이미지와 수치 벡터를 Cross-Attention Fusion Layer에서 통합 <br>- 서로의 맥락을 반영해 정보 간 관계를 학습 <br>- 결과는 Dense Layer를 통해 통합 <br>[학습 및 예측] <br>- 최종 Fusion Vector를 기반으로 멀티클래스 분류 모델 학습 <br>- 은하 병합 단계를 "병합 전 / 병합 중 / 직후 / 이후"로 분류 예측 |
 |구현기술 키워드| Multi-modal AI, Space science data, Modality Fusion, Transformer Architecture   |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  - 우주 시뮬레이션 데이터: [Illustris TNG](	https://www.tng-project.org/data/) <br>- 은하 이미지 생성 도구: [SKIRT 알고리즘](https://skirt.ugent.be/root/_home.html) <br>- 이미지 인코더 프레임워크: Zoobot의 백본 모델 - [convnext-large](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_large), [convnext-small](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_small), [convnext-nano](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_nano), [convnext-base](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_base), [maxvit-large](https://huggingface.co/mwalmsley/zoobot-encoder-maxvit_large_tf_224), [maxvit-small](https://huggingface.co/mwalmsley/zoobot-encoder-maxvit_rmlp_small_rw_224) <br>- 수치 물리량 인코더: [Tab Transformer](https://github.com/lucidrains/tab-transformer-pytorch), [FT-Transformer](https://github.com/yandex-research/rtdl-revisiting-models)  |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  [Google Colab](https://colab.research.google.com/), [PyTorch](https://pytorch.org/), [ZooBot](https://github.com/mwalmsley/zoobot), [Hugging Face Transformers](https://huggingface.co/docs/transformers), [NumPy](https://github.com/numpy/numpy), [Pandas](https://pandas.pydata.org/), [Illustris TNG Public Data](	https://www.tng-project.org/data/)  |
 |팀그라운드룰| [GroundRule](https://github.com/Earth-Conquest-Research-Project/Multimodal-Missing-Data/blob/main/GroundRule.MD) |
-|최종수정일| 2025.06.05 |
+|최종수정일| 2025.04.11 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -230,11 +230,11 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |무엇을 만들고자 하는가| 특정 성분을 피해야 하거나 식품을 통한 건강 관리를 원하는 사람들을 위한 스마트 성분 분석 및 맞춤 추천 서비스. 사용자가 설정한 조건(알레르기, 임산부, 건강 목표)에 따라 가공식품의 성분을 분석하고, 동일 식품군 내의 더 나은 대안을 비교·추천. 사진 인식을 통한 성분 확인 기능과 허용 범위 내 최적의 제품 추천 기능을 제공. |
 |고객| 당류·나트륨·카페인 같은 특정 성분, 혹은 식재료를 피해야 하거나 줄이고 싶은 사람들 <br>- 알레르기나 임신 등으로 인해 특정 성분/식재료를 피해야 하는 사람 <br>- 특정 성분 섭취를 줄여 건강 관리를 하고 싶은 사람 |
 |Pain Point| 온라인으로 장을 보는 사람이 많아졌지만, 성분이나 원재료 정보를 확인하려면 제품 상세 페이지를 일일이 확인해야하는 불편함이 존재함. 그리고 성분표는 복잡하여 빠르게 파악하기가 어려움. 여러 제품을 비교하려면 직접 하나하나 확인하거나 검색해서 정리해야 하는 번거로움이 있는데, 급하게 사야 하거나 건강상 성분을 주의해야 하는 사람에겐 특히 더 큰 부담이 되는 경우가 많아 이 불편함을 해소하고자 함. |
-|기술 솔루션 서술| -성분 분석 (OCR)<br>Google Vision API를 통해 성분표에서 텍스트를 추출하고, 원재료명과 영양정보를 도출하여 제품 데이터를 구축함.<br><br>-제품 인식<br>Google Cloud Vision API를 사용하여 사진이 어떤 제품인지 인식함.<br><br>-대체 제품 추천<br>XGBoost와 LightFM 알고리즘을 활용해, 동일 제품군 내에서 사용자 조건에 가장 적합한 제품을 추천함.<br><br>-챗봇 기능<br>GPT-4o 기반 챗봇이 탑재되어 있어, 사용자가 질문할 경우 성분 설명, 섭취 시 주의사항 등을 알려줌. |
+|기술 솔루션 서술| -성분 분석 (OCR)<br>Google Vision API를 통해 성분표에서 텍스트를 추출하고, 원재료명과 영양정보를 도출하여 제품 데이터를 구축함.<br><br>-제품 인식<br>Google Cloud Vision API를 사용하여 사진이 어떤 제품인지 인식함.<br><br>-대체 제품 추천<br>LightFM 또는 FAISS 알고리즘을 활용해, 동일 제품군 내에서 사용자 조건에 가장 적합한 제품을 추천함.<br><br>-챗봇 기능<br>GPT-4o 기반 챗봇이 탑재되어 있어, 사용자가 질문할 경우 성분 설명, 섭취 시 주의사항 등을 알려줌. |
 |구현기술 키워드| Google Cloud Vision API, OCR, GPT-4o |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)| Google Cloud Vision (https://cloud.google.com/vision)<br>GPT-4o (https://chatgpt.com/)<br>XGBoost, LightFM |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)| Google Cloud Vision (https://cloud.google.com/vision)<br>GPT-4o (https://chatgpt.com/)<br>LightFM, FAISS, XGBoost |
 |팀그라운드룰| https://github.com/ppandpups/2025-ewha-spring/blob/main/GroundRule.MD |
-|최종수정일| 2025-06-05 |
+|최종수정일| 2025-05-30 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -261,14 +261,14 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 | **앱 이름** | Re:cord |
 | **프로젝트 제목** | AI 음성 요약으로 공연 후기를 간편하게 기록하고, 생성형 AI 티켓 이미지로 나만의 포토티켓을 간직하는 디지털 티켓북 |
 | **키워드** | - AI 음성 인식 후기 요약<br>- 생성형 AI 티켓 디자인<br>- 개인 맞춤 질문 시스템<br>- SNS 공유 |
-| **무엇을 만들고자 하는가** | 공연 후기를 기록하는 것을 좋아하지만, 관람 횟수가 많아질수록 기록 자체가 부담스럽게 느껴지는 공연 마니아들을 위해 **디지털 티켓 북 플랫폼**을 개발하고자 합니다.<br><br>이 플랫폼에서는 **음성으로 후기를 말하면 AI가 내용을 요약**해주며 공연 장르 및 사용자 성향을 반영한 **맞춤형 질문**을 통해 자연스럽게 후기를 작성할 수 있도록 돕습니다. 또한, 생성형 AI가 공연 제목 및 사용자 후기 등 텍스트를 기반으로 티켓 이미지를 디자인해 추억을 특별하게 기록할 수 있습니다. 사용자는 생성된 티켓을 SNS에 공유하거나 개인 아카이빙 용도로 저장할 수 있으며, 월간/연말 통계를 통해 자신의 공연 히스토리를 쉽게 정리할 수 있습니다. |
+| **무엇을 만들고자 하는가** | 공연 후기를 기록하는 것을 좋아하지만, 관람 횟수가 많아질수록 기록 자체가 부담스럽게 느껴지는 공연 마니아들을 위해 **디지털 티켓북 플랫폼**을 개발하고자 합니다.<br><br>이 플랫폼에서는 **음성으로 후기를 말하면 AI가 내용을 요약**해주며 공연 장르 및 사용자 성향을 반영한 **맞춤형 질문**을 통해 자연스럽게 후기를 작성할 수 있도록 돕습니다. 또한, 생성형 AI가 공연 제목 및 사용자 후기 등 텍스트를 기반으로 티켓 이미지를 디자인해 추억을 특별하게 기록할 수 있습니다. 사용자는 생성된 티켓을 SNS에 공유하거나 개인 아카이빙 용도로 저장할 수 있으며, 월간/연말 통계를 통해 자신의 공연 히스토리를 쉽게 정리할 수 있습니다. |
 | **고객** | - 주 1회 이상 공연을 관람하는 마니아층<br>- 공연에 대한 감상을 꾸준히 남기고 공유하고 싶으나 일일이 기록하기에 번거롭다고 느끼는 2030 여성.<br>- **김이화 (28세, 여성 / 회사원)**<br>김이화는 매달 3~4회 공연을 관람하는 열성적인 뮤지컬 마니아입니다. 감정을 글로 남기는 것을 좋아하지만, 기록할 시간이 부족하거나 무엇을 써야 할지 고민하다가 후기를 넘기는 일이 잦습니다. 말로 쉽게 기록할 수 있는 후기 시스템과 예쁘게 정리된 티켓 형태의 기록이 있다면 꾸준히 사용할 의향이 있습니다.<br>- **박화연 (23세, 여성 / 대학생)**<br>박화연은 좋아하는 밴드의 모든 공연을 빠짐없이 챙겨보며, 공연 후 느낀 감정과 순간들을 예쁜 형식으로 간직하고 싶어 합니다. 디자인된 티켓 이미지에 자신의 감상 요약이 담겨 있고, 그걸 SNS에 공유하거나 나만의 공연 앨범처럼 저장할 수 있는 기능을 찾고 있습니다. |
 | **Pain Point** | 주 1회 이상 공연을 관람하는 공연 마니아들은 공연 관람 후 감상을 기록하고 싶지만, 매번 **글을 직접 작성하는 것은 시간과 에너지가 많이 들기 때문에** 점차 후기를 누락하게 되는 경우가 많습니다. 더불어, 자유롭게 후기를 쓰라고 해도 **무엇부터 써야 할지 막막하거나, 매번 같은 형식의 감상문으로 반복**되면서 기록의 개성과 다양성이 떨어지는 문제도 존재합니다.<br><br>이러한 불편함은 기존 후기 플랫폼에서도 크게 해소되지 않습니다. 게다가 SNS(트위터, 인스타그램, 블로그 등)는 공연 후기 외의 다른 콘텐츠들과 뒤섞여 기록되기 때문에 공연 기록을 체계적으로 모아보기 어렵고, 시간이 지나면 다시 찾아보기 힘든 구조입니다.<br><br>또한, 공연 마니아 특성상 다수의 공연을 동시에 예매해두는 경우가 많은데, 이를 효과적으로 관리해줄 수 있는 일정 리마인드 기능이나 시각적으로 정리된 히스토리 관리 기능이 부족해 일정 누락이나 혼동이 발생하기도 합니다.<br><br>무엇보다도, 공연을 단순히 기록하는 것을 넘어 자신의 관람 경험을 **예쁘고 감각적인 티켓 형태로 남기고 싶어하는 수요**는 꾸준히 존재하지만, 공연 맞춤형 디자인을 기반으로 한 자동 티켓 생성 및 아카이빙 기능은 기존 시스템에서는 찾아보기 어려운 상황입니다. |
-| **기술 솔루션 서술** | 이 프로젝트는 공연 후기를 쉽고 감각적으로 기록할 수 있도록 돕는 AI 기반 디지털 티켓 북 플랫폼입니다. 사용자가 공연 일정 및 기타 공연 정보를 텍스트로 입력하면, 티켓 북에 빈 슬롯이 생성됩니다. 티켓 북에 사용자가 공연 후 느낀 감정을 음성으로 기록하면, **Google Speech-to-Text**가 이를 텍스트로 변환하고, **GPT-4 기반 자연어 처리 모델**이 내용을 요약하여 기록합니다. 이 과정에서 시스템은 공연 장르와 사용자 선호도에 따라 **맞춤형 질문을 제시**해 보다 풍부한 후기 기록을 유도합니다. 사용자의 후기 및 공연 제목 등을 기반으로 **DALL·E 혹은 Stable Diffusion**을 통해 감성적인 티켓 이미지 및 디자인을 자동 생성하며, 이를 카드 형식으로 저장하거나 **SNS 공유용 OG 이미지**로 활용할 수 있도록 지원합니다. 월간/연말에는 **react-native-chart-kit와 react-native-calendars**를 활용한 데이터 시각화를 통해 사용자의 공연 히스토리를 정리해 줍니다. |
-| **구현 기술 키워드** | - 음성 인식  - Google STT<br>- 자연어 처리 -  GPT-4, (Hugging Face)<br>- AI 티켓 이미지&디자인 생성 - DALL·E, Stable Diffusion<br>- React Native & Spring Boot 기반 웹 앱 개발 |
-| **사용할 소프트웨어의 구체적 명세** | - **음성 인식**<br>&nbsp;&nbsp;&nbsp;- Google Cloud Speech-to-Text : [Link](https://cloud.google.com/speech-to-text)<br>- **자연어 처리 (NLP)**<br>&nbsp;&nbsp;&nbsp;- GPT-4 : [OpenAI](https://openai.com/research/gpt-4)<br>- **AI 이미지 생성**<br>&nbsp;&nbsp;&nbsp;- DALL·E : [OpenAI](https://openai.com/dall-e)<br>&nbsp;&nbsp;&nbsp;- Stable Diffusion : [Stable Diffusion](https://stablediffusionweb.com/)<br>- **앱 & 백엔드**<br>&nbsp;&nbsp;&nbsp;- React Native : [React Native](https://reactnative.dev/)<br>&nbsp;&nbsp;&nbsp;- Spring Boot : [Spring Boot](https://spring.io/projects/spring-boot)<br>- **데이터베이스**<br>&nbsp;&nbsp;&nbsp;- AWS RDS : [AWS RDS](https://aws.amazon.com/rds/)<br>&nbsp;&nbsp;&nbsp;- PostgreSQL : [PostgreSQL](https://www.postgresql.org/) |
-| **팀 그라운드룰** | [CodeManDoo GroundRule](https://github.com/CodeManD00/CodeManDoo/blob/main/GroundRule.MD) |
-| **최종수정일** | 2025-06-01 | 
+| **기술 솔루션 서술** | 이 프로젝트는 공연 후기를 쉽고 감각적으로 기록할 수 있도록 돕는 AI 기반 디지털 티켓 북 플랫폼입니다. 사용자가 공연 일정 및 기타 공연 정보를 텍스트로 입력하면, 티켓 북에 빈 슬롯이 생성됩니다. 티켓 북에 사용자가 공연 후 느낀 감정을 음성으로 기록하면, **Google Speech-to-Text**가 이를 텍스트로 변환하고, **GPT-4 기반 자연어 처리 모델**이 내용을 요약하여 기록합니다. 이 과정에서 시스템은 공연 장르와 사용자 선호도에 따라 **맞춤형 질문을 제시**해 보다 풍부한 후기 기록을 유도합니다. 사용자의 후기 및 공연 제목 등을 기반으로 **DALL·E**를 통해 감성적인 티켓 이미지 및 디자인을 자동 생성하며, 이를 카드 형식으로 저장하거나 **SNS 공유용 OG 이미지**로 활용할 수 있도록 지원합니다. 월간/연말에는 **react-native-chart-kit와 react-native-calendars**를 활용한 데이터 시각화를 통해 사용자의 공연 히스토리를 정리해 줍니다. |
+| **구현 기술 키워드** | - 음성 인식  - Google STT<br>- 자연어 처리 -  GPT-4, (Hugging Face)<br>- AI 티켓 이미지&디자인 생성 - DALL·E<br>- React Native & Spring Boot 기반 웹 앱 개발 |
+| **사용할 소프트웨어의 구체적 명세** | - **음성 인식**<br>&nbsp;&nbsp;&nbsp;- Google Cloud Speech-to-Text : [Link](https://cloud.google.com/speech-to-text)<br>- **자연어 처리 (NLP)**<br>&nbsp;&nbsp;&nbsp;- GPT-4 : [OpenAI](https://openai.com/research/gpt-4)<br>- **AI 이미지 생성**<br>&nbsp;&nbsp;&nbsp;- DALL·E : [OpenAI](https://openai.com/dall-e)<br>&nbsp;&nbsp;&nbsp;<br>- **앱 & 백엔드**<br>&nbsp;&nbsp;&nbsp;- React Native : [React Native](https://reactnative.dev/)<br>&nbsp;&nbsp;&nbsp;- Spring Boot : [Spring Boot](https://spring.io/projects/spring-boot)<br>- **데이터베이스**<br>&nbsp;&nbsp;&nbsp;- AWS RDS : [AWS RDS](https://aws.amazon.com/rds/)<br>&nbsp;&nbsp;&nbsp;- PostgreSQL : [PostgreSQL](https://www.postgresql.org/) |
+| **팀 그라운드룰** | [CodeManDoo GroundRule](https://github.com/CodeManD00/CodeManDoo/blob/main/GroundRule.md) |
+| **최종수정일** | 2025-06-06 | 
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -283,7 +283,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |기술 솔루션 서술| 1. 크롤링 : 카드사의 카드 혜택 정보 크롤링<br>2. AI : 크롤링한 정보들을 정제 및 위치 기반 매장 추천<br>3. Naver Map : 지도에 핀으로 추천하는 매장 표시 |
 |구현기술 키워드| 추천 알고리즘, 자동 배포, GPS |
 |사용할 소프트웨어의 구체적 명세(명칭과 URL)|  React Native: https://reactnative.dev<br>springboot: https://spring.io/projects/spring-boot<br>mysql: https://www.mysql.com<br>docker: https://www.docker.com |
-|팀그라운드룰| [#19 CardMates Ground Rule](https://github.com/CardMates/WiseCard/blob/main/GroundRule.md) |
+|팀그라운드룰| https://github.com/TEAM-FITSEARCH/BACK/blob/main/GroundRule.MD |
 |최종수정일| 2025.04.08 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
@@ -404,16 +404,15 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 ## Team 28  e스타트 
 |항목|내용|
 |---|---|
-|프로젝트명|  LLM을 활용한 맞춤형 소비 습관 코칭 서비스  |
-|프로젝트 키워드|  금융, 습관 코칭, 일기, LLM  |
-|무엇을 만들고자 하는가| 사용자의 일기와 소비 내역을 바탕으로 충동 소비를 유발한 감정과 사건을 찾아내고, 소비 대신 실천할 수 있는 건강한 대체 행동을 제안해주는 코칭 어플리케이션 |
-|고객| **박지윤 (29세, 여성)** <br> 0. 나이: 29세 <br> 1. 직업: IT 스타트업 마케터 (2년 차 직장인)<br> 2. 거주지: 서울 마포구 (자취 중) <br> 3. 디지털 친화도: 매우 높음 (앱을 통한 금융/건강/일정 관리에 익숙함) <br> 4. 연 수입: 약 3,500만 원 <br> 5. 경제적 특징 <br> - 꾸준한 월급을 받은 것이 얼마 되지 않은 사회초년생 <br> - 경제적으로 독립한 지 아직 3달 <br> - “이번 달은 왜 이렇게 돈이 빨리 나갔지?” 자주 생각 <br> 6. 일정 관리 습관 <br> - 일기를 꾸준히 쓰는 편 <br> - 캘린더로 중요한 일정을 관리함 |
-|Pain Point| 1. **충동 소비는 매우 일반적인 행동**: 충동구매는 전체 구매의 40%에서 80%를 차지한다. (Rodrigues, Lopes, & Varela, 2021) <br> 2. **심각성**: 충동구매는 즉각적인 보상과 그로 인해 발생할 수 있는 부정적인 결과 사이의 갈등에서 비롯된 감정적 통제력의 상실을 유발 → 강박적 행동(compulsive behavior)을 일으킬 수 있다. → 이는 만성적이고 병리적인 수준으로 발전 가능하다. (Rodrigues, Lopes, & Varela, 2021) <br> 3. **자각하기 어려운 충동적 소비**: 저축하거나 계획적으로 소비하려 해도, 어느 순간 보면 돈이 사라져 있다. 주로 쓸데없는 데에 소비하게 되며, 이를 자각하기도 어렵고, 자각해도 고치기 쉽지 않음. <br> 4. **감정에 반응하는 무의식적 소비 습관**:  스트레스를 받거나 특정 감정 상황일 때 무의식적으로 소비하게 된다. 습관처럼 굳어져 있어 이성적으로 조절하기 어렵고, 자동적으로 소비가 발생한 뒤 후회하게 된다. <br> 5. **감정은 충동 소비의 주요 원인**: 당시 소비자의 감정 상태는 충동 소비를 유발하는 핵심 요인 중 하나이다. (Rodrigues, Lopes, & Varela, 2021) <br> 6. **기존 앱의 한계**: 기존의 습관 억제 앱은 대체 행동을 맞춤형으로 제안하지 않기 때문에 기존 소비 습관을 다른 행동으로 전환하기가 어렵다. 또한 사용자의 사건과 감정이란 맥락 없이 단순히 습관을 억제하려고만 했다.|
-|기술 솔루션 서술| - 사용자에게서 하루의 사건과 감정을 간략히 입력받고 이를 바탕으로 LLM이 일기를 작성한다. 사용자는 틀린 점에 대해 피드백하고 이것을 학습하여 점점 일기의 질이 개선되도록 한다. <br> - 사용자의 감정-사건-소비의 인과관계를 LLM을 이용하여 파악한다. <br> - 소비 발생을 스마트폰 푸시 알림을 통해 감지하고 LLM을 fine tuning하여 사용자가 어떤 시간, 어떤 내역, 어떤 금액대에서 가장 충동 소비를 많이 했는지에 따라 충동 소비일 법한 소비에 대해 알림을 푸시한다. <br> - LLM을 이용해 사용자의 (1) 하루의 사건과 감정, 소비 내역 간의 연결고리를 찾고 학습한다. (2) 사용자가 가장 인지 부하를 적게 느끼는 행동을 찾는다. 발견 및 학습한 내용을 바탕으로 충동 소비가 발생하는 패턴(사건-감정-소비 루프)을 감지하고 사용자에게 적절한 대체 행동을 추천한다. <br> - 사용자의 감정과 사건, 소비의 인과관계 찾기, 충동 소비 확률 계산: ChatGPT-4o mini <br> - 충동 소비 확률 계산: RandomForest  |
-|구현기술 키워드|  LLM fine tuning  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  - ChatGPT API: https://openai.com/api/ <br> - RandomForest: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html |
+|프로젝트명|  NLP와 오픈뱅킹 API를 활용한 소비 습관 코칭 서비스  |
+|프로젝트 키워드|  금융, 소비 분석, 소비 습관 코칭  |
+|무엇을 만들고자 하는가| 사용자의 예산안을 바탕으로 소비 내역을 분석하여 과소비를 예방하여주는 어플리케이션 |
+|고객| **1. 박지윤 (25세, 여성)**: 체계적인 소비 관리를 원하는 사회초년생 <br> 박지윤은 첫 직장을 얻은 사회초년생으로, 월급을 효율적으로 관리하고 싶지만 지출 내역을 정리하는 것이 번거롭다고 느낀다. 매번 수동으로 가계부를 작성하는 것이 부담스럽고, 카드 내역만으로는 어디에 얼마를 썼는지 명확하게 파악하기 어려워서 본인의 소비 패턴을 보다 쉽게 분석하려 한다. 또, 취직하고 처음으로 큰 금액인 월급을 받게 되었는데 이에 따라 월급이 들어오면 과소비를 하는 버릇이 생겨 이를 개선하고자 한다. <br><br> **2. 이민재 (22세, 여성)**: 한정된 예산으로 효율적인 소비를 원하는 대학생 <br> 이민재는 대학생으로 한정된 용돈과 아르바이트 급여를 효율적으로 관리해야 한다. 생활비를 절약하고 싶지만, 매달 용돈이 어디로 새는지 정확히 파악하기 어려워 예상보다 빨리 소진되는 경우가 많다. 한정된 예산을 초과하지 않도록 지출을 관리하고 싶어한다.  |
+|Pain Point| **1. 충동 소비** <br> -소비를 조장하는 환경: 사용자 데이터를 이용한 맞춤형 광고가 온라인 상에서 끊임없이 제공되어 소비자가 소비 충동을 쉽게 느끼는 환경에 노출되어 있다. <br> - 합리적인 소비에 대한 기준 불분명: 어떤 소비가 합리적인지 판단이 어렵다. <br> - 소비 패턴 파악 부족: 자신의 소비 패턴을 몰라 월말에 돈이 없는 상황이 반복된다. <br><br> **2. 예산** <br> - 예산 설정 어려움: 예산을 설정하는 데 어려움을 겪는다. <br> - 지출 관리 부족: 자신의 지출을 예산에 비추어 확인하는 습관이 없어 계획보다 더 소비하게 된다. <br> - 피드백 부족: 예산을 초과해도 즉각적인 피드백을 받기 어렵다. |
+|기술 솔루션 서술| - 소비내역 불러오기: 오픈뱅킹 API <br> - 소비내역 데이터 분석: Bert, Apriori <br> - 소비내역 시각화: Matplotlib&Seaborn <br> - 소비패턴을 바탕으로 한 예산 설정: LSTM |
+|구현기술 키워드|  NLP, 데이터분석, 오픈뱅킹 API  |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  [Bert] https://github.com/google-research/bert<br>[Apriori] https://github.com/asaini/Apriori<br>[Matplotlib] https://matplotlib.org/  |
 |팀그라운드룰|https://github.com/2025-eStart/TETS/blob/main/GroundRule.MD|
-|최종수정일| 2025.06.02 |
-
+|최종수정일| 2025.03.20 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
