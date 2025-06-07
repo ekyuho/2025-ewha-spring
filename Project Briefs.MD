@@ -71,11 +71,11 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |무엇을 만들고자 하는가| 사용자의 주류 선호도를 학습하고 위치·시간 등의 맥락을 반영하여, 개인 맞춤형 전통주를 추천해주는 AI 기반의 전통주 큐레이션 서비스 |
 |고객| 김이화 (24세, 여) <br>• 직업: 대학생<br>• 고민 <br>◦ 평소 술을 즐기며 전통주에 관심이 생겼지만 종류가 너무 많고, 어떤 전통주가 내 입맛에 맞을지 감이 안 옴<br>◦ 편의점이나 마트에서는 찾기 어렵고, 온라인 판매처도 정보가 너무 부족함<br>◦ SNS에서 봤던 ‘막걸리’나 ‘약주’가 궁금하지만, 언제 어떤 상황에 마시면 좋을지 모르겠음<br>• 기대하는 서비스 <br>◦ 내 취향(단맛/산미/도수)이나 식사, 분위기, 계절 같은 맥락을 반영해 전통주를 추천해주는 서비스<br>◦ 시각적으로 깔끔하고, 전통주 설명이 어렵지 않았으면 좋겠음 <br>◦ “이런 안주랑 어울려요”, “친구들이랑 캠핑 갈 때 좋아요” 같은 맥락 추천도 반김 |
 |Pain Point| 1. 현재 전통주 시장은 빠르게 성장하고 있음. 특히 젊은 세대를 중심으로<br>-> 젊은 세대는 자신이 좋아하는 술맛을 찾고자 다양한 술을 경험하려 함<br>-> 하지만 아직 ‘와인’만큼의 콘텐츠, 스토리텔링, 경험 요소가 결합된 서비스는 부족<br>2. 정보의 파편화와 낮은 접근성으로 인한 전통주 선택의 어려움<br>3. 기존 서비스는 사용자의 취향을 학습하지 않는 단발성 추천에 그치고 있음  |
-|기술 솔루션 서술| 1. Recombee API를 사용한 하이브리드 추천 엔진<br> - 추천 술에 대한 만족 여부, post 클릭 여부, 좋아요/싫어요, 북마크, 리뷰 평점 기반 추천(Automatic A/B Testing) <br> - 사용자 행동에 대한 가중치 코드 기반 로직 사용 <br> - 날씨, 지역에 따른 맞춤 추천 <br> - rqs.RecommendItemsToUser를 사용한 추천 이유 설명 <br> - Bias Control 알고리즘을 통해 과도한 중복 추천을 막음 <br> - Real-time 모델 튜닝으로 실시간 사용자 행동을 반영하여 추천함 <br>2. Chat GPT 챗봇 <br> - 날씨에 어울리는 전통주나 특정 음식에 어울리는 전통주를 대화형으로 추천 <br>3. Weather API를 사용해 실시간 날씨를 반영한 전통주 추천 <br>4. Geolocation API를 사용해 위치/지역 기반 전통주 추천 <br>5. 크롤링을 사용해 주류별 매칭 음식, 지역별 전통주 관련 축제 가져오기  |
+|기술 솔루션 서술| 1. Recombee API를 사용한 하이브리드 추천 엔진<br> - 추천 술에 대한 만족 여부, post 클릭 여부, 좋아요/싫어요, 북마크, 리뷰 평점 기반 추천(Automatic A/B Testing) <br> - 사용자 행동에 대한 가중치 코드 기반 로직 사용 <br> - 날씨, 지역에 따른 맞춤 추천 <br> - rqs.RecommendItemsToUser를 사용한 추천 이유 설명 <br> - Bias Control 알고리즘을 통해 과도한 중복 추천을 막음 <br> - Real-time 모델 튜닝으로 실시간 사용자 행동을 반영하여 추천함 <br>2. Chat GPT 챗봇 <br> - 날씨에 어울리는 전통주나 특정 음식에 어울리는 전통주를 대화형으로 추천 <br>3. Weather API를 사용해 실시간 날씨를 반영한 전통주 추천<br>4. 크롤링을 사용해 주류별 매칭 음식, 지역별 전통주 관련 축제 가져오기  |
 |구현기술 키워드|  다중 피드백 학습 최적화 모델, 상황 반응형 추천 필터링, 하이브리드 개인화 콘텐츠 엔진  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  https://www.recombee.com/ 머신러닝 기반 추천 모델 api<br>https://platform.openai.com/docs/overview 챗봇 ChatGPT<br>https://openweathermap.org/api 날씨 api<br>https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API 위치 인식 api<br>https://cheerio.js.org/ 주류별 매칭 음식, 지역 전통주 축제 크롤링  |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  https://www.recombee.com/ 머신러닝 기반 추천 모델 API<br>https://platform.openai.com/docs/overview 챗봇 ChatGPT<br>http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0 단기예보 조회서비스 API (기상청 제공) 중 초단기예보<br>https://cheerio.js.org/ 네이버 전통주 지식백과 크롤링을 위한 웹 스크래핑 JS 라이브러리  |
 |팀그라운드룰|https://github.com/Hanrann6/HabitAI/blob/main/GroundRule.MD|
-|최종수정일| 2025-05-22 |
+|최종수정일| 2025-06-07 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
