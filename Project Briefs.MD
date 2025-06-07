@@ -146,14 +146,16 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 ## Team 11  DevEwha 
 |항목|내용|
 |---|---|
-|프로젝트명| Serverless Architecture를 이용한 실시간 AI 추론 최적화 |
-|프로젝트 키워드| 서버리스 ai 배포, 모델 경량화, 클라우드 기반 ai |
-|무엇을 만들고자 하는가| 최근 AI 모델 사이즈 증가로 인해 단일 서버 노드만으로 서빙이 안되는 경우가 늘어나기 때문에, 여러 개의 노드를 통해 서빙하면서 해당 노드의 utilization을 높여 가상화할 수 있도록 서버리스 아키텍처를 최적화하는 모델을 만드는 것이 목표입니다. |
-|고객| ai 모델을 활용하여 실시간 추론이 필요한 기업 및 개발자<br>대규모 GPU 서버를 운영하기 어려운 서비스 제공자<br>IoT, 모바일, 웹 어플리케이선에서 ai 기능을 구현하려는 개발자 |
-|Pain Point| 모델 크기 및 배포 부담, 높은 운영 비용, 응답 속도 지연 |
-|기술 솔루션 서술| 서버리스 아키텍처를 활용하여 모델 경량화 적용, 서버리스 환경에서 ai 배포, 가속 라이브러리 적용 등의 방식을 통해 ai 모델을 실시간으로 최적화하여 배포 및 운영할 수 있도록 합니다. |
-|구현기술 키워드| 서버리스 컴퓨팅, 모델 경량화, ai 가속 엔진, 실시간 ai 추론, 데이터 전처리 및 후처리 |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)| AWS(https://aws.amazon.com/ko/)<br>TensorFlow(https://www.tensorflow.org/?hl=ko)<br>Docker(https://www.docker.com/)<br>Kubernetes(https://kubernetes.io/) |
+|프로젝트명| 서버리스 환경의 협업 추론을 통한 실시간 AI 추론 최적화 |
+|프로젝트 키워드| 서버리스 ai 배포, 모델 파티셔닝, 모델 병렬화, 협업 추론, 디스패치·스케줄링 |
+|무엇을 만들고자 하는가| 협업 추론 구조를 통해 LLM의 콜드 스타트를 단축하고, 파편 간 통신 오버헤드를 최적화하여 실시간 버스티 쿼리를 안정적으로 서빙하는 시스템 |
+|고객| 서버리스 환경에서 LLM 서비스를 구축·운영하려는 기업 및 개발자 |
+|Pain Point| - 대형 LLM 모델 로딩 시 발생하는 긴 콜드 스타트 지연
+<br>파편 간 통신 오버헤드로 인한 End-to-End 추론 지연
+<br>버스티 트래픽 시 스케줄링 부재로 인한 응답 지연 |
+|기술 솔루션 서술| 모델 파티셔닝(Sharding), NVMe 캐시 & Pinned Memory Pre-warm, 경량 RPC(프로토콜·프레임워크 비교) 최적화, 디스패치·스케줄링 전략 설계 |
+|구현기술 키워드| Kubernetes, KServe, Docker, Megatron-LM, DeepSpeed Inference, Ray Serve/RPC, NVMe 캐시, Pinned Memory, Locality-Aware Scheduling |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)| AWS(https://aws.amazon.com/ko/)<br>Docker(https://www.docker.com/)<br>Kubernetes(https://kubernetes.io/)<br>KServe (https://github.com/kserve/kserve)<br>Ray (https://docs.ray.io/)<br>Megatron-LM (https://github.com/NVIDIA/Megatron-LM)<br>DeepSpeed (https://github.com/microsoft/DeepSpeed) |
 |팀그라운드룰| https://github.com/DevEwha/AIOpsLab/blob/main/GroundRule.MD</br> |
 |최종수정일| 2025.03.17 |
 
