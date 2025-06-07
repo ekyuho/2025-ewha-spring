@@ -12,7 +12,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |[8](#team-8--드랍-더-8bit)|드랍 더 8bit|아이가 그린 이미지를 AI가 캐릭터로 구현하여 창의력을 확장하고, 부모와 함께 동화를 제작하며 정서적 교감을 키우는 프로그램|
 |[9](#team-9--구르미)|구르미|소규모 서버 자원 연합 기반 뮤츄얼 클라우드 시스템 설계 및 효율성 평가|
 |[10](#team-10--2ys)|2ys|Secure and Energy-Efficient Resource Optimization Framework for Real-time Task Execution in Industrial IoT|
-|[11](#team-11--DevEwha)|DevEwha|Serverless Architecture를 이용한 실시간 AI 추론 최적화|
+|[11](#team-11--DevEwha)|DevEwha|서버리스 환경의 협업 추론을 통한 실시간 AI 추론 최적화|
 |[12](#team-12--내가그린)|내가그린|**소소행 (小小行)** : AI를 활용하여 소도시 여행 추천과 지역 축제 정보를 제공하고, 소상공인들의 온/오프라인 판매를 돕는 통합 모바일 플랫폼|
 |[13](#team-13--e시크)|e시크| 프랜차이즈 베이커리 가맹점 POS 데이터를 활용한 수요 예측 시스템 개발 |
 |[14](#team-14--team329)|team329|Overcoming Missing Modalities with Clustering: A Cross-Attention and Federated Learning Approach|
@@ -157,7 +157,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |구현기술 키워드| Kubernetes, KServe, Docker, Megatron-LM, DeepSpeed Inference, Ray Serve/RPC, NVMe 캐시, Pinned Memory, Locality-Aware Scheduling |
 |사용할 소프트웨어의 구체적 명세(명칭과 URL)| AWS(https://aws.amazon.com/ko/)<br>Docker(https://www.docker.com/)<br>Kubernetes(https://kubernetes.io/)<br>KServe (https://github.com/kserve/kserve)<br>Ray (https://docs.ray.io/)<br>Megatron-LM (https://github.com/NVIDIA/Megatron-LM)<br>DeepSpeed (https://github.com/microsoft/DeepSpeed) |
 |팀그라운드룰| https://github.com/DevEwha/AIOpsLab/blob/main/GroundRule.MD</br> |
-|최종수정일| 2025.03.17 |
+|최종수정일| 2025.06.08 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
