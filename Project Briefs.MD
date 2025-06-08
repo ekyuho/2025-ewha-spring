@@ -219,6 +219,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 | **사용할 소프트웨어의 구체적 명세(명칭과 URL)** | 생성형 OpenAI API (Chat GPT-4o)<br>https://platform.openai.com/docs/guides/gpt<br><br>실시간 데이터베이스 (Firebase Realtime DB)<br>https://firebase.google.com/products/realtime-database<br><br>클라이언트와 서버 간 데이터 표현 및 통신 소프트웨어 (Rest API)<br>https://restfulapi.net/ |
 |팀그라운드룰| https://github.com/innoxo/TEAM-GRAD/blob/main/Ground_Rule.MD |
 |최종수정일| 2025-06-08 |
+
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
 ## Team 16  배꽃엔딩 
