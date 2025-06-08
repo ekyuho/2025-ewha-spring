@@ -1,1 +1,13 @@
 desktop.ini
+
+# 환경 설정, 캐시, 임시 및 데이터 파일 무시
+.env
+*.csv
+__pycache__/
+*.ipynb_checkpoints/
+
+# VS Code 설정 (옵션)
+.vscode/
+
+# 가상환경 폴더
+venv/

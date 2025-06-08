@@ -1,0 +1,5 @@
+pandas
+google-api-python-client
+konlpy
+scikit-learn
+python-dotenv
