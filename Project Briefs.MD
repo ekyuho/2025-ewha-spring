@@ -216,18 +216,9 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |Pain Point| 기존의 Idle 게임이나 생산성 앱은 사용자가 직접 To-Do List를 작성하고 작업 환경을 구성해야 하며, 이로 인해 자율적 사용에 한계가 있다. 또한 Idler 장르라는 유틸리티 툴이라 할수 있는 프로그램은 단순 타이머 기능과 정적인 인터페이스만 제공해, 일정 관리보다는 'Study With Me' 영상처럼 수동적 동기 부여에 그친다. ‘듀오링고’와 같이 게임 요소를 활용한 앱도 존재하지만, 특정 학습 콘텐츠에 국한되어 활용 범위가 제한적인 경우가 많다. 이러한 앱들은 사용자의 다양한 목표나 상황에 유연하게 대응하지 못하며, 지속적인 사용을 위한 동기 설계 역시 부족한 모습을 보여주고 있다. 결과적으로, 학습뿐 아니라 전반적인 일정 및 업무 관리까지 지원하면서, 개인 맞춤형 게임 시스템을 통해 능동적인 동기 부여를 제공할 수 있는 앱의 부재에서 시작하여 이러한 프로젝트를 기획했다. |
 |기술 솔루션 서술|  유니티 기반의 Android 앱을 프론트엔드로 사용하여, 사용자가 선택한 앱에 대해 퀘스트를 생성하고 이를 수행하도록 유도한다. 퀘스트에 대한 결과, 포인트 변화, 로그 등은 Firebase Realtime Database와 실시간으로 연동되며 시각화된다. 백엔드에서는 Android API를 통해 앱 포그라운드 사용 시간을 수집하고, Google Play API를 통해 각 앱의 설명 정보를 확보한다. 이 데이터를 기반으로 SVM과 TF-IDF 모델을 활용해 자동으로 앱 카테고리를 분류하고, 앱 정보와 사용자 사용 데이터를 바탕으로 퀘스트 성공 여부를 판단하고 포인트 지급 등의 로직을 처리한다. 또한, OpenAI GPT API를 통해 사용자의 하루 활동을 요약하거나 응원의 메시지를 생성하여 게임 내 피드백 요소로 활용한다. 전체 시스템은 사용자 활동 데이터를 분석하여 개인 맞춤형 게임 경험과 지속적인 동기 부여를 제공하는 데 초점을 맞추고 있다.  |
 |구현기술 키워드|  Chat GPT-4o, Firebase Realtime DB, Rest API  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  생성형 OpenAI API (Chat GPT-4o)  
-https://platform.openai.com/docs/guides/gpt  
-
-실시간 데이터베이스 (Firebase Realtime DB)  
-https://firebase.google.com/products/realtime-database  
-
-클라이언트와 서버 간 데이터 표현 및 통신 소프트웨어 (Rest API)  
-https://restfulapi.net/  
- |
+| **사용할 소프트웨어의 구체적 명세(명칭과 URL)** | 생성형 OpenAI API (Chat GPT-4o)<br>https://platform.openai.com/docs/guides/gpt<br><br>실시간 데이터베이스 (Firebase Realtime DB)<br>https://firebase.google.com/products/realtime-database<br><br>클라이언트와 서버 간 데이터 표현 및 통신 소프트웨어 (Rest API)<br>https://restfulapi.net/ |
 |팀그라운드룰| https://github.com/innoxo/TEAM-GRAD/blob/main/Ground_Rule.MD |
 |최종수정일| 2025-06-08 |
-
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
 ## Team 16  배꽃엔딩 
@@ -240,7 +231,7 @@ https://restfulapi.net/
 |Pain Point| 온라인으로 장을 보는 사람이 많아졌지만, 성분이나 원재료 정보를 확인하려면 제품 상세 페이지를 일일이 확인해야하는 불편함이 존재함. 그리고 성분표는 복잡하여 빠르게 파악하기가 어려움. 여러 제품을 비교하려면 직접 하나하나 확인하거나 검색해서 정리해야 하는 번거로움이 있는데, 급하게 사야 하거나 건강상 성분을 주의해야 하는 사람에겐 특히 더 큰 부담이 되는 경우가 많아 이 불편함을 해소하고자 함. |
 |기술 솔루션 서술| -성분 분석 (OCR)<br>Google Vision API를 통해 성분표에서 텍스트를 추출하고, 원재료명과 영양정보를 도출하여 제품 데이터를 구축함.<br><br>-제품 인식<br>Google Cloud Vision API를 사용하여 사진이 어떤 제품인지 인식함.<br><br>-대체 제품 추천<br>XGBoost와 LightFM 알고리즘을 활용해, 동일 제품군 내에서 사용자 조건에 가장 적합한 제품을 추천함.<br><br>-챗봇 기능<br>GPT-4o 기반 챗봇이 탑재되어 있어, 사용자가 질문할 경우 성분 설명, 섭취 시 주의사항 등을 알려줌. |
 |구현기술 키워드| Google Cloud Vision API, OCR, GPT-4o |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)| Google Cloud Vision (https://cloud.google.com/vision)<br>GPT-4o (https://chatgpt.com/)<br>XGBoost, LightFM |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)| Google Cloud Vision(https://cloud.google.com/vision)<br>GPT-4o (https://chatgpt.com/)<br>XGBoost, LightFM |
 |팀그라운드룰| https://github.com/ppandpups/2025-ewha-spring/blob/main/GroundRule.MD |
 |최종수정일| 2025-06-05 |
 
