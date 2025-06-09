@@ -318,7 +318,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |구현기술 키워드| Kotlin(Android), Spring Boot, EC2, Docker, Whisper API, Pyannote API, Claude Haiku, GPT-4, LangChain, FAISS, ko-sbert-nli, S3, RDS, DynamoDB |
 |사용할 소프트웨어의 구체적 명세(명칭과 URL)| - **Whisper API**: https://openai.com/research/whisper <br> - **Pyannote API**: https://github.com/pyannote/pyannote-audio <br> - **Claude Haiku**: https://www.anthropic.com/index/claude-haiku <br> - **OpenAI GPT-4**: https://openai.com/gpt-4 <br> - **LangChain**: https://www.langchain.com <br> - **FAISS**: https://github.com/facebookresearch/faiss <br> - **ko-sbert-nli**: https://huggingface.co/skt/kobert-base-v1 |
 |팀그라운드룰| https://github.com/unikohoho/21_project/blob/main/GroundRule.MD |
-|최종수정일| 2025.04.16 |
+|최종수정일| 2025.06.09 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
