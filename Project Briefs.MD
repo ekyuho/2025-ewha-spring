@@ -316,10 +316,9 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |Pain Point| 초보 부모는 실전 경험이 부족해 아이의 감정을 이해하거나 대응하기 어렵고, 기존 교육은 현실 적용이 어렵거나 시간·비용 부담이 큽니다. 실시간 상담이나 커뮤니티도 부족합니다. |
 |기술 솔루션 서술|1. **홈캠 기반 음성 분석** - S3에 저장된 오디오를 Whisper API로 텍스트 변환하고, Pyannote API로 화자 분리합니다. 사용자 정보, 대화문 기반 피드백 요청 prompt를 생성해 Claude Haiku로 넘겨 감정, 말투, 빈도, 상호작용을 분석하고 피드백을 생성합니다.<br>2. **육아 성향 진단 및 워크북 추천** - PSDQ 문항으로 분석한 성향 진단결과와 입력한 사용자 정보(아이 나이, 육아 목표, 아이 특성 등)을  GPT-4로 반영한 맞춤형 워크북을 추천합니다. 콘텐츠는 사용자가 직접 수행할 수 있는 세가지 형식 액티비티로 구성되어 실질적인 육아에 적용되도록 합니다. . 콘텐츠는 퀴즈와 실천 과제로 구성되어 반복 학습을 유도합니다.<br>3. **RAG 기반 AI 챗봇** - 사용자의 질문에 대해 참고할 수 있는 문서를 검색하고, 그 내용을 바탕으로 RAG 기반의 신뢰성있고 개인화된 답변을 제공합니다.|
 |구현기술 키워드| Kotlin(Android), Spring Boot, EC2, Docker, Whisper API, Pyannote API, Claude Haiku, GPT-4, LangChain, FAISS, ko-sbert-nli, S3, RDS, DynamoDB, OCR, GCS |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)| - **Whisper API**: https://openai.com/research/whisper <br> - **Pyannote API**: https://github.com/pyannote/pyannote-audio <br> - **Claude Haiku**: https://www.anthropic.com/index/claude-haiku <br> - **OpenAI GPT-4**: https://openai.com/gpt-4 <br> - **LangChain**: https://www.langchain.com <br> - **FAISS**: https://github.com/facebookresearch/faiss <br> - **ko-sbert-nli**: https://huggingface.co/skt/kobert-base-v1<br> - Google Cloud Vision API: https://cloud.google.com/vision/docs/pdf<br>
-- Google Cloud Storage (GCS): https://cloud.google.com/storage?hl=ko<br>|
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)| - **Whisper API**: https://openai.com/research/whisper <br> - **Pyannote API**: https://github.com/pyannote/pyannote-audio <br> - **Claude Haiku**: https://www.anthropic.com/index/claude-haiku <br> - **OpenAI GPT-4**: https://openai.com/gpt-4 <br> - **LangChain**: https://www.langchain.com <br> - **FAISS**: https://github.com/facebookresearch/faiss <br> - **ko-sbert-nli**: https://huggingface.co/skt/kobert-base-v1<br> - Google Cloud Vision API: https://cloud.google.com/vision/docs/pdf<br>- Google Cloud Storage(GCS):https://cloud.google.com/storage?hl=ko<br>|
 |팀그라운드룰| https://github.com/unikohoho/21_project/blob/main/GroundRule.MD |
-|최종수정일| 2025.04.16 |
+|최종수정일| 2025.06.09 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
