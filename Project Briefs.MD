@@ -150,9 +150,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |프로젝트 키워드| 서버리스 ai 배포, 모델 파티셔닝, 모델 병렬화, 협업 추론, 디스패치·스케줄링 |
 |무엇을 만들고자 하는가| 협업 추론 구조를 통해 LLM의 콜드 스타트를 단축하고, 파편 간 통신 오버헤드를 최적화하여 실시간 버스티 쿼리를 안정적으로 서빙하는 시스템 |
 |고객| 서버리스 환경에서 LLM 서비스를 구축·운영하려는 기업 및 개발자 |
-|Pain Point| - 대형 LLM 모델 로딩 시 발생하는 긴 콜드 스타트 지연
-<br>파편 간 통신 오버헤드로 인한 End-to-End 추론 지연
-<br>버스티 트래픽 시 스케줄링 부재로 인한 응답 지연 |
+|Pain Point| - 대형 LLM 모델 로딩 시 발생하는 긴 콜드 스타트 지연<br>파편 간 통신 오버헤드로 인한 End-to-End 추론 지연<br>버스티 트래픽 시 스케줄링 부재로 인한 응답 지연 |
 |기술 솔루션 서술| 모델 파티셔닝(Sharding), NVMe 캐시 & Pinned Memory Pre-warm, 경량 RPC(프로토콜·프레임워크 비교) 최적화, 디스패치·스케줄링 전략 설계 |
 |구현기술 키워드| Kubernetes, KServe, Docker, Megatron-LM, DeepSpeed Inference, Ray Serve/RPC, NVMe 캐시, Pinned Memory, Locality-Aware Scheduling |
 |사용할 소프트웨어의 구체적 명세(명칭과 URL)| AWS(https://aws.amazon.com/ko/)<br>Docker(https://www.docker.com/)<br>Kubernetes(https://kubernetes.io/)<br>KServe (https://github.com/kserve/kserve)<br>Ray (https://docs.ray.io/)<br>Megatron-LM (https://github.com/NVIDIA/Megatron-LM)<br>DeepSpeed (https://github.com/microsoft/DeepSpeed) |
