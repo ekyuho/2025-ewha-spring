@@ -119,11 +119,11 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |무엇을 만들고자 하는가| 소규모 스타트업이나 연구실에서 보유한 서로 다른 소유자의 서버들을 연합하여, 유휴 컴퓨팅 자원을 효율적으로 공유하고, 중앙 컨트롤러와 에이전트 기반으로 가상 클라우드처럼 운영되는 분산형 뮤츄얼 클라우드 시스템을 설계 및 구현하여 효율성과 현실성을 검증한다. |
 |고객| 시스템은 클라우드 서비스 비용 부담으로 지속적인 사용이 어려운 소규모 스타트업, 연구실, 개인 개발자 및 연구자들을 대상으로 한다. |
 |Pain Point| 소규모 개발팀이나 개인 연구자들이 클라우드를 사용할 때 발생하는 예상보다 높은 비용 부담 문제와, 대학 연구실이나 개인 환경에서 다수의 서버가 유휴 상태로 낭비되는 문제를 해결하고자 한다. 또한, AWS 등 중앙 집중식 클라우드는 특정 리전에서 장애가 발생할 경우 전체 서비스가 마비될 수 있는 구조적 취약점과 대규모 확장 과정에서 발생하는 병목 현상을 가지고 있다. |
-|기술 솔루션 서술| 중앙 컨트롤러와 에이전트 기반으로 유휴 자원을 분산 관리하며, 다양한 작업 배분 정책과 장애 대응 전략을 통해 효율성을 향상시킨 시스템을 구현한다. |
-|구현기술 키워드|중앙 컨트롤러-에이전트 구조, 분산 자원 공유, 작업 체크포인팅, VPN 기반 네트워크, 내결함성 설계, JWT 인증, TLS 통신 |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  Slurm(https://slurm.schedmd.com/slurm.conf.html), Kubernetes(https://kubernetes.io/), AWS(https://aws.amazon.com/ko/?nc2=h_lg), Ray Tune(https://docs.ray.io/en/latest/index.html), Apache Arrow(https://arrow.apache.org/), PyTorch(https://pytorch.org/)  |
+|기술 솔루션 서술| 중앙 컨트롤러와 에이전트 기반으로 유휴 자원을 분산 관리하며, 다양한 작업 배분 정책과 장애 대응 전략을 통해 효율성을 향상시킨 시스템을 구현한다. WireGuard VPN을 사용하여 서로 다른 네트워크에 존재하는 사용자와 공급간을 가상 사설 네트워크로 연결하고 pycryptodome 기반 AES 암호화를 통해 요청과 결과 모두 암호화하여 안전하고 신뢰할 수 있는 방식으로 작업을 처리한다. VirtualBox + Docker로 격리된 처리 공간에서 작업 실행하고  flask API로 수신 응답을 자동화하고 REST API로 설계하여 자동응답을 할 수 있게 구성한다. pytest로 각 단계의 동작을 테스트하고, 오류 발생 시 자동 복구 가능하게 한다. |
+|구현기술 키워드|중앙 컨트롤러-에이전트 구조, 분산 자원 공유, 작업 체크포인팅, VPN 기반 네트워크, VPN 암호화 통신, 데이터 암호화, 가상화, 자동처리 API |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  Wireguard(https://www.wireguard.com/), pycryptodome(https://pycryptodome.readthedocs.io/), pytest(https://docs.pytest.org/), Flask(https://flask.palletsprojects.com), VirtualBox(https://www.virtualbox.org/)|
 |팀그라운드룰| https://github.com/Team-Gurumi/Gurumi/blob/main/GroundRule.md |
-|최종수정일| 2025-03-31  |
+|최종수정일| 2025-06-09  |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
