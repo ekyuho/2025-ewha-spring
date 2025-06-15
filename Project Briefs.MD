@@ -241,16 +241,16 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 ## Team 17  그린데빌 
 |항목|내용|
 |---|---|
-|프로젝트명|  전자 의료 기록(EHR) 기반 질병 예측 모델의 Source-free domain adaptation 적용 및 성능 비교  |
+|프로젝트명|  전자 의료 기록(EHR) 기반 질병 예측 모델의 Source-Free Domain Adaptation 적용 및 성능 비교  |
 |프로젝트 키워드|  전자 의료 기록(EHR), 질병 예측, 모델 비교, Source-Free Domain Adaptation (SFDA), TENT (Test-time Entropy Minimization)   |
 |무엇을 만들고자 하는가|  전자 의료 기록(EHR) 데이터를 활용하여 특정 병원에서 구축된 질병 예측 모델이 별도의 추가 데이터 없이도(source-free) 타 병원의 환경에서 높은 예측 성능을 유지할 수 있도록 도메인 적응(Domain Adaptation)을 적용하고, 그 효과를 비교·분석하고자 한다.  |
 |고객| 병원 기관 |
 |Pain Point| 병원마다 질병 및 정상 환자의 데이터 분포, 측정 기기, 진단 기준 등이 서로 달라 데이터의 양상이 이질적이다. 또한 의료 데이터는 개인정보 보호 문제로 인해 병원 간 직접적인 데이터 공유가 어려워, 특정 병원에서 학습된 모델이 다른 병원에서는 충분한 성능을 발휘하지 못하는 경우가 많다. 따라서 원래 병원의 데이터를 추가로 사용하지 않고도 새로운 병원의 데이터에 잘 적응하여 성능을 유지할 수 있는 방법이 필요하다. |
-|기술 솔루션 서술| non-IID(Independent and Identically Distributed) 데이터인 eICU 등의 EHR 데이터를 활용한 질병 예측 모델에 source-free domain adaptation을 적용하여 여러 병원에서 general model과 entropy 기반 방법론인 TENT 방식을 적용한 모델의 성능을 비교한다. |
+|기술 솔루션 서술| non-IID(Independent and Identically Distributed) 데이터인 eICU와 같은 EHR 데이터를 활용한 질병 예측 모델에 source-free domain adaptation을 적용하여 타 병원으로부터 공유 받은 일반 예측 모델과 entropy 기반 방법론인 TENT 기법을 적용한 모델의 성능을 비교한다. |
 |구현기술 키워드|  Source-Free Domain Adaptation (SFDA), TENT (Test-time Entropy Minimization), NLP  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  TENT Official Github https://github.com/DequanWang/TENT<br>Med-BERT https://github.com/ZhiGroup/Med-BERT<br>eICU Collaborative Research Database https://eicu-crd.mit.edu/<br>Hugging Face Transformers https://github.com/huggingface/transformers |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  TENT Official Github https://github.com/DequanWang/TENT<br>Med-BERT https://github.com/ZhiGroup/Med-BERT<br>eICU Collaborative Research Database https://eicu-crd.mit.edu/<br>Hugging Face MedBERT https://huggingface.co/Charangan/MedBERT |
 |팀그라운드룰| https://github.com/2025start-GreenDevil/2025-start/blob/main/Groundrule.md |
-|최종수정일| 2025-04-15 |
+|최종수정일| 2025-06-16 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
