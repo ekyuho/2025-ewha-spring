@@ -275,16 +275,16 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 ## Team 19  카드메이트
 |항목|내용|
 |---|---|
-|프로젝트명|  카드별 할인 및 혜택을 분석하여 사용자 위치 기반 최적의 할인 혜택을 제공하는 매장을 안내해주는 모바일 어플리케이션  |
+|프로젝트명|  사용자와의 거리, 이전 방문 횟수, 카드 혜택 유형(할인, 캐시백, 적립)에 따른 예상 혜택을 스코어링하여, 사용자에게 가장 유리한 카드와 매장을 추천하는 모바일 어플리케이션  |
 |프로젝트 키워드|  카드 혜택, 위치 기반, 할인, 적립  |
-|무엇을 만들고자 하는가|  본인이 소유하고 있는 카드들의 혜택을 기반으로 사용자의 위치 주변의 할인 매장을 추천해주는 서비스 |
+|무엇을 만들고자 하는가|  1. 사용자가 매장 유형을 선택하면, 사용자 보유 카드에서 혜택이 적용되는 매장에 대해 점수화하여, 위치 및 이전 방문 횟수, 예상 카드 혜택을 기반으로 가장 유리한 매장을 추천하는 시스템<br>2. 사용자가 매장을 검색하면, 보유한 카드의 할인·캐시백·적립 혜택을 점수화하여 가장 유리한 혜택을 받을 수 있는 카드를 추천하는 시스템<br>3. 카드사의 기간 한정 이벤트 정보(브랜드 할인, 매장 할인)를 매일 크롤링하여, 이벤트 기간 내에만 사용자에게 노출되도록 자동 스케줄링하는 시스템|
 |고객|  1. 여러 종류의 카드를 소유하고 있으나 실제로 모든 카드를 사용하고 있지 않은 고객<br>2. 소유한 카드의 할인 혜택을 최대치로 활용하고 싶은 고객 |
 |Pain Point|  1. 카드사와 소비자의 정보의 비대칭성: 카드사에서 다양한 혜택을 제공하고 있으나, 고객은 어떤 혜택이 언제 적용되는지 알기 어려움<br/>2. 잉여 카드 방치: 여러 종류의 카드를 보유하고 있는 소비자의 경우, 어떤 카드가 어떤 상황에서 유리한지 파악하지 못해 일부 카드는 사용하지 않고 방치함함<br/>3. 맞춤형 정보 부족: 사용자 위치 정보 관련, 관심사 기반 혜택 정보를 제공받지 못함  |
-|기술 솔루션 서술| 1. 크롤링 : 카드사의 카드 혜택 정보 크롤링<br>2. AI : 크롤링한 정보들을 정제 및 위치 기반 매장 추천<br>3. Naver Map : 지도에 핀으로 추천하는 매장 표시 |
-|구현기술 키워드| 추천 알고리즘, 자동 배포, GPS |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  React Native: https://reactnative.dev<br>springboot: https://spring.io/projects/spring-boot<br>mysql: https://www.mysql.com<br>docker: https://www.docker.com |
+|기술 솔루션 서술| 1. 크롤링 : 카드사의 카드 혜택 정보 크롤링<br>2. AI : 크롤링한 정보들을 정제 및 구조화<br>3. Kakao Map API : 근처 매장 검색 및 카테고리 추출 |
+|구현기술 키워드| 웹 크롤링, 자연어 처리, 추천 알고리즘 |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  React Native: https://reactnative.dev<br>springboot: https://spring.io/projects/spring-boot<br>mysql: https://www.mysql.com<br>docker: https://www.docker.com <br>Selenium: https://www.selenium.dev<br>BeautifulSoup: https://pypi.org/project/beautifulsoup4/<br>Gemini (Google AI - Gemini 2.0 Flash 모델): https://ai.google.dev/<br>Kakao Map API - 장소 검색 API: https://developers.kakao.com/docs/latest/ko/local/dev-guide#search-by-keyword|
 |팀그라운드룰| [#19 CardMates Ground Rule](https://github.com/CardMates/WiseCard/blob/main/GroundRule.md) |
-|최종수정일| 2025.04.08 |
+|최종수정일| 2025.06.19 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
