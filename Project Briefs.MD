@@ -8,20 +8,20 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |[3](#team-3--노페인-노게인)|노페인 노게인|청각 장애인을 위한 수어-텍스트-음성 변환 비대면 진료 서비스|
 |[4](#team-4--이데댕김)|이데댕김|블록체인 비전문가 의사결정자를 위한, Fine-tuned CodeBERT 기반 스마트 컨트랙트의 보안 취약점 분석 및 LLM 기반 솔루션 리포트 제공 자동화 웹 서비스|
 |[6](#team-6--닌자토끼)|닌자토끼|전통주에 관심이 많지만 관련 지식이 부족한 입문자들을 위해, 사용자의 주류 선호도를 학습하고 위치·시간 등의 맥락을 반영하여, 개인 맞춤형 전통주를 추천해주는 AI 기반의 전통주 큐레이션 서비스|
-|[7](#team-7--우주정복-연구젝트)|우주정복 연구젝트|[멀티모달  생성 AI] 멀티 모달리티 학습 환경에서 누락된 모달리티 데이터 생성 연구|
+|[7](#team-7--우주정복-연구젝트)|우주정복 연구젝트|은하 병합 여부 및 단계를 분류하는 이미지-수치기반 멀티모달 AI 모델 개발|
 |[8](#team-8--드랍-더-8bit)|드랍 더 8bit|아이가 그린 이미지를 AI가 캐릭터로 구현하여 창의력을 확장하고, 부모와 함께 동화를 제작하며 정서적 교감을 키우는 프로그램|
 |[9](#team-9--구르미)|구르미|소규모 서버 자원 연합 기반 뮤츄얼 클라우드 시스템 설계 및 효율성 평가|
 |[10](#team-10--2ys)|2ys|Secure and Energy-Efficient Resource Optimization Framework for Real-time Task Execution in Industrial IoT|
-|[11](#team-11--DevEwha)|DevEwha|Serverless Architecture를 이용한 실시간 AI 추론 최적화|
+|[11](#team-11--DevEwha)|DevEwha|서버리스 환경의 협업 추론을 통한 실시간 AI 추론 최적화|
 |[12](#team-12--내가그린)|내가그린|**소소행 (小小行)** : AI를 활용하여 소도시 여행 추천과 지역 축제 정보를 제공하고, 소상공인들의 온/오프라인 판매를 돕는 통합 모바일 플랫폼|
 |[13](#team-13--e시크)|e시크| 프랜차이즈 베이커리 가맹점 POS 데이터를 활용한 수요 예측 시스템 개발 |
 |[14](#team-14--team329)|team329|Overcoming Missing Modalities with Clustering: A Cross-Attention and Federated Learning Approach|
-|[15](#team-15--GRAD)|GRAD|일정 관리가 어려운 사람들을 위한 개인 맞춤 대학 생활 AI 비서|
-|[16](#team-16--배꽃엔딩)|배꽃엔딩|AI 기반 성분 분석 및 추천 알고리즘을 통해, 편의점 가공식품을 사용자 조건에 맞게 분석·비교하고, 맞춤형 제품을 제안하는 개인 맞춤형 서비스|
+|[15](#team-15--GRAD)|GRAD| play & focus 앱 사용 관리 게임 프로젝트
+|[16](#team-16--배꽃엔딩)|배꽃엔딩|AI 기반 성분 분석 및 추천 알고리즘을 통해, 온라인 쇼핑몰의 가공식품을 사용자 조건에 맞게 분석·비교하고, 맞춤형 제품을 제안해주는 개인 맞춤형 서비스|
 |[17](#team-17--그린데빌)|그린데빌|전자 의료 기록(EHR) 기반 질병 예측 모델의 Source-free domain adaptation 적용 및 성능 비교|
-|[18](#team-18--코드만두(Code-만-Do!))|코드만두(Code 만 Do!)|AI 음성 요약으로 공연 후기를 간편하게 기록하고, 생성형 AI 티켓 이미지로 나만의 포토티켓을 간직하는 디지털 티켓북|
+|[18](#team-18--코드만두Code-만-Do)|코드만두(Code 만 Do!)|AI 음성 요약으로 공연 후기를 간편하게 기록하고, 생성형 AI 티켓 이미지로 나만의 포토티켓을 간직하는 디지털 티켓북|
 |[19](#team-19--카드메이트)|카드메이트|카드별 할인 및 혜택을 분석하여 사용자 위치 기반 최적의 할인 혜택을 제공하는 매장을 안내해주는 모바일 어플리케이션|
-|[20](#team-20--스카이화)|스카이화|트렌드 기반으로 실시간 피드백을 제공하는 모바일 어플리케이션|
+|[20](#team-20--스카이화)|스카이화|여행 유튜버(인플루언서)를 위한 틱톡, 유튜브의 트렌드를 분석하여 현재 여행 트렌드를 제공하고, 사용자가 업로드 할 영상을 분석하여 (맞춤형) 해시태그와 제목을 제공하는 모바일 어플리케이션|
 |[21](#team-21--투애니원)|투애니원|AI 기반 부모 교육 및 육아 피드백 어플리케이션|
 |[22](#team-22--큐리호스(Curihous))|큐리호스(Curihous)|초보 투자자가 AI 기반 자동매매를 활용하며 투자 원리를 학습하고 성장할 수 있는 맞춤형 퀀트 트레이딩 플랫폼|
 |[23](#team-23--졸업하고싶조)|ScheduleSync| Synchronizing Schedules Seamlessly: A Collaborative Web Application for Personal and Group Planning
@@ -52,14 +52,14 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |---|---|
 |프로젝트명|  블록체인 비전문가 의사결정자를 위한, Fine-tuned CodeBERT 기반 스마트 컨트랙트의 보안 취약점 분석 및 LLM 기반 솔루션 리포트 제공 자동화 웹 서비스  |
 |프로젝트 키워드|  블록체인 기반 스마트 컨트랙트, 코드 내 보안 결함 탐지 및 분석, 생성형 AI 기반 취약점 분석 리포트 생성  |
-|무엇을 만들고자 하는가|  스마트 컨트랙트의 보안 취약점을 자동 탐지하고, 해킹 시뮬레이션을 통해 보안 점수를 제공하며, 이해하기 쉬운 분석 리포트를 통한 안전한 코드 제안과 블록체인 보안 전문가 중개 솔루션으로 개인 및 소규모 기업 내 블록체인 비전문가가 안전한 계약서를 합리적인 가격으로 배포할 수 있도록 지원하는 웹서비스 입니다.  |
+|무엇을 만들고자 하는가|  스마트 컨트랙트의 보안 취약점을 자동 탐지하고, 해킹 시뮬레이션을 통해 보안 점수를 제공하며, 이해하기 쉬운 분석 리포트 제공 및 코드 수정 제안으로 개인 및 소규모 기업 내 블록체인 비전문가가 안전한 계약서를 합리적인 가격으로 배포할 수 있도록 지원하는 웹서비스 입니다.  |
 |고객| 김이화 (33세, 스타트업 대표) <br> - 고객 경험 : 독서 애호가 커뮤니티 웹서비스를 운영하는 스타트업의 대표다. 직원은 10명 이내로 블록체인 전문가는 없다. 이번에 커뮤니티 토큰으로 아이콘, 배지 등을 구매할 수 있는 기능을 추가하려고 한다. 스마트 컨트랙트 구현은 블록체인 개발자 1명에게 외주를 주었지만, 배포 후 수정이 어렵다보니 배포하기 전에 보안 문제가 있는지 한 번 더 확인하고 싶다.<br> - 고객 요구: <br> 1. 저렴한 가격 : 보안 감사 서비스를 알아보니 전문가가 레포트를 써주는 건 가격이 월 $200 정도로 비싸다. 추가하려는 게 메인 기능이 아니고, 이미 고정 지출이 많아서 금액이 부담스럽다. <br> 2. 쉬운 설명 : 회사 내에 블록체인 전문가가 없기 때문에 비전문가의 수준에 맞게 설명해주었으면 좋겠다. <br><br> 박길동 (54세, 마케터 직무 직장인)<br>- 고객 경험: 회사에 다니며 부업으로 부동산 투자 강의 컨텐츠를 판매 중이다. 요즘 트렌드인 블록체인을 자신도 써보고 싶다. 그래서 유료 멤버십과 프리미엄 컨텐츠 판매에 블록체인 기반 커뮤니티 토큰을 도입하려고 한다. 스마트 컨트랙트 구현은 지인의 대학생 딸에게 외주를 맡겼다. 그런데 경력이 없는 주니어 개발자가 작성한 코드라서 보안 문제가 없을지 확신하기 어렵다. <br>- 고객 요구: <br> 1. 저렴한 가격 : 부업 수입이 그렇게 크지 않아서 이 일에 큰 돈을 쓰고 싶지는 않다.<br> 2. 쉬운 설명 : 블록체인 공부도 해보았지만, IT업계 사람이 아니다 보니 기술적인 부분은 도통 모르겠다. 어떤 위험이 있다는 건지 어려운 용어 없이 쉬운 언어로 풀어서 알려주면 좋겠다. |
 |Pain Point| 1. 스마트 컨트랙트는 한 번 배포하면 수정이 불가능하므로 사전에 보안 점검을 하지 않으면 배포 이후 취약점을 수정할 수 없으며, 이로 인해 금전적인 손실이 발생할 수 있다. <br> 2. 블록체인은 보안 취약점이 지속적으로 지적되는 분야이기에, 실제 해킹을 당하면 대규모 데이터 유출과 자산 손실이 발생할 수 있다. <br> 3. 기존의 스마트 컨트랙트 보안 감사 외주를 받는 개인 컨설턴트나 전문 감사 업체는 개인과 소규모 기업이 사용하기에 비싼 비용 부담이 있다.<br> 4. 기존 서비스들은 CLI 기반으로 서비스가 제공되어, 비전문가들이 사용하기에 기술적인 장벽이 존재한다. |
-|기술 솔루션 서술| 1. 스마트 컨트랙트의 보안 취약점 중 대표적인 Reentrancy Attack과 Integer Overflow/Underflow를 탐지하고 대응 방안을 제시하는 기능을 우선적으로 제공하는 솔루션 <br> 2. 스마트 컨트랙트 보안 취약점 데이터를 기반으로 CodeBERT AI모델을 Fine-tuning하여, 코드 내 보안 결함을 자동으로 탐지 및 분석하여 자동화하는 솔루션 <br> 3. 해킹 시뮬레이션 오픈 소스 (echidna)를 통해 보안 점수 및 개선 방안을 제공하는 솔루션 <br> 4. 보안 분야의 비전문가도 쉽게 이해할 수 있도록, 생성형 AI(GPT-4.5)를 활용해 쉬운 용어로 분석 리포트 생성을 자동화하는 솔루션 |
-|구현기술 키워드|  Fine-tuning, 블록체인 보안, Slither,<br> Fine-tuned CodeBERT, echidna, GPT-4.5  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  스마트 컨트랙트 보안 분석 도구 <br> - 스마트 컨트랙트 보안 분석을 위한 오픈 소스 도구: Slither (https://github.com/crytic/slither) <br> - 이더리움 해킹 시뮬레이션 오픈소스 : echidna (https://github.com/crytic/echidna) <br><br> AI 모델 <br> - 코드에 특화된 AI 모델 : CodeBERT (https://github.com/microsoft/CodeBERT) <br> -  생성형 AI 모델 : GPT-4.5 (https://openai.com/) <br><br> 파인튜닝 프레임워크 <br> - AI 모델을 쉽게 활용하고 파인튜닝 할 수 있는 라이브러리 :  Hugging Face Transformers (https://huggingface.co/docs/transformers) <br>- 오픈소스 머신러닝 프레임워크 : PyTorch (https://pytorch.org/) <br><br> 프론트엔드 <br> - UI개발을 위한 JS 라이브러리 :  React <br><br> 백엔드 <br> - Python 기반 웹 프레임워크: FastAPI <br> - 데이터베이스: MongoDB<br>- 서버 배포, 데이터 저장 : AWS (https://aws.amazon.com/) EC2, S3   |
+|기술 솔루션 서술| 1. 스마트 컨트랙트의 보안 취약점 중 대표적인 Reentrancy Attack과 Integer Overflow/Underflow를 탐지하고 대응 방안(코드 수정)을 제시하는 기능을 우선적으로 제공하는 솔루션 <br> 2. 스마트 컨트랙트 보안 취약점 데이터를 기반으로 Slither API와 CodeBERT AI모델을 활용하여, 코드 내 보안 결함을 자동으로 탐지 및 분석하여 자동화하는 솔루션 <br> 3. 해킹 시뮬레이션 오픈 소스 (echidna)를 통해 보안 점수 및 개선 방안을 제공하는 솔루션 <br> 4. 보안 분야의 비전문가도 쉽게 이해할 수 있도록, 생성형 AI(GPT-4.5)를 활용해 쉬운 용어로 분석 리포트 생성을 자동화하는 솔루션 |
+|구현기술 키워드|  블록체인 보안, Slither, CodeBERT, echidna, GPT-4.5  |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  스마트 컨트랙트 보안 분석 도구 <br> - 스마트 컨트랙트 보안 분석을 위한 오픈 소스 도구: Slither (https://github.com/crytic/slither) <br> - 이더리움 해킹 시뮬레이션 오픈소스 : echidna (https://github.com/crytic/echidna) <br><br> AI 모델 <br> - 코드에 특화된 AI 모델 : CodeBERT (https://github.com/microsoft/CodeBERT) <br> -  생성형 AI 모델 : GPT-4.5 (https://openai.com/) <br><br> 프론트엔드 <br> - UI개발을 위한 JS 라이브러리 :  React <br><br> 백엔드 <br> - Python 기반 웹 프레임워크: FastAPI <br> - 데이터베이스: MongoDB<br>- 서버 배포, 데이터 저장 : AWS (https://aws.amazon.com/) EC2, S3   |
 |팀그라운드룰| https://github.com/EWHA-Best/Capstone/blob/main/GroundRule.md |
-|최종수정일| 2025.04.15 |
+|최종수정일| 2025.06.19 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -71,27 +71,27 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |무엇을 만들고자 하는가| 사용자의 주류 선호도를 학습하고 위치·시간 등의 맥락을 반영하여, 개인 맞춤형 전통주를 추천해주는 AI 기반의 전통주 큐레이션 서비스 |
 |고객| 김이화 (24세, 여) <br>• 직업: 대학생<br>• 고민 <br>◦ 평소 술을 즐기며 전통주에 관심이 생겼지만 종류가 너무 많고, 어떤 전통주가 내 입맛에 맞을지 감이 안 옴<br>◦ 편의점이나 마트에서는 찾기 어렵고, 온라인 판매처도 정보가 너무 부족함<br>◦ SNS에서 봤던 ‘막걸리’나 ‘약주’가 궁금하지만, 언제 어떤 상황에 마시면 좋을지 모르겠음<br>• 기대하는 서비스 <br>◦ 내 취향(단맛/산미/도수)이나 식사, 분위기, 계절 같은 맥락을 반영해 전통주를 추천해주는 서비스<br>◦ 시각적으로 깔끔하고, 전통주 설명이 어렵지 않았으면 좋겠음 <br>◦ “이런 안주랑 어울려요”, “친구들이랑 캠핑 갈 때 좋아요” 같은 맥락 추천도 반김 |
 |Pain Point| 1. 현재 전통주 시장은 빠르게 성장하고 있음. 특히 젊은 세대를 중심으로<br>-> 젊은 세대는 자신이 좋아하는 술맛을 찾고자 다양한 술을 경험하려 함<br>-> 하지만 아직 ‘와인’만큼의 콘텐츠, 스토리텔링, 경험 요소가 결합된 서비스는 부족<br>2. 정보의 파편화와 낮은 접근성으로 인한 전통주 선택의 어려움<br>3. 기존 서비스는 사용자의 취향을 학습하지 않는 단발성 추천에 그치고 있음  |
-|기술 솔루션 서술| 1. Recombee API를 사용한 하이브리드 추천 엔진<br> - 추천 술에 대한 만족 여부, post 클릭 여부, 좋아요/싫어요, 북마크, 리뷰 평점 기반 추천(Automatic A/B Testing) <br> - 사용자 행동에 대한 가중치 코드 기반 로직 사용 <br> - 날씨, 지역에 따른 맞춤 추천 <br> - rqs.RecommendItemsToUser를 사용한 추천 이유 설명 <br> - Bias Control 알고리즘을 통해 과도한 중복 추천을 막음 <br> - Real-time 모델 튜닝으로 실시간 사용자 행동을 반영하여 추천함 <br>2. Chat GPT 챗봇 <br> - 날씨에 어울리는 전통주나 특정 음식에 어울리는 전통주를 대화형으로 추천 <br>3. Weather API를 사용해 실시간 날씨를 반영한 전통주 추천 <br>4. Geolocation API를 사용해 위치/지역 기반 전통주 추천 <br>5. 크롤링을 사용해 주류별 매칭 음식, 지역별 전통주 관련 축제 가져오기  |
+|기술 솔루션 서술| 1. Recombee API를 사용한 하이브리드 추천 엔진<br> - 추천 술에 대한 만족 여부, post 클릭 여부, 좋아요/싫어요, 북마크, 리뷰 평점 기반 추천(Automatic A/B Testing) <br> - 사용자 행동에 대한 가중치 코드 기반 로직 사용 <br> - 날씨, 지역에 따른 맞춤 추천 <br> - rqs.RecommendItemsToUser를 사용한 추천 이유 설명 <br> - Bias Control 알고리즘을 통해 과도한 중복 추천을 막음 <br> - Real-time 모델 튜닝으로 실시간 사용자 행동을 반영하여 추천함 <br>2. Chat GPT 챗봇 <br> - 날씨에 어울리는 전통주나 특정 음식에 어울리는 전통주를 대화형으로 추천 <br>3. Weather API를 사용해 실시간 날씨를 반영한 전통주 추천<br>4. 크롤링을 사용해 주류별 매칭 음식, 지역별 전통주 관련 축제 가져오기  |
 |구현기술 키워드|  다중 피드백 학습 최적화 모델, 상황 반응형 추천 필터링, 하이브리드 개인화 콘텐츠 엔진  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  https://www.recombee.com/ 머신러닝 기반 추천 모델 api<br>https://platform.openai.com/docs/overview 챗봇 ChatGPT<br>https://openweathermap.org/api 날씨 api<br>https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API 위치 인식 api<br>https://cheerio.js.org/ 주류별 매칭 음식, 지역 전통주 축제 크롤링  |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  https://www.recombee.com/ 머신러닝 기반 추천 모델 API<br>https://platform.openai.com/docs/overview 챗봇 ChatGPT<br>http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0 단기예보 조회서비스 API (기상청 제공) 중 초단기예보<br>https://cheerio.js.org/ 네이버 전통주 지식백과 크롤링을 위한 웹 스크래핑 JS 라이브러리  |
 |팀그라운드룰|https://github.com/Hanrann6/HabitAI/blob/main/GroundRule.MD|
-|최종수정일| 2025-05-22 |
+|최종수정일| 2025-06-07 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
 ## Team 7  우주정복 연구젝트 
 |항목|내용|
 |---|---|
-|프로젝트명|   [Post-merger Masquerade] 은하 병합 여부를 분류하는 멀티모달 AI 모델 연구 개발  |
-|프로젝트 키워드|  Multi-modal AI, Space science, Galaxy Merge, Galaxy Classification  |
-|무엇을 만들고자 하는가|  겉보기엔 고립된 은하처럼 보이지만 실제로는 병합 이력을 숨기고 있는 은하들 즉, post-merger imposter 은하를 찾아내는 멀티모달 AI 모델을 개발한다. 이를 위해 은하 이미지와 물리량(질량, 속도, 별 형성률 등)을 결합해 병합 전/중/직후/후 단계를 자동으로 분류하고, 시계열적 병합 이력까지 추정할 수 있는 AI 기반 은하 병합 탐지 시스템을 구축한다. |
-|고객| - 천문학 및 우주과학 연구자 <br>- 관측천문대 및 천문 빅데이터 연구기관 (예: KASI, NASA, ESO 등) <br>- 천문 서베이(LSST, Euclid 등) 데이터 분석팀   |
+|프로젝트명|   은하 병합 여부 및 단계를 분류하는 이미지-수치기반 멀티모달 AI 모델 개발  |
+|프로젝트 키워드|  Multi-modal AI, Space science, Galaxy Merger Classification  |
+|무엇을 만들고자 하는가|  천문 시뮬레이션 데이터를 기반으로 은하 간 병합 여부(O/X)와 병합의 시간 단계(Pre-merger / Ongoing / Post-merger)를 예측할 수 있는 멀티모달 AI 분류 모델 |
+|고객| - 천체물리 연구자 <br>- 관측천문대 및 천문 빅데이터 연구기관 (예: KASI, NASA, ESO 등) <br>- 천문 서베이(LSST, Euclid 등) 데이터 분석팀   |
 |Pain Point| - 수십 TB에 달하는 은하 이미지 및 분광 데이터를 수작업으로 분석하는 것은 비효율적임 <br>- 시민 참여 분류 프로젝트는 막대한 시간과 인적 자원을 요구하여 확장성 한계 <br>- 이미지 기반 단일 모달 분류 모델은 최근 급격히 증가한 데이터 규모와 복잡성을 충분히 처리하기 어려움 |
-|기술 솔루션 서술| [이미지 데이터 벡터화]<br>- Zoobot의 Swin Transformer, ViT, ConvNeXt 등의 백본을 활용 <br>- 이미지 → CLS Token Vector로 임베딩 <br>[수치 데이터 정렬] <br>- 결측치 처리, 정규화 등 전처리 수행 <br>- MLP, TabTransformer, FT-Transformer 등을 통해 1D Feature Vector로 변환 <br>[데이터 융합 (Fusion)] <br>- 이미지와 수치 벡터를 Cross-Attention Fusion Layer에서 통합 <br>- 서로의 맥락을 반영해 정보 간 관계를 학습 <br>- 결과는 Dense Layer를 통해 통합 <br>[학습 및 예측] <br>- 최종 Fusion Vector를 기반으로 멀티클래스 분류 모델 학습 <br>- 은하 병합 단계를 "병합 전 / 병합 중 / 직후 / 이후"로 분류 예측 |
+|기술 솔루션 서술| [이미지 데이터 벡터화]<br>- Zoobot 프레임워크에서 지원하는 백본 모델인 ConvNeXt, maxViT 활용 <br>- 이미지 → CLS Token Vector로 임베딩 <br>[수치 데이터 정렬] <br>- 결측치 처리, 정규화 등 전처리 수행 <br>- TabTransformer, FT-Transformer 등을 통해 1D Feature Vector로 변환 <br>[데이터 융합 (Fusion)] <br>- 이미지와 수치 벡터를 Cross-Attention Fusion Layer에서 통합 <br>- 서로의 맥락을 반영해 정보 간 관계를 학습 <br>- 결과는 Dense Layer를 통해 통합 <br>[학습 및 예측] <br>- 최종 Fusion Vector를 기반으로 멀티클래스 분류 모델 학습 <br>- 은하 병합 단계를 "Pre-merger / Ongoing / Post-merger"로 분류 예측 |
 |구현기술 키워드| Multi-modal AI, Space science data, Modality Fusion, Transformer Architecture   |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  [Google Colab](https://colab.research.google.com/), [PyTorch](https://pytorch.org/), [ZooBot](https://github.com/mwalmsley/zoobot), [Hugging Face Transformers](https://huggingface.co/docs/transformers), [NumPy](https://github.com/numpy/numpy), [Pandas](https://pandas.pydata.org/), [Illustris TNG Public Data](	https://www.tng-project.org/data/)  |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  - 우주 시뮬레이션 데이터: [Illustris TNG](	https://www.tng-project.org/data/) <br>- 은하 이미지 생성 도구: [SKIRT 알고리즘](https://skirt.ugent.be/root/_home.html) <br>- 이미지 인코더 프레임워크: Zoobot의 백본 모델 - [convnext-large](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_large), [convnext-small](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_small), [convnext-nano](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_nano), [convnext-base](https://huggingface.co/mwalmsley/zoobot-encoder-convnext_base), [maxvit-large](https://huggingface.co/mwalmsley/zoobot-encoder-maxvit_large_tf_224), [maxvit-small](https://huggingface.co/mwalmsley/zoobot-encoder-maxvit_rmlp_small_rw_224) <br>- 수치 물리량 인코더: [Tab Transformer](https://github.com/lucidrains/tab-transformer-pytorch), [FT-Transformer](https://github.com/yandex-research/rtdl-revisiting-models)  |
 |팀그라운드룰| [GroundRule](https://github.com/Earth-Conquest-Research-Project/Multimodal-Missing-Data/blob/main/GroundRule.MD) |
-|최종수정일| 2025.04.11 |
+|최종수정일| 2025.06.05 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -119,11 +119,11 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |무엇을 만들고자 하는가| 소규모 스타트업이나 연구실에서 보유한 서로 다른 소유자의 서버들을 연합하여, 유휴 컴퓨팅 자원을 효율적으로 공유하고, 중앙 컨트롤러와 에이전트 기반으로 가상 클라우드처럼 운영되는 분산형 뮤츄얼 클라우드 시스템을 설계 및 구현하여 효율성과 현실성을 검증한다. |
 |고객| 시스템은 클라우드 서비스 비용 부담으로 지속적인 사용이 어려운 소규모 스타트업, 연구실, 개인 개발자 및 연구자들을 대상으로 한다. |
 |Pain Point| 소규모 개발팀이나 개인 연구자들이 클라우드를 사용할 때 발생하는 예상보다 높은 비용 부담 문제와, 대학 연구실이나 개인 환경에서 다수의 서버가 유휴 상태로 낭비되는 문제를 해결하고자 한다. 또한, AWS 등 중앙 집중식 클라우드는 특정 리전에서 장애가 발생할 경우 전체 서비스가 마비될 수 있는 구조적 취약점과 대규모 확장 과정에서 발생하는 병목 현상을 가지고 있다. |
-|기술 솔루션 서술| 중앙 컨트롤러와 에이전트 기반으로 유휴 자원을 분산 관리하며, 다양한 작업 배분 정책과 장애 대응 전략을 통해 효율성을 향상시킨 시스템을 구현한다. |
-|구현기술 키워드|중앙 컨트롤러-에이전트 구조, 분산 자원 공유, 작업 체크포인팅, VPN 기반 네트워크, 내결함성 설계, JWT 인증, TLS 통신 |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  Slurm(https://slurm.schedmd.com/slurm.conf.html), Kubernetes(https://kubernetes.io/), AWS(https://aws.amazon.com/ko/?nc2=h_lg), Ray Tune(https://docs.ray.io/en/latest/index.html), Apache Arrow(https://arrow.apache.org/), PyTorch(https://pytorch.org/)  |
+|기술 솔루션 서술| 중앙 컨트롤러와 에이전트 기반으로 유휴 자원을 분산 관리하며, 다양한 작업 배분 정책과 장애 대응 전략을 통해 효율성을 향상시킨 시스템을 구현한다. WireGuard VPN을 사용하여 서로 다른 네트워크에 존재하는 사용자와 공급간을 가상 사설 네트워크로 연결하고 pycryptodome 기반 AES 암호화를 통해 요청과 결과 모두 암호화하여 안전하고 신뢰할 수 있는 방식으로 작업을 처리한다. VirtualBox + Docker로 격리된 처리 공간에서 작업 실행하고  flask API로 수신 응답을 자동화하고 REST API로 설계하여 자동응답을 할 수 있게 구성한다. pytest로 각 단계의 동작을 테스트하고, 오류 발생 시 자동 복구 가능하게 한다. |
+|구현기술 키워드|중앙 컨트롤러-에이전트 구조, 분산 자원 공유, 작업 체크포인팅, VPN 기반 네트워크, VPN 암호화 통신, 데이터 암호화, 가상화, 자동처리 API |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  Wireguard(https://www.wireguard.com/), pycryptodome(https://pycryptodome.readthedocs.io/), pytest(https://docs.pytest.org/), Flask(https://flask.palletsprojects.com), VirtualBox(https://www.virtualbox.org/)|
 |팀그라운드룰| https://github.com/Team-Gurumi/Gurumi/blob/main/GroundRule.md |
-|최종수정일| 2025-03-31  |
+|최종수정일| 2025-06-09  |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -146,16 +146,16 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 ## Team 11  DevEwha 
 |항목|내용|
 |---|---|
-|프로젝트명| Serverless Architecture를 이용한 실시간 AI 추론 최적화 |
-|프로젝트 키워드| 서버리스 ai 배포, 모델 경량화, 클라우드 기반 ai |
-|무엇을 만들고자 하는가| 최근 AI 모델 사이즈 증가로 인해 단일 서버 노드만으로 서빙이 안되는 경우가 늘어나기 때문에, 여러 개의 노드를 통해 서빙하면서 해당 노드의 utilization을 높여 가상화할 수 있도록 서버리스 아키텍처를 최적화하는 모델을 만드는 것이 목표입니다. |
-|고객| ai 모델을 활용하여 실시간 추론이 필요한 기업 및 개발자<br>대규모 GPU 서버를 운영하기 어려운 서비스 제공자<br>IoT, 모바일, 웹 어플리케이선에서 ai 기능을 구현하려는 개발자 |
-|Pain Point| 모델 크기 및 배포 부담, 높은 운영 비용, 응답 속도 지연 |
-|기술 솔루션 서술| 서버리스 아키텍처를 활용하여 모델 경량화 적용, 서버리스 환경에서 ai 배포, 가속 라이브러리 적용 등의 방식을 통해 ai 모델을 실시간으로 최적화하여 배포 및 운영할 수 있도록 합니다. |
-|구현기술 키워드| 서버리스 컴퓨팅, 모델 경량화, ai 가속 엔진, 실시간 ai 추론, 데이터 전처리 및 후처리 |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)| AWS(https://aws.amazon.com/ko/)<br>TensorFlow(https://www.tensorflow.org/?hl=ko)<br>Docker(https://www.docker.com/)<br>Kubernetes(https://kubernetes.io/) |
+|프로젝트명| 서버리스 환경의 협업 추론을 통한 실시간 AI 추론 최적화 |
+|프로젝트 키워드| 서버리스 ai 배포, 모델 파티셔닝, 모델 병렬화, 협업 추론, 디스패치·스케줄링 |
+|무엇을 만들고자 하는가| 협업 추론 구조를 통해 LLM의 콜드 스타트를 단축하고, 파편 간 통신 오버헤드를 최적화하여 실시간 버스티 쿼리를 안정적으로 서빙하는 시스템 |
+|고객| 서버리스 환경에서 LLM 서비스를 구축·운영하려는 기업 및 개발자 |
+|Pain Point| - 대형 LLM 모델 로딩 시 발생하는 긴 콜드 스타트 지연<br>파편 간 통신 오버헤드로 인한 End-to-End 추론 지연<br>버스티 트래픽 시 스케줄링 부재로 인한 응답 지연 |
+|기술 솔루션 서술| 모델 파티셔닝(Sharding), NVMe 캐시 & Pinned Memory Pre-warm, 경량 RPC(프로토콜·프레임워크 비교) 최적화, 디스패치·스케줄링 전략 설계 |
+|구현기술 키워드| Kubernetes, KServe, Docker, Megatron-LM, DeepSpeed Inference, Ray Serve/RPC, NVMe 캐시, Pinned Memory, Locality-Aware Scheduling |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)| AWS(https://aws.amazon.com/ko/)<br>Docker(https://www.docker.com/)<br>Kubernetes(https://kubernetes.io/)<br>KServe (https://github.com/kserve/kserve)<br>Ray (https://docs.ray.io/)<br>Megatron-LM (https://github.com/NVIDIA/Megatron-LM)<br>DeepSpeed (https://github.com/microsoft/DeepSpeed) |
 |팀그라운드룰| https://github.com/DevEwha/AIOpsLab/blob/main/GroundRule.MD</br> |
-|최종수정일| 2025.03.17 |
+|최종수정일| 2025.06.08 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -167,11 +167,11 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |무엇을 만들고자 하는가|  지역 경제 활성화를 위해 지자체 공모전 및 지역 축제와 행사 정보를 제공하고, 소도시 여행을 위한 일정, 교통, 숙박, 숨겨진 명소들을 맞춤 추천해주며 온/오프라인으로 지역 소상공인과 농어민이 직접 상품을 등록하고 판매할 수 있는 플랫폼  |
 |고객| **소도시 여행을 즐기는 MZ세대 및 가족 단위 여행객**<br><br>**[1] 김사쿠 (22세, 대학생)**<br>-특징: <br>    ◦ 서울에서 대학을 다니며 SNS를 활발히 사용, 유명 관광지보다 사람들이 잘 모르는 힙한 장소를 선호<br>    ◦ 맛집 탐방을 좋아하며, 지역 특산물이나 전통시장을 구경하는 것에 흥미가 많음<br>-고민: <br>    ◦ 소도시 여행 정보를 찾기 어려워 인스타그램이나 블로그를 뒤지는 데 시간이 걸림<br>    ◦ 체험 프로그램이나 로컬 이벤트를 미리 알기 어려움<br><br>**[2] 박미란 (42세, 직장인)**<br>-특징: <br>    ◦ 두 아이(6세, 9세)를 키우는 엄마로, 가족 여행을 자주 계획<br>    ◦ 아이들에게 특별한 체험(농촌 체험, 만들기 체험, 자연 속 액티비티 등)을 제공하고 싶어함<br>-고민: <br>    ◦ 가족 친화적인 여행지와 프로그램을 찾기 어려움<br>    ◦ 아이들과 함께할 만한 안전하고 유익한 체험 정보 부족 |
 |Pain Point| 1. 지역 축제 및 행사 정보를 쉽게 찾기 어려움<br>2. 소도시 여행 및 체험 프로그램의 정보 부족<br>3. 로컬 특산물 구매 채널 부족 및 유통의 어려움<br>4. 지역 소상공인 및 농어민의 마케팅 및 판로 부족 |
-|기술 솔루션 서술| **외부 콘텐츠 요약 및 가공**<br>>사용자가 입력한 키워드를 기반으로 GPT API 호출<br>>외부 블로그/기사/콘텐츠를 요약하여 사용자에게 깔끔한 카드형 정보 제공<br>>명확한 프롬프트 설계를 통해 정보 정확도 및 가독성 향상<br><br>**Geolocation API**<br>>위치 기반 검색 기능 제공 (React + GeoLocation API 활용)<br>>사용자의 현재 위치를 기반으로 근처 지역 행사, 축제, 체험 프로그램 추천<br>>모델 예시:<br> - Haversine Formula: 위도, 경도 좌표를 이용해 두 지점 간 거리 계산 (근처 이벤트 필터링)<br> - K-D Tree 또는 Ball Tree: 다수의 지리적 좌표 데이터를 빠르게 검색 (대규모 지역 데이터 최적화)<br><br>**머신러닝 기반 사용자 맞춤형 추천**<br>>컨텐츠 기반 추천(Content-based Recommendation)<br> - 기존에 사용자가 경험한 컨텐츠와 유사한 컨텐츠를 추천 → pytorch 활용<br> - 관심 키워드와 컨텐츠 라벨을 word embedding<br> - 임베딩된 벡터 간 거리 계산<br>>python 패키지를 추가하여 머신러닝 모델을 적용해 맞춤형 소도시 여행지 및 체험 프로그램 추천<br>>모델 예시:<br> - Clustering (K-Means) : 사용자 주변 지역을 군집화하여 추천 최적화 |
-|구현기술 키워드|  머신러닝, GeoLocation API, Content-Based Filtering  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  GPT-4o : https://chatgpt.com/<br>React : https://ko.legacy.reactjs.org/<br>Python : https://www.python.org<br>FastAPI : https://fastapi.tiangolo.com/ko/<br>MySQL : https://www.mysql.com<br>pandas : https://pandas.pydata.org<br>PyTorch : https://pytorch.org |
+|기술 솔루션 서술| **외부 콘텐츠 요약 및 가공**<br>>사용자가 입력한 키워드를 기반으로 GPT API 호출<br>>외부 블로그/기사/콘텐츠를 요약하여 사용자에게 깔끔한 카드형 정보 제공<br>>명확한 프롬프트 설계를 통해 정보 정확도 및 가독성 향상<br><br>**Geolocation API**<br>>위치 기반 검색 기능 제공 (React + GeoLocation API 활용)<br>>사용자의 현재 위치를 기반으로 근처 지역 행사, 축제, 체험 프로그램 추천<br>>모델 예시:<br> - Haversine Formula: 위도, 경도 좌표를 이용해 두 지점 간 거리 계산 (근처 이벤트 필터링)<br> - K-D Tree 또는 Ball Tree: 다수의 지리적 좌표 데이터를 빠르게 검색 (대규모 지역 데이터 최적화)<br><br>**머신러닝 기반 사용자 맞춤형 추천**<br>>컨텐츠 기반 추천(Content-based Recommendation)<br> - 기존에 사용자가 경험한 컨텐츠와 유사한 컨텐츠를 추천 → pytorch 활용<br> - 관심 키워드와 컨텐츠 라벨을 word embedding<br> - 임베딩된 벡터 간 거리 계산<br>>python 패키지를 추가하여 머신러닝 모델을 적용해 맞춤형 소도시 여행지 및 체험 프로그램 추천<br>>모델 예시:<br> - Clustering (K-Means) : 사용자 주변 지역을 군집화하여 추천 최적화<br><br>**추천 알고리즘 및 LLM 작동 방식**<br>>문서 임베딩 및 검색<br>- 크롤링과 API 수집을 통해 얻은 축제 정보는 .txt 형태로 구성되어 OpenAIEmbeddings로 벡터화<br>- 문서들은 FAISS 저장소에 저장되며, RAG 구조에서 검색될 수 있도록 설정<br>>GPT 응답 생성 과정<br>- 사용자의 입력은 LangChain RetrievalQA에 입력<br>- 체인은 유사 문서를 검색 후, 해당 내용을 바탕으로 GPT에 프롬프트를 구성하고 응답을 생성<br> |
+|구현기술 키워드|  RAG 방식, 머신러닝, GeoLocation API, Content-Based Filtering  |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  GPT-4o : https://chatgpt.com/<br>React : https://ko.legacy.reactjs.org/<br>Python : https://www.python.org<br>FastAPI : https://fastapi.tiangolo.com/ko/<br>MySQL : https://www.mysql.com<br>pandas : https://pandas.pydata.org<br>PyTorch : https://pytorch.org<br>BeautifulSoup : https://pypi.org/project/beautifulsoup4/<br>LangChain : https://www.langchain.com |
 |팀그라운드룰| https://github.com/CAPSTONEEEEE/NaegaGreen/blob/main/GroundRule.MD |
-|최종수정일| 2025.04.10 |
+|최종수정일| 2025.06.12 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -198,27 +198,27 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |무엇을 만들고자 하는가|  missing modality를 해결할 수 있는 연합학습 기반 모델 알고리즘  |
 |고객| 의료 영상(X-ray, CT)과 환자 기록(텍스트)을 함께 활용해야 하는 의료진(의사, 방사선 전문의 등). 환자 데이터의 프라이버시를 보호하면서도 정확한 진단이 필요한 병원 및 의료 기관. |
 |Pain Point| 의료 현장에서 X-ray와 같은 이미지 데이터와 환자의 증상 설명(텍스트 데이터)은 함께 활용되어야 하지만, 두 가지 데이터 중 하나가 부족할 경우 오진 가능성이 증가한다. 또한, 환자의 의료 데이터는 민감한 정보이므로 중앙 서버에서 일괄 처리하기 어려우며, 프라이버시 보호가 중요한 과제로 떠오르고 있다. |
-|기술 솔루션 서술| **1. 연합 학습을 통한 분산 모델 학습 & 개인정보 보호** <br> 여러 클라이언트(예: 병원, 연구소)가 각자의 데이터를 기반으로 개별적으로 AI 모델을 학습하며, 데이터를 중앙 서버로 전송하지 않고 **모델의 가중치만 공유**하여 **환자의 개인정보를 보호**함. <br><br> **2. Teacher-Student 모델을 활용한 성능 향상** <br> 개별 학습이 끝난 후, 성능이 우수한 모델을 **Teacher 모델(선생님 모델)**로 선정하고, 성능이 낮은 모델(Student)이 Teacher의 학습된 정보를 배우도록 유도하는 **지식 증류(Knowledge Distillation)** 기법을 적용함. <br><br> **3. 클러스터링(K-Means)으로 모델 그룹화 및 최적화** <br> 비슷한 특성을 가진 모델들끼리 K-Means 클러스터링을 통해 그룹화하여, 학습된 정보를 더욱 효과적으로 공유하고 최적화함. <br><br> **4. Transformer 기반 Cross-Attention을 통한 멀티모달 데이터 처리** <br> 이미지와 텍스트 간의 관계를 Transformer 모델을 활용한 **Cross-Attention** 기법으로 학습하여, 단일 모달 데이터보다 더 정교한 예측이 가능하도록 함. <br><br> **5. Proxy Representation을 활용한 데이터 부족 문제 해결** <br> 일부 클라이언트가 이미지 또는 텍스트 데이터를 보유하지 않은 경우, 가장 유사한 데이터를 가진 모델의 대표 벡터를 **Proxy Representation**으로 활용하여 데이터 부족 문제를 해결함. <br><br> **6. 최적화된 모델 배포 및 활용** <br> 연합 학습과 최적화된 학습 기법을 통해 **검색 엔진, 감정 분석, 의료 진단 시스템** 등 다양한 응용 분야에서 활용할 수 있는 고성능 AI 모델을 구축함. |
+|기술 솔루션 서술| **1. 연합 학습을 통한 분산 모델 학습 & 개인정보 보호** <br> 여러 클라이언트(예: 병원, 연구소)가 각자의 데이터를 기반으로 개별적으로 AI 모델을 학습하며, 데이터를 중앙 서버로 전송하지 않고 **모델의 가중치만 공유**하여 **환자의 개인정보를 보호**함. <br><br> **2. 클러스터링(K-Means)으로 모델 그룹화 및 최적화** <br> 비슷한 특성을 가진 모델들끼리 K-Means 클러스터링을 통해 그룹화하여, 학습된 정보를 더욱 효과적으로 공유하고 최적화함. <br><br> **3. Transformer 기반 Cross-Attention을 통한 멀티모달 데이터 처리** <br> 이미지와 텍스트 간의 관계를 Transformer 모델을 활용한 **Cross-Attention** 기법으로 학습하여, 단일 모달 데이터보다 더 정교한 예측이 가능하도록 함. <br><br> **4. Proxy Representation을 활용한 데이터 부족 문제 해결** <br> 일부 클라이언트가 이미지 또는 텍스트 데이터를 보유하지 않은 경우, 가장 유사한 데이터를 가진 모델의 대표 벡터를 **Proxy Representation**으로 활용하여 데이터 부족 문제를 해결함. <br><br> **5. 최적화된 모델 배포 및 활용** <br> 연합 학습과 최적화된 학습 기법을 통해 **검색 엔진, 감정 분석, 의료 진단 시스템** 등 다양한 응용 분야에서 활용할 수 있는 고성능 AI 모델을 구축함. |
 |구현기술 키워드|  multi-modality, clustering, cross-attention  |
 |사용할 소프트웨어의 구체적 명세(명칭과 URL)|  https://github.com/huggingface/transformers.git<br>https://chatgpt.com/  |
 |팀그라운드룰| https://github.com/dew1107/team329/blob/main/GroundRule.md |
-|최종수정일| 2025-03-20 |
+|최종수정일| 2025-06-08 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
 ## Team 15  GRAD 
 |항목|내용|
 |---|---|
-|프로젝트명|  업무 집중에 어려움을 느끼며 게임에 친숙한 사용자들을 위한 업무 관리 게임 프로젝트  |
-|프로젝트 키워드|  데이터 수집, 게임, AI  |
-|무엇을 만들고자 하는가|  사용자의 웹사이트 및 어플리케이션 사용 데이터를 수집 및 분석하여 사용자가 설정한 목표치 달성에 동기부여를 도와주는 게임  |
-|고객| 연령: 10~30대</br>특징: 시간 관리 및 하루에 주어진 목표를 달성하는데 어려움 및 지루함을 느끼는 사람들</br>니즈: 효율적인 시간 관리, 재미 추구, 보상 심리 극대화</br></br>일정관리에 어려움을 겪는 게임 매니아 ㅇㅇㅇ씨(25세,성별무관):과도한 인터넷 사용으로 일정관리에 어려움을 겪고 있던 ㅇㅇㅇ씨. 일상에서 게임을 플레이하면서도 효율적으로 인터넷 사용을 조절하면서 일정관리를 하고 싶어한다. 매일 해야 하는 업무에 대한 목표치를 정해두고 스스로 정한 기간 내에 달성하는데에 있어 보상의 부족함과 재미의 부재에 싫증을 느끼고 있다. 자신이 좋아하는 게임을 하면서도 일정 관리를 할 수 있는 방법을 모색하고 있다.|
-|Pain Point| 기존의 Idle 게임의 경우, 사용자가 직접 To-Do List를 작성하고 작업하기 좋은 환경만 구성해 준다는 제약점이 존재했음. 대부분의 게임은 사용자에게 긍정적인 효과 및 생활 개선의 영향보다는, 흥미 본위의 오락적인 성향이 강했음. Idler 장르가 출시되었으나, 사용자 맞춤형 인터페이스와 단순한 타이머 기능만 제공하여 일정 관리보다는 “Study With Me”와 같은 영상 매체와 같은 역할을 했음. “듀오링고”와 같이 게임의 형식을 빌려 학습을 도와주는 애플리케이션도 존재하지만, 학습이라는 범위에 국한되어 있어 범용성이 높지 않음.학습뿐만 아니라 전반적인 업무 관리까지 지원하며, 게임 시스템을 통해 지속적인 동기 부여를 유지할 수 있는 프로그램이 부재한 상황임. |
-|기술 솔루션 서술|  Windows 프로세스 모니터링(psutil, Windows API)과 활성 창 추적(pygetwindow, Windows API)을 활용하여 사용자가 실제로 실행한 프로그램을 감지함. 또한, 웹 브라우저 히스토리(browser-history 라이브러리 및 Chrome의 SQLite 히스토리 DB 접근)를 분석하여 웹사이트 사용 패턴을 추적함.이렇게 수집된 데이터는 사용자의 활동 유형을 AI가 분석한 후, 게임 내 환경과 캐릭터 성장에 반영됨. AI 모델로는 Scikit-learn(머신러닝 기반 활동 분류), TensorFlow(딥러닝을 활용한 행동 패턴 예측), PyTorch(실시간 AI 적용 및 환경 변화 분석)를 사용할 예정임.  |
-|구현기술 키워드|  생성형 AI, MySQL, React  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  생성형 AI API OpenAI GPT API(GPT-4o mini) https://chatgpt.com/  |
+|프로젝트명|  play & focus 앱 사용 관리 게임 프로젝트  |
+|프로젝트 키워드|  사용자의 앱 사용 기록 데이터 수집, 개별 사용량 로그 분석, 맞춤형 추천 메세지 제공  |
+|무엇을 만들고자 하는가|  사용자의 앱 사용 기록을 실시간으로 저장하여 각 활동 별로 카테고리화 하여 저장하고, 분석하여 전반적인 사용량 패턴을 출력하고 사용자의 효과적인 앱 사용 관리를 위한 부가적인 활동을 제시하는 휴대폰 사용 관리 앱을 만들고자 한다.  |
+|고객| 주요 고객층으로, 휴대폰 사용에 능숙하면서도 자기주도적인 일정 관리와 생산성 향상을 원하는 성별무관한 10 - 30대를 예상하고 있다. 특히, 목표 달성에 어려움을 느끼거나 스마트폰 사용 조절에 어려움을 겪는 사용자들이 높은 관심을 가질 수 있으며, 게임 요소를 통해 재미있게 동기를 유지하고 게임 요소에 친숙한 MZ세대의 사용자들에게 충분히 매력적으로 다가갈 수 있는 프로젝트라 생각한다. |
+|Pain Point| 기존의 Idle 게임이나 생산성 앱은 사용자가 직접 To-Do List를 작성하고 작업 환경을 구성해야 하며, 이로 인해 자율적 사용에 한계가 있다. 또한 Idler 장르라는 유틸리티 툴이라 할수 있는 프로그램은 단순 타이머 기능과 정적인 인터페이스만 제공해, 일정 관리보다는 'Study With Me' 영상처럼 수동적 동기 부여에 그친다. ‘듀오링고’와 같이 게임 요소를 활용한 앱도 존재하지만, 특정 학습 콘텐츠에 국한되어 활용 범위가 제한적인 경우가 많다. 이러한 앱들은 사용자의 다양한 목표나 상황에 유연하게 대응하지 못하며, 지속적인 사용을 위한 동기 설계 역시 부족한 모습을 보여주고 있다. 결과적으로, 학습뿐 아니라 전반적인 일정 및 업무 관리까지 지원하면서, 개인 맞춤형 게임 시스템을 통해 능동적인 동기 부여를 제공할 수 있는 앱의 부재에서 시작하여 이러한 프로젝트를 기획했다. |
+|기술 솔루션 서술|  유니티 기반의 Android 앱을 프론트엔드로 사용하여, 사용자가 선택한 앱에 대해 퀘스트를 생성하고 이를 수행하도록 유도한다. 퀘스트에 대한 결과, 포인트 변화, 로그 등은 Firebase Realtime Database와 실시간으로 연동되며 시각화된다. 백엔드에서는 Android API를 통해 앱 포그라운드 사용 시간을 수집하고, Google Play API를 통해 각 앱의 설명 정보를 확보한다. 이 데이터를 기반으로 SVM과 TF-IDF 모델을 활용해 자동으로 앱 카테고리를 분류하고, 앱 정보와 사용자 사용 데이터를 바탕으로 퀘스트 성공 여부를 판단하고 포인트 지급 등의 로직을 처리한다. 또한, OpenAI GPT API를 통해 사용자의 하루 활동을 요약하거나 응원의 메시지를 생성하여 게임 내 피드백 요소로 활용한다. 전체 시스템은 사용자 활동 데이터를 분석하여 개인 맞춤형 게임 경험과 지속적인 동기 부여를 제공하는 데 초점을 맞추고 있다.  |
+|구현기술 키워드|  Chat GPT-4o, Firebase Realtime DB, Rest API  |
+| **사용할 소프트웨어의 구체적 명세(명칭과 URL)** | 생성형 OpenAI API (Chat GPT-4o)<br>https://platform.openai.com/docs/guides/gpt<br><br>실시간 데이터베이스 (Firebase Realtime DB)<br>https://firebase.google.com/products/realtime-database<br><br>클라이언트와 서버 간 데이터 표현 및 통신 소프트웨어 (Rest API)<br>https://restfulapi.net/ |
 |팀그라운드룰| https://github.com/innoxo/TEAM-GRAD/blob/main/Ground_Rule.MD |
-|최종수정일| 2025-03-20 |
+|최종수정일| 2025-06-08 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -230,45 +230,45 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |무엇을 만들고자 하는가| 특정 성분을 피해야 하거나 식품을 통한 건강 관리를 원하는 사람들을 위한 스마트 성분 분석 및 맞춤 추천 서비스. 사용자가 설정한 조건(알레르기, 임산부, 건강 목표)에 따라 가공식품의 성분을 분석하고, 동일 식품군 내의 더 나은 대안을 비교·추천. 사진 인식을 통한 성분 확인 기능과 허용 범위 내 최적의 제품 추천 기능을 제공. |
 |고객| 당류·나트륨·카페인 같은 특정 성분, 혹은 식재료를 피해야 하거나 줄이고 싶은 사람들 <br>- 알레르기나 임신 등으로 인해 특정 성분/식재료를 피해야 하는 사람 <br>- 특정 성분 섭취를 줄여 건강 관리를 하고 싶은 사람 |
 |Pain Point| 온라인으로 장을 보는 사람이 많아졌지만, 성분이나 원재료 정보를 확인하려면 제품 상세 페이지를 일일이 확인해야하는 불편함이 존재함. 그리고 성분표는 복잡하여 빠르게 파악하기가 어려움. 여러 제품을 비교하려면 직접 하나하나 확인하거나 검색해서 정리해야 하는 번거로움이 있는데, 급하게 사야 하거나 건강상 성분을 주의해야 하는 사람에겐 특히 더 큰 부담이 되는 경우가 많아 이 불편함을 해소하고자 함. |
-|기술 솔루션 서술| -성분 분석 (OCR)<br>Google Vision API를 통해 성분표에서 텍스트를 추출하고, 원재료명과 영양정보를 도출하여 제품 데이터를 구축함.<br><br>-제품 인식<br>Google Cloud Vision API를 사용하여 사진이 어떤 제품인지 인식함.<br><br>-대체 제품 추천<br>LightFM 또는 FAISS 알고리즘을 활용해, 동일 제품군 내에서 사용자 조건에 가장 적합한 제품을 추천함.<br><br>-챗봇 기능<br>GPT-4o 기반 챗봇이 탑재되어 있어, 사용자가 질문할 경우 성분 설명, 섭취 시 주의사항 등을 알려줌. |
+|기술 솔루션 서술| -성분 분석 (OCR)<br>Google Vision API를 통해 성분표에서 텍스트를 추출하고, 원재료명과 영양정보를 도출하여 제품 데이터를 구축함.<br><br>-제품 인식<br>Google Cloud Vision API를 사용하여 사진이 어떤 제품인지 인식함.<br><br>-대체 제품 추천<br>XGBoost와 LightFM 알고리즘을 활용해, 동일 제품군 내에서 사용자 조건에 가장 적합한 제품을 추천함.<br><br>-챗봇 기능<br>GPT-4o 기반 챗봇이 탑재되어 있어, 사용자가 질문할 경우 성분 설명, 섭취 시 주의사항 등을 알려줌. |
 |구현기술 키워드| Google Cloud Vision API, OCR, GPT-4o |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)| Google Cloud Vision (https://cloud.google.com/vision)<br>GPT-4o (https://chatgpt.com/)<br>LightFM, FAISS, XGBoost |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)| Google Cloud Vision(https://cloud.google.com/vision)<br>GPT-4o (https://chatgpt.com/)<br>XGBoost, LightFM |
 |팀그라운드룰| https://github.com/ppandpups/2025-ewha-spring/blob/main/GroundRule.MD |
-|최종수정일| 2025-05-30 |
+|최종수정일| 2025-06-05 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
 ## Team 17  그린데빌 
 |항목|내용|
 |---|---|
-|프로젝트명|  전자 의료 기록(EHR) 기반 질병 예측 모델의 Source-free domain adaptation 적용 및 성능 비교  |
+|프로젝트명|  전자 의료 기록(EHR) 기반 질병 예측 모델의 Source-Free Domain Adaptation 적용 및 성능 비교  |
 |프로젝트 키워드|  전자 의료 기록(EHR), 질병 예측, 모델 비교, Source-Free Domain Adaptation (SFDA), TENT (Test-time Entropy Minimization)   |
 |무엇을 만들고자 하는가|  전자 의료 기록(EHR) 데이터를 활용하여 특정 병원에서 구축된 질병 예측 모델이 별도의 추가 데이터 없이도(source-free) 타 병원의 환경에서 높은 예측 성능을 유지할 수 있도록 도메인 적응(Domain Adaptation)을 적용하고, 그 효과를 비교·분석하고자 한다.  |
 |고객| 병원 기관 |
 |Pain Point| 병원마다 질병 및 정상 환자의 데이터 분포, 측정 기기, 진단 기준 등이 서로 달라 데이터의 양상이 이질적이다. 또한 의료 데이터는 개인정보 보호 문제로 인해 병원 간 직접적인 데이터 공유가 어려워, 특정 병원에서 학습된 모델이 다른 병원에서는 충분한 성능을 발휘하지 못하는 경우가 많다. 따라서 원래 병원의 데이터를 추가로 사용하지 않고도 새로운 병원의 데이터에 잘 적응하여 성능을 유지할 수 있는 방법이 필요하다. |
-|기술 솔루션 서술| non-IID(Independent and Identically Distributed) 데이터인 eICU 등의 EHR 데이터를 활용한 질병 예측 모델에 source-free domain adaptation을 적용하여 여러 병원에서 general model과 entropy 기반 방법론인 TENT 방식을 적용한 모델의 성능을 비교한다. |
+|기술 솔루션 서술| non-IID(Independent and Identically Distributed) 데이터인 eICU와 같은 EHR 데이터를 활용한 질병 예측 모델에 source-free domain adaptation을 적용하여 타 병원으로부터 공유 받은 일반 예측 모델과 entropy 기반 방법론인 TENT 기법을 적용한 모델의 성능을 비교한다. |
 |구현기술 키워드|  Source-Free Domain Adaptation (SFDA), TENT (Test-time Entropy Minimization), NLP  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  TENT Official Github https://github.com/DequanWang/TENT<br>Med-BERT https://github.com/ZhiGroup/Med-BERT<br>eICU Collaborative Research Database https://eicu-crd.mit.edu/<br>Hugging Face Transformers https://github.com/huggingface/transformers |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  TENT Official Github https://github.com/DequanWang/TENT<br>Med-BERT https://github.com/ZhiGroup/Med-BERT<br>eICU Collaborative Research Database https://eicu-crd.mit.edu/<br>Hugging Face MedBERT https://huggingface.co/Charangan/MedBERT |
 |팀그라운드룰| https://github.com/2025start-GreenDevil/2025-start/blob/main/Groundrule.md |
-|최종수정일| 2025-04-15 |
+|최종수정일| 2025-06-16 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
-## Team 18  코드만두(Code 만 Do!)
+## Team 18  코드만두Code 만 Do
 
 | 항목 | 내용 |
 |------|------|
 | **앱 이름** | Re:cord |
 | **프로젝트 제목** | AI 음성 요약으로 공연 후기를 간편하게 기록하고, 생성형 AI 티켓 이미지로 나만의 포토티켓을 간직하는 디지털 티켓북 |
 | **키워드** | - AI 음성 인식 후기 요약<br>- 생성형 AI 티켓 디자인<br>- 개인 맞춤 질문 시스템<br>- SNS 공유 |
-| **무엇을 만들고자 하는가** | 공연 후기를 기록하는 것을 좋아하지만, 관람 횟수가 많아질수록 기록 자체가 부담스럽게 느껴지는 공연 마니아들을 위해 **디지털 티켓 북 플랫폼**을 개발하고자 합니다.<br><br>이 플랫폼에서는 **음성으로 후기를 말하면 AI가 내용을 요약**해주며 공연 장르 및 사용자 성향을 반영한 **맞춤형 질문**을 통해 자연스럽게 후기를 작성할 수 있도록 돕습니다. 또한, 생성형 AI가 공연 제목 및 사용자 후기 등 텍스트를 기반으로 티켓 이미지를 디자인해 추억을 특별하게 기록할 수 있습니다. 사용자는 생성된 티켓을 SNS에 공유하거나 개인 아카이빙 용도로 저장할 수 있으며, 월간/연말 통계를 통해 자신의 공연 히스토리를 쉽게 정리할 수 있습니다. |
+| **무엇을 만들고자 하는가** | 공연 후기를 기록하는 것을 좋아하지만, 관람 횟수가 많아질수록 기록 자체가 부담스럽게 느껴지는 공연 마니아들을 위해 **디지털 티켓북 플랫폼**을 개발하고자 합니다.<br><br>이 플랫폼에서는 **음성으로 후기를 말하면 AI가 내용을 요약**해주며 공연 장르 및 사용자 성향을 반영한 **맞춤형 질문**을 통해 자연스럽게 후기를 작성할 수 있도록 돕습니다. 또한, 생성형 AI가 공연 제목 및 사용자 후기 등 텍스트를 기반으로 티켓 이미지를 디자인해 추억을 특별하게 기록할 수 있습니다. 사용자는 생성된 티켓을 SNS에 공유하거나 개인 아카이빙 용도로 저장할 수 있으며, 월간/연말 통계를 통해 자신의 공연 히스토리를 쉽게 정리할 수 있습니다. |
 | **고객** | - 주 1회 이상 공연을 관람하는 마니아층<br>- 공연에 대한 감상을 꾸준히 남기고 공유하고 싶으나 일일이 기록하기에 번거롭다고 느끼는 2030 여성.<br>- **김이화 (28세, 여성 / 회사원)**<br>김이화는 매달 3~4회 공연을 관람하는 열성적인 뮤지컬 마니아입니다. 감정을 글로 남기는 것을 좋아하지만, 기록할 시간이 부족하거나 무엇을 써야 할지 고민하다가 후기를 넘기는 일이 잦습니다. 말로 쉽게 기록할 수 있는 후기 시스템과 예쁘게 정리된 티켓 형태의 기록이 있다면 꾸준히 사용할 의향이 있습니다.<br>- **박화연 (23세, 여성 / 대학생)**<br>박화연은 좋아하는 밴드의 모든 공연을 빠짐없이 챙겨보며, 공연 후 느낀 감정과 순간들을 예쁜 형식으로 간직하고 싶어 합니다. 디자인된 티켓 이미지에 자신의 감상 요약이 담겨 있고, 그걸 SNS에 공유하거나 나만의 공연 앨범처럼 저장할 수 있는 기능을 찾고 있습니다. |
 | **Pain Point** | 주 1회 이상 공연을 관람하는 공연 마니아들은 공연 관람 후 감상을 기록하고 싶지만, 매번 **글을 직접 작성하는 것은 시간과 에너지가 많이 들기 때문에** 점차 후기를 누락하게 되는 경우가 많습니다. 더불어, 자유롭게 후기를 쓰라고 해도 **무엇부터 써야 할지 막막하거나, 매번 같은 형식의 감상문으로 반복**되면서 기록의 개성과 다양성이 떨어지는 문제도 존재합니다.<br><br>이러한 불편함은 기존 후기 플랫폼에서도 크게 해소되지 않습니다. 게다가 SNS(트위터, 인스타그램, 블로그 등)는 공연 후기 외의 다른 콘텐츠들과 뒤섞여 기록되기 때문에 공연 기록을 체계적으로 모아보기 어렵고, 시간이 지나면 다시 찾아보기 힘든 구조입니다.<br><br>또한, 공연 마니아 특성상 다수의 공연을 동시에 예매해두는 경우가 많은데, 이를 효과적으로 관리해줄 수 있는 일정 리마인드 기능이나 시각적으로 정리된 히스토리 관리 기능이 부족해 일정 누락이나 혼동이 발생하기도 합니다.<br><br>무엇보다도, 공연을 단순히 기록하는 것을 넘어 자신의 관람 경험을 **예쁘고 감각적인 티켓 형태로 남기고 싶어하는 수요**는 꾸준히 존재하지만, 공연 맞춤형 디자인을 기반으로 한 자동 티켓 생성 및 아카이빙 기능은 기존 시스템에서는 찾아보기 어려운 상황입니다. |
-| **기술 솔루션 서술** | 이 프로젝트는 공연 후기를 쉽고 감각적으로 기록할 수 있도록 돕는 AI 기반 디지털 티켓 북 플랫폼입니다. 사용자가 공연 일정 및 기타 공연 정보를 텍스트로 입력하면, 티켓 북에 빈 슬롯이 생성됩니다. 티켓 북에 사용자가 공연 후 느낀 감정을 음성으로 기록하면, **Google Speech-to-Text**가 이를 텍스트로 변환하고, **GPT-4 기반 자연어 처리 모델**이 내용을 요약하여 기록합니다. 이 과정에서 시스템은 공연 장르와 사용자 선호도에 따라 **맞춤형 질문을 제시**해 보다 풍부한 후기 기록을 유도합니다. 사용자의 후기 및 공연 제목 등을 기반으로 **DALL·E 혹은 Stable Diffusion**을 통해 감성적인 티켓 이미지 및 디자인을 자동 생성하며, 이를 카드 형식으로 저장하거나 **SNS 공유용 OG 이미지**로 활용할 수 있도록 지원합니다. 월간/연말에는 **react-native-chart-kit와 react-native-calendars**를 활용한 데이터 시각화를 통해 사용자의 공연 히스토리를 정리해 줍니다. |
-| **구현 기술 키워드** | - 음성 인식  - Google STT<br>- 자연어 처리 -  GPT-4, (Hugging Face)<br>- AI 티켓 이미지&디자인 생성 - DALL·E, Stable Diffusion<br>- React Native & Spring Boot 기반 웹 앱 개발 |
-| **사용할 소프트웨어의 구체적 명세** | - **음성 인식**<br>&nbsp;&nbsp;&nbsp;- Google Cloud Speech-to-Text : [Link](https://cloud.google.com/speech-to-text)<br>- **자연어 처리 (NLP)**<br>&nbsp;&nbsp;&nbsp;- GPT-4 : [OpenAI](https://openai.com/research/gpt-4)<br>- **AI 이미지 생성**<br>&nbsp;&nbsp;&nbsp;- DALL·E : [OpenAI](https://openai.com/dall-e)<br>&nbsp;&nbsp;&nbsp;- Stable Diffusion : [Stable Diffusion](https://stablediffusionweb.com/)<br>- **앱 & 백엔드**<br>&nbsp;&nbsp;&nbsp;- React Native : [React Native](https://reactnative.dev/)<br>&nbsp;&nbsp;&nbsp;- Spring Boot : [Spring Boot](https://spring.io/projects/spring-boot)<br>- **데이터베이스**<br>&nbsp;&nbsp;&nbsp;- AWS RDS : [AWS RDS](https://aws.amazon.com/rds/)<br>&nbsp;&nbsp;&nbsp;- PostgreSQL : [PostgreSQL](https://www.postgresql.org/) |
-| **팀 그라운드룰** | [CodeManDoo GroundRule](https://github.com/CodeManD00/CodeManDoo/blob/main/GroundRule.MD) |
-| **최종수정일** | 2025-06-01 | 
+| **기술 솔루션 서술** | 이 프로젝트는 공연 후기를 쉽고 감각적으로 기록할 수 있도록 돕는 AI 기반 디지털 티켓 북 플랫폼입니다. 사용자가 공연 일정 및 기타 공연 정보를 텍스트로 입력하면, 티켓 북에 빈 슬롯이 생성됩니다. 티켓 북에 사용자가 공연 후 느낀 감정을 음성으로 기록하면, **Google Speech-to-Text**가 이를 텍스트로 변환하고, **GPT-4 기반 자연어 처리 모델**이 내용을 요약하여 기록합니다. 이 과정에서 시스템은 공연 장르와 사용자 선호도에 따라 **맞춤형 질문을 제시**해 보다 풍부한 후기 기록을 유도합니다. 사용자의 후기 및 공연 제목 등을 기반으로 **DALL·E**를 통해 감성적인 티켓 이미지 및 디자인을 자동 생성하며, 이를 카드 형식으로 저장하거나 **SNS 공유용 OG 이미지**로 활용할 수 있도록 지원합니다. 월간/연말에는 **react-native-chart-kit와 react-native-calendars**를 활용한 데이터 시각화를 통해 사용자의 공연 히스토리를 정리해 줍니다. |
+| **구현 기술 키워드** | - 음성 인식  - Google STT<br>- 자연어 처리 -  GPT-4, (Hugging Face)<br>- AI 티켓 이미지&디자인 생성 - DALL·E<br>- React Native & Spring Boot 기반 웹 앱 개발 |
+| **사용할 소프트웨어의 구체적 명세** | - **음성 인식**<br>&nbsp;&nbsp;&nbsp;- Google Cloud Speech-to-Text : [Link](https://cloud.google.com/speech-to-text)<br>- **자연어 처리 (NLP)**<br>&nbsp;&nbsp;&nbsp;- GPT-4 : [OpenAI](https://openai.com/research/gpt-4)<br>- **AI 이미지 생성**<br>&nbsp;&nbsp;&nbsp;- DALL·E : [OpenAI](https://openai.com/dall-e)<br>&nbsp;&nbsp;&nbsp;<br>- **앱 & 백엔드**<br>&nbsp;&nbsp;&nbsp;- React Native : [React Native](https://reactnative.dev/)<br>&nbsp;&nbsp;&nbsp;- Spring Boot : [Spring Boot](https://spring.io/projects/spring-boot)<br>- **데이터베이스**<br>&nbsp;&nbsp;&nbsp;- AWS RDS : [AWS RDS](https://aws.amazon.com/rds/)<br>&nbsp;&nbsp;&nbsp;- PostgreSQL : [PostgreSQL](https://www.postgresql.org/) |
+| **팀 그라운드룰** | [CodeManDoo GroundRule](https://github.com/CodeManD00/CodeManDoo/blob/main/GroundRule.md) |
+| **최종수정일** | 2025-06-06 | 
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -291,16 +291,16 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 ## Team 20  스카이화 
 |항목|내용|
 |---|---|
-|프로젝트명| 트렌드 기반으로 실시간 피드백을 제공하는 모바일 어플리케이션 |
-|프로젝트 키워드| SNS, 트렌드 분석, 실시간 피드백, 트렌드 예측  |
-|무엇을 만들고자 하는가| 사용자가 업로드한 콘텐츠가 현재 유행하는 트렌드 및 스타일과 얼마나 일치하는지에 대한 실시간 피드백을 제공하는 서비스입니다. 사용자가 올린 콘텐츠나 스타일이 어떤 트렌드에 속하는지, 어떤 해시태그를 사용할지, 어떤 음악을 사용할지 분석하여 추천합니다. 트렌드의 변화를 예측하여 사용자가 빠르게 트렌드를 선도할 수 있도록 돕습니다. |
-|고객| 저희의 고객은 자신의 SNS 계정을 트렌디하게 관리하고 레벨업시키고 싶은 20대 한국인 여성입니다. </br> </br> <페르소나> </br> </br> • 이름: 김유명 </br> </br> • 나이: 24살 </br> </br> • 성별: 여자 </br> </br> • 특징: SNS를 트렌디하게 잘 관리하여 팔로워를 늘리고, 수익 창출을 얻고 싶어하지만, 최신 유행에 민감하지 않아 SNS를 관리하는 데에 어려움을 겪고 있다. 팔로워 유입, 조회수 등을 늘리기 위해 어떤 컨텐츠를 제작할 지 고민하고 있다. |
-|Pain Point| 1. 트렌드 팔로우업에 대한 어려움 </br> </br> - 메가트렌드는 미디어나 알고리즘을 통해 쉽게 접할 수 있지만, 짧은 시간 안에 급변하는 마이크로 트렌드는 놓치기 쉽다. 특히 Z세대는 새로운 유행을 빠르게 소비하고 싶어도, 어디서 어떻게 찾아야 할지 몰라 접근에 어려움을 겪는다. </br> </br> 2. 편향된 알고리즘 </br> </br> - 개인화된 추천 시스템은 사용자의 기존 관심사에만 집중되다 보니, 새로운 분야나 트렌드를 접할 기회를 제한한다. 그 결과 유행에 뒤처지거나, 더 넓은 취향을 탐색할 수 있는 기회를 놓치게 된다. |
-|기술 솔루션 서술| "이상치 탐지(Anomaly Detection)" 기법을 활용하여 새로운 트렌드를 감지하고 트렌드 후보군으로 등록한다. </br> </br> Spotify API에서 노래에 대응되는 분위기를 수집하고 CLIP 모델을 활용하여 사진이 어떤 분위기와 가장 유사한 지 판단한다. </br> </br> GPT-4o mini 모델을 활용해 텍스트에서 키워드를 추출하고, 트렌드에 맞는 해시태그와 비교하여 사용자에게 알맞은 해시태그를 추천한다. |
-|구현기술 키워드|  데이터 크롤링, 분위기 분석, 이미지 및 해시태그 분석, 이상치 탐지  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)| SpotifyAPI: https://developer.spotify.com/ <br>GPT-4o mini: https://platform.openai.com/docs/models/gpt-4o-mini/ <br> CLIP: https://github.com/openai/CLIP |
+|프로젝트명| 여행 유튜버(인플루언서)를 위한 틱톡, 유튜브의 트렌드를 분석하여 현재 여행 트렌드를 제공하고, 사용자가 업로드 할 영상을 분석하여 (맞춤형) 해시태그와 제목을 제공하는 모바일 어플리케이션 |
+|프로젝트 키워드| SNS, 트렌드 분석, 콘텐츠 최적화  |
+|무엇을 만들고자 하는가| 저희가 만들고자 하는 것은 사용자의 영상 컨텐츠가 현재 유행하는 여행 트렌드와 얼마나 일치하는지, 유행하는 음악 중 어떤 것이 해당 영상에 어울릴지, 조회수를 올리기 위해 어떤 해시태그를 써야 할지 추천해주는 기능을 탑재한 여행 유튜버 대상 피드백 제공 서비스입니다. 본 서비스는 사용자가 컨텐츠 기획에 참고할 수 있도록 영상 플랫폼(틱톡, 유튜브)으로부터 여행 트렌드를 분석하여, 현재 인기가 많은 여행지, 감성 키워드, 키워드 등장 빈도와 같이 최신 여행 트렌드를 시각화한 대시보드를 제공합니다. 또한 사용자가 영상을 제작하여 해당 서비스에 업로드하면 해당 컨텐츠의 주제나 스타일의 트렌드 일치도, 해시태그 및 음악 추천 등의 피드백을 담은 보고서를 제공하여 영상 제작을 돕습니다. |
+|고객| 저희의 고객은 자신이 운영하는 여행 유튜브 계정의 트렌디한 관리, 구독자와 영상 조회수의 상승을 목표로 하는 20대 한국인 여행 유튜버입니다. </br> </br> <페르소나> </br> </br> • 이름: 김유명 </br> </br> • 나이: 24살 </br> </br> • 성별: 여자 </br> </br> • 특징: 취미인 여행을 주제로 유튜브 계정을 운영하려고 한다. 트렌디한 영상을 업로드하여 조회수와 구독자를 높이고 수익을 창출하는 것을 꿈꾸고 있지만, 영상 제작 경험이 없고 유행에 민감하지 않아 어떤 식으로, 어떤 내용의 영상을 제작해야 할지 어려움을 겪고 있다. |
+|Pain Point| 1. 편향된 알고리즘, 트렌드 분석 부족 </br> </br> - 틱톡, 유튜브 등 플랫폼은 사용자 개인 선호를 기반으로 영상을 추천한다. 따라서 사용자는 자신의 기존 관심사 내에서만 컨텐츠를 소비하게 되고, 그 결과 새로운 여행지나 여행 컨텐츠 유형 트렌드를 접할 기회 제한된다. 즉,인기 있는 여행 콘텐츠를 만들고 싶어도, 특정 지역에서 유행하는 장소나 활동을 파악하지 못해, 결과적으로 유행에 뒤처지거나 노출 경쟁에서 밀리는 현상이 발생한다. </br> </br> 2. 해시태그 및 제목 최적화 어려움 </br> </br> - 검색에 잘 노출될 제목과 해시태그를 일일이 찾기 어렵고, 수작업으로 찾더라도 해당 데이터가 실제로 사람들이 관심을 갖는 내용인지 판단하기 어렵다. |
+|기술 솔루션 서술| Whisper 모델을 사용해 영상에서 음성을 텍스트를 추출한다. </br> </br> GPT-4o mini 모델을 활용해 텍스트에서 키워드를 추출하고, 트렌드에 맞는 해시태그와 비교하여 사용자에게 알맞은 해시태그를 추천한다. </br> </br> YouTube Data API v3를 활용하여 여행 관련 특정 키워드(예: "여행", "trip", "vlog", “제주” 등) 기반으로 유튜브 인기 영상의 제목 데이터를 실시간 수집한다. </br> </br> Playwright를 사용하여 틱톡 크리에이티브 센터에 집계된 인기 해시태그(여행 관련) 및 음악을 순위별로 수집한다. |
+|구현기술 키워드|  데이터 크롤링, Automatic Speech Recognition 모델, 클러스터링  |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)| Whisper: https://github.com/openai/whisper <br>GPT-4o mini: https://platform.openai.com/docs/models/gpt-4o-mini/ <br>Playwright: https://playwright.dev/docs/api/class-playwright <br>Youtube data api v3 : https://console.cloud.google.com/apis/library/youtube.googleapis.com?hl=ko&inv=1&invt=AbzYgw&project=youtubecrawler-459907|
 |팀그라운드룰|https://github.com/Ewha-SkyEwha/SkyEwha/blob/7b6e6b60bd5d0a1fa16b42bf1eac3061efee9c6f/GroundRule.MD|
-|최종수정일| 2025.04.13 |
+|최종수정일| 2025.06.08 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -308,15 +308,15 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |항목|내용|
 |---|---|
 |프로젝트명| AI 기반 부모 교육 및 육아 피드백 어플리케이션 |
-|프로젝트 키워드| 부모 교육, 육아 피드백, STT 분석, AI 챗봇, 워크북, 커뮤니티 |
-|무엇을 만들고자 하는가| 초보 부모가 실제 양육 상황을 AI로 분석하고 개선할 수 있도록 돕는 모바일 앱을 개발합니다. 대화를 분석해 감정과 말투 피드백을 제공하고, 개인 성향에 맞는 워크북 콘텐츠를 추천합니다. 실시간 챗봇 상담과 부모 커뮤니티도 함께 제공합니다. |
+|프로젝트 키워드| 부모 교육, 육아 피드백, HomeCam 기반 대화 분석, AI 챗봇, 워크북, 커뮤니티 |
+|무엇을 만들고자 하는가| 초보 부모의 육아 준비 단계부터 실제 양육 과정까지 유용하게 활용할 수 있는 세 가지 핵심 기능을 갖춘 육아 가이드 서비스입니다.<br>- 육아 준비 단계(0세–5 세): 개인 상황에 맞는 워크북 기능을 통해 무엇을 준비하고 어떻게 대비해야 하는지 가이드를 제공<br>- 실제 육아 과정(0세–7 세): 신뢰도 있는 자료에 기반한 AI 프롬프트 기반의 육아 전문 챗봇을 통해 다양한 문제나 의문에 실시간 대응<br>- 양육 태도 개선(3세–7 세): 초보 부모가 실제 양육 상황을 AI로 분석하고 개선할 홈캠 기반 대화 분석 기능을 활용해 부모-아이 간 대화를 분석하고 감정과 말투 피드백을 제공<br>|
 |고객| 초보 부모 |
 |Pain Point| 초보 부모는 실전 경험이 부족해 아이의 감정을 이해하거나 대응하기 어렵고, 기존 교육은 현실 적용이 어렵거나 시간·비용 부담이 큽니다. 실시간 상담이나 커뮤니티도 부족합니다. |
-|기술 솔루션 서술|1. **홈캠 기반 음성 분석** - S3에 저장된 오디오를 Whisper API로 텍스트 변환하고, Pyannote API로 화자 분리합니다. Claude Haiku를 활용해 감정, 말투, 빈도, 상호작용을 분석하고 피드백을 생성합니다.<br>2. **육아 성향 진단 및 워크북 추천** - PSDQ 기반 문항으로 성향을 진단하고, 분석 결과에 따라 맞춤형 워크북을 추천합니다. 콘텐츠는 퀴즈와 실천 과제로 구성되어 반복 학습을 유도합니다.<br>3. **RAG 기반 AI 챗봇** - 사용자의 질문을 LangChain으로 전처리하고, ko-sbert-nli로 임베딩한 문서를 FAISS로 검색합니다. 관련 문서를 기반으로 GPT-4가 실시간 응답을 생성합니다.<br>4. **부모 커뮤니티** - 게시글 기반 커뮤니티 기능을 제공하며, 유사한 고민이나 관심 키워드에 따라 글을 추천해 소통을 돕습니다. |
-|구현기술 키워드| Kotlin(Android), Spring Boot, EC2, Docker, Whisper API, Pyannote API, Claude Haiku, GPT-4, LangChain, FAISS, ko-sbert-nli, S3, RDS, DynamoDB |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)| - **Whisper API**: https://openai.com/research/whisper <br> - **Pyannote API**: https://github.com/pyannote/pyannote-audio <br> - **Claude Haiku**: https://www.anthropic.com/index/claude-haiku <br> - **OpenAI GPT-4**: https://openai.com/gpt-4 <br> - **LangChain**: https://www.langchain.com <br> - **FAISS**: https://github.com/facebookresearch/faiss <br> - **ko-sbert-nli**: https://huggingface.co/skt/kobert-base-v1 |
+|기술 솔루션 서술|1. **홈캠 기반 음성 분석** - S3에 저장된 오디오를 Whisper API로 텍스트 변환하고, Pyannote API로 화자 분리합니다. 사용자 정보, 대화문 기반 피드백 요청 prompt를 생성해 Claude Haiku로 넘겨 감정, 말투, 빈도, 상호작용을 분석하고 피드백을 생성합니다.<br>2. **육아 성향 진단 및 워크북 추천** - PSDQ 문항으로 분석한 성향 진단결과와 입력한 사용자 정보(아이 나이, 육아 목표, 아이 특성 등)을  GPT-4로 반영한 맞춤형 워크북을 추천합니다. 콘텐츠는 사용자가 직접 수행할 수 있는 세가지 형식 액티비티로 구성되어 실질적인 육아에 적용되도록 합니다. . 콘텐츠는 퀴즈와 실천 과제로 구성되어 반복 학습을 유도합니다.<br>3. **RAG 기반 AI 챗봇** - 사용자의 질문에 대해 참고할 수 있는 문서를 검색하고, 그 내용을 바탕으로 RAG 기반의 신뢰성있고 개인화된 답변을 제공합니다.|
+|구현기술 키워드| Kotlin(Android), Spring Boot, EC2, Docker, Whisper API, Pyannote API, Claude Haiku, GPT-4, LangChain, FAISS, ko-sbert-nli, S3, RDS, DynamoDB, OCR, GCS |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)| - **Whisper API**: https://openai.com/research/whisper <br> - **Pyannote API**: https://github.com/pyannote/pyannote-audio <br> - **Claude Haiku**: https://www.anthropic.com/index/claude-haiku <br> - **OpenAI GPT-4**: https://openai.com/gpt-4 <br> - **LangChain**: https://www.langchain.com <br> - **FAISS**: https://github.com/facebookresearch/faiss <br> - **ko-sbert-nli**: https://huggingface.co/skt/kobert-base-v1<br> - Google Cloud Vision API: https://cloud.google.com/vision/docs/pdf<br>- Google Cloud Storage(GCS):https://cloud.google.com/storage?hl=ko<br>|
 |팀그라운드룰| https://github.com/unikohoho/21_project/blob/main/GroundRule.MD |
-|최종수정일| 2025.04.16 |
+|최종수정일| 2025.06.09 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -361,11 +361,11 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |무엇을 만들고자 하는가|  많은 20~30대 디지털 네이티브들이 SNS, 릴스, 쇼핑몰, 웹서핑 등에서 유용한 정보를 스크린샷으로 저장해두지만, 시간이 지나면 잊어버리거나 활용하지 못하는 경우가 많습니다. 이러한 비효율을 해결하기 위해, 스크린샷 속 정보를 AI가 자동으로 분석하여 **카테고리별로 분류하고, 사용자 관심사 기반 콘텐츠를 추천해주며, 유효 기간이 있는 정보(쿠폰, 이벤트 등)는 유효 기간이 지나기 전에 적절한 시점에 알림으로 전달하는 스마트 정보 활용 시스템**을 개발하고자 합니다. 또한, 위치 기반 추천이나 일정과 연동된 알림 기능 등을 통해 **실질적인 정보 활용도를 높이는 개인 맞춤형 서비스**로 구현할 계획입니다.  
 |고객| SNS, 웹서핑 등을 통해 유용한 정보를 휴대폰 스크린샷으로 저장해두고 잊어버리는 사용자<br>(20~30대 디지털 네이티브) |
 |Pain Point| 많은 20~30대 사용자들이 인스타 릴스, 광고, 숏폼 콘텐츠, 웹서핑 등을 하며 유용한 정보를 스크린샷으로 저장하지만,<br>• 나중에 기억이 나더라도 **어디에 저장해뒀는지 찾기 어렵고**,<br>• **쌓이기만 한 스크린샷은 정리되지 않아 활용되지 않는 경우**가 많습니다.<br>• 특히 **할인 쿠폰이나 이벤트 정보처럼 유효기간이 있는 정보는 놓치기 쉬우며**,<br>• 가고 싶은 카페, 음식점 등의 정보도 **시간이나 장소와 맞물려야 의미 있게 활용**되는데, 그 연결이 자동화되지 않아 불편함이 큽니다.<br>• 또한 사용자들은 "아 저번에 캡처했던 그 맛집 어디지?"처럼 지역/주제별 정보 검색이 필요하지만, **기존 갤러리는 정보 검색에 최적화되어 있지 않습니다**.<br>결국, **사용자 스스로 분류·정리·활용해야 한다는 번거로움**이 크며, 이로 인해 스크린샷은 그냥 '쌓여만 가는 정보 더미'가 되고 있습니다.  |
-|기술 솔루션 서술| **1. 스크린샷 이미지 분석 & 의미 해석**<br>우선 사용자가 저장한 스크린샷에서 VisionKit(OCR)을 활용해 텍스트를 추출합니다. 텍스트가 없는 이미지의 경우에는 YOLO 객체 탐지 기술을 활용해 이미지 내에 등장하는 쿠폰, 음식, 장소, 앱 화면 등 다양한 시각적 요소를 파악합니다.<br>이렇게 수집된 정보는 GPT-4 API를 통해 의미 기반으로 분석되며, 사용자의 관심사에 맞게 카테고리와 추천용 메타데이터로 정제됩니다.<br><br> **2. 데이터 저장 & 검색 기능**<br>추출된 정보는 Firebase 인프라를 기반으로 저장됩니다.<br>구체적으로는 Cloud Firestore에 사용자별로 스크린샷, 태그, 위치, 유효기간 등의 메타데이터가 구조화되어 저장되고, 키워드/태그/카테고리/위치 기반 검색 기능도 함께 지원합니다.<br>예를 들어 사용자는 “쿠폰”, “홍대 디저트”, “전시회”처럼 직관적으로 검색하여 필요한 정보를 빠르게 찾을 수 있습니다.<br><br> **3.사용자 행동 분석 & 관심사 기반 추천 시스템**<br>단순 저장을 넘어, 사용자의 행동을 바탕으로 적절한 시점에 콘텐츠를 리마인드하거나 추천합니다.<br>이를 위해 iOS의 CoreLocation을 통해 위치 정보를 파악하고, 사용자의 현재 위치에 맞는 장소나 이벤트 정보를 자동으로 추천할 수 있습니다.<br>또한 ScreenTime API를 이용해 사용자 스마트폰 사용 시간대를 분석함으로써, 리마인드 타이밍을 최적화합니다.<br>사용자의 고정 일정은 EventKit과 연동되어 빈 시간대에 맞춰 유용한 정보를 제안할 수 있습니다.<br><br> **4. AI 기반 추천 시스템 고도화**<br>향후에는 단순 규칙 기반 추천을 넘어서, AI 학습을 통해 사용자의 생활 패턴을 더 정밀하게 분석합니다.<br>• Clustering을 통해 시간대, 위치, 스마트폰 사용량 등으로 사용자를 유형화할 수 있고,<br>• LSTM 기반 Sequence Modeling을 활용하면 시간 흐름에 따른 사용자 행동 패턴을 예측할 수 있습니다.<br>예를 들어, “이 사용자는 평일 밤마다 공부 콘텐츠를 자주 열람한다”는 것을 파악해 해당 시간대에 맞춘 콘텐츠를 추천합니다. 또한, LLM을 활용하면 이런 행동 데이터를 자연어로 정리하여 GPT가 스스로 적절한 콘텐츠를 제안하는 고도화된 설명 가능한 추천 시스템을 구현합니다. |
+|기술 솔루션 서술| **1. 스크린샷 이미지 분석 & 의미 해석**<br>우선 사용자가 저장한 스크린샷에서 VisionKit(OCR)을 활용해 텍스트를 추출합니다. 텍스트가 없는 이미지의 경우에는 YOLO 객체 탐지 기술을 활용해 이미지 내에 등장하는 쿠폰, 음식, 장소, 앱 화면 등 다양한 시각적 요소를 파악합니다.<br>이렇게 수집된 정보는 GPT-4 API를 통해 의미 기반으로 분석되며, 사용자의 관심사에 맞게 카테고리와 추천용 메타데이터로 정제됩니다.<br><br> **2. 데이터 저장 & 검색 기능**<br>추출된 정보는 Firebase 인프라를 기반으로 저장됩니다.<br>구체적으로는 Cloud Firestore에 사용자별로 스크린샷, 태그, 위치, 유효기간 등의 메타데이터가 구조화되어 저장되고, 키워드/태그/카테고리/위치 기반 검색 기능도 함께 지원합니다.<br>예를 들어 사용자는 “쿠폰”, “홍대 디저트”, “전시회”처럼 직관적으로 검색하여 필요한 정보를 빠르게 찾을 수 있습니다.<br><br> **3.사용자 행동 분석 & 관심사 기반 추천 시스템**<br>단순 저장을 넘어, 사용자의 행동을 바탕으로 적절한 시점에 콘텐츠를 리마인드하거나 추천합니다.<br>이를 위해 iOS의 CoreLocation을 통해 위치 정보를 파악하고, 사용자의 현재 위치에 맞는 장소나 이벤트 정보를 자동으로 추천할 수 있습니다.<br>또한 UsageLogger 모듈을 통해 사용자 스마트폰 사용 시간대를 분석함으로써, 리마인드 타이밍을 최적화합니다.<br>사용자의 고정 일정은 EventKit과 연동되어 빈 시간대에 맞춰 유용한 정보를 제안할 수 있습니다.<br><br> **4. AI 기반 추천 시스템 고도화**<br>향후에는 단순 규칙 기반 추천을 넘어서, AI 학습을 통해 사용자의 생활 패턴을 더 정밀하게 분석합니다.<br>• Clustering을 통해 시간대, 위치, 스마트폰 사용량 등으로 사용자를 유형화할 수 있고,<br>• LSTM 기반 Sequence Modeling을 활용하면 시간 흐름에 따른 사용자 행동 패턴을 예측할 수 있습니다.<br>예를 들어, “이 사용자는 평일 밤마다 공부 콘텐츠를 자주 열람한다”는 것을 파악해 해당 시간대에 맞춘 콘텐츠를 추천합니다. 또한, LLM을 활용하면 이런 행동 데이터를 자연어로 정리하여 GPT가 스스로 적절한 콘텐츠를 제안하는 고도화된 설명 가능한 추천 시스템을 구현합니다. |
 |구현기술 키워드|  의미 기반 이미지 분석, 사용자 행동 데이터 기반 추천, AI 기반 패턴 학습 및 시퀀스 예측  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  **[Frontend]**<br>Swift, SwiftUI: iOS 앱 UI/UX 구성, 피드 제공, 사용자 인터랙션 처리<br><br>**[Backend]**<br>Cloud Functions for Firebase<br>Java Spring<br><br>**[Cloud]**<br>Firebase<br><br>**[Database]**<br>Cloud Firestore<br><br>**[AI, API]**<br>[VisionKit](https://developer.apple.com/documentation/visionkit)<br>[YOLO](https://github.com/ultralytics/ultralytics)<br>[GPT-4 API](https://platform.openai.com/docs/models/gpt-4)<br>[CoreLocation](https://developer.apple.com/documentation/corelocation)<br>[ScreenTime](https://developer.apple.com/documentation/screentime)<br>[EventKit](https://developer.apple.com/documentation/eventkit)  |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  **[Frontend]**<br>Swift, SwiftUI: iOS 앱 UI/UX 구성, 피드 제공, 사용자 인터랙션 처리<br><br>**[Backend]**<br>Cloud Functions for Firebase<br>Java Spring<br><br>**[Cloud]**<br>Firebase<br><br>**[Database]**<br>Cloud Firestore<br><br>**[AI, API]**<br>[VisionKit](https://developer.apple.com/documentation/visionkit)<br>[YOLO](https://github.com/ultralytics/ultralytics)<br>[GPT-4 API](https://platform.openai.com/docs/models/gpt-4)<br>[CoreLocation](https://developer.apple.com/documentation/corelocation)<br>[EventKit](https://developer.apple.com/documentation/eventkit)  |
 |팀그라운드룰| [GroundRule](https://github.com/Dahye-Kang/OTK/blob/main/GroundRule.MD) |
-|최종수정일| 2025.4.9 |
+|최종수정일| 2025.6.19 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
@@ -409,11 +409,11 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |무엇을 만들고자 하는가| 사용자의 일기와 소비 내역을 바탕으로 충동 소비를 유발한 감정과 사건을 찾아내고, 소비 대신 실천할 수 있는 건강한 대체 행동을 제안해주는 코칭 어플리케이션 |
 |고객| **박지윤 (29세, 여성)** <br> 0. 나이: 29세 <br> 1. 직업: IT 스타트업 마케터 (2년 차 직장인)<br> 2. 거주지: 서울 마포구 (자취 중) <br> 3. 디지털 친화도: 매우 높음 (앱을 통한 금융/건강/일정 관리에 익숙함) <br> 4. 연 수입: 약 3,500만 원 <br> 5. 경제적 특징 <br> - 꾸준한 월급을 받은 것이 얼마 되지 않은 사회초년생 <br> - 경제적으로 독립한 지 아직 3달 <br> - “이번 달은 왜 이렇게 돈이 빨리 나갔지?” 자주 생각 <br> 6. 일정 관리 습관 <br> - 일기를 꾸준히 쓰는 편 <br> - 캘린더로 중요한 일정을 관리함 |
 |Pain Point| 1. **충동 소비는 매우 일반적인 행동**: 충동구매는 전체 구매의 40%에서 80%를 차지한다. (Rodrigues, Lopes, & Varela, 2021) <br> 2. **심각성**: 충동구매는 즉각적인 보상과 그로 인해 발생할 수 있는 부정적인 결과 사이의 갈등에서 비롯된 감정적 통제력의 상실을 유발 → 강박적 행동(compulsive behavior)을 일으킬 수 있다. → 이는 만성적이고 병리적인 수준으로 발전 가능하다. (Rodrigues, Lopes, & Varela, 2021) <br> 3. **자각하기 어려운 충동적 소비**: 저축하거나 계획적으로 소비하려 해도, 어느 순간 보면 돈이 사라져 있다. 주로 쓸데없는 데에 소비하게 되며, 이를 자각하기도 어렵고, 자각해도 고치기 쉽지 않음. <br> 4. **감정에 반응하는 무의식적 소비 습관**:  스트레스를 받거나 특정 감정 상황일 때 무의식적으로 소비하게 된다. 습관처럼 굳어져 있어 이성적으로 조절하기 어렵고, 자동적으로 소비가 발생한 뒤 후회하게 된다. <br> 5. **감정은 충동 소비의 주요 원인**: 당시 소비자의 감정 상태는 충동 소비를 유발하는 핵심 요인 중 하나이다. (Rodrigues, Lopes, & Varela, 2021) <br> 6. **기존 앱의 한계**: 기존의 습관 억제 앱은 대체 행동을 맞춤형으로 제안하지 않기 때문에 기존 소비 습관을 다른 행동으로 전환하기가 어렵다. 또한 사용자의 사건과 감정이란 맥락 없이 단순히 습관을 억제하려고만 했다.|
-|기술 솔루션 서술| - 사용자에게서 하루의 사건과 감정을 간략히 입력받고 이를 바탕으로 LLM이 일기를 작성한다. 사용자는 틀린 점에 대해 피드백하고 이것을 학습하여 점점 일기의 질이 개선되도록 한다. <br> - 사용자의 감정-사건-소비의 인과관계를 LLM을 이용하여 파악한다. <br> - 소비 발생을 스마트폰 푸시 알림을 통해 감지하고 LLM을 fine tuning하여 사용자가 어떤 시간, 어떤 내역, 어떤 금액대에서 가장 충동 소비를 많이 했는지에 따라 충동 소비일 법한 소비에 대해 알림을 푸시한다. <br> - LLM을 이용해 사용자의 (1) 하루의 사건과 감정, 소비 내역 간의 연결고리를 찾고 학습한다. (2) 사용자가 가장 인지 부하를 적게 느끼는 행동을 찾는다. 발견 및 학습한 내용을 바탕으로 충동 소비가 발생하는 패턴(사건-감정-소비 루프)을 감지하고 사용자에게 적절한 대체 행동을 추천한다. <br> - 사용자의 감정과 사건, 소비의 인과관계 찾기, 충동 소비 확률 계산: ChatGPT-4o mini <br> - 충동 소비 확률 계산: RandomForest  |
+|기술 솔루션 서술| - 사용자에게서 하루의 사건과 감정을 간략히 입력받고 이를 바탕으로 LLM이 일기를 작성한다. 사용자는 틀린 점에 대해 피드백하고 이것을 학습하여 점점 일기의 질이 개선되도록 한다. <br> - 사용자의 감정-사건-소비의 인과관계를 LLM을 이용하여 파악한다. <br> - 소비 발생을 스마트폰 푸시 알림을 통해 감지하고 LLM을 fine tuning하여 사용자가 어떤 시간, 어떤 내역, 어떤 금액대에서 가장 충동 소비를 많이 했는지에 따라 충동 소비일 법한 소비에 대해 알림을 푸시한다. <br> - LLM을 이용해 사용자의 (1) 하루의 사건과 감정, 소비 내역 간의 연결고리를 찾고 학습한다. (2) 사용자가 가장 인지 부하를 적게 느끼는 행동을 찾는다. 발견 및 학습한 내용을 바탕으로 충동 소비가 발생하는 패턴(사건-감정-소비 루프)을 감지하고 사용자에게 적절한 대체 행동을 추천한다. <br> - 사용자의 감정과 사건, 소비의 인과관계 찾기, 충동 소비 확률 계산: ChatGPT-4.1 mini  |
 |구현기술 키워드|  LLM fine tuning  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  - ChatGPT API: https://openai.com/api/ <br> - RandomForest: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)|  - ChatGPT API: https://openai.com/api/ |
 |팀그라운드룰|https://github.com/2025-eStart/TETS/blob/main/GroundRule.MD|
-|최종수정일| 2025.06.02 |
+|최종수정일| 2025.06.12 |
 
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
