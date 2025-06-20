@@ -27,7 +27,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 |[23](#team-23--졸업하고싶조)|ScheduleSync| Synchronizing Schedules Seamlessly: A Collaborative Web Application for Personal and Group Planning
 |[24](#team-24--강배우)|강배우|SNS, 웹서핑 등을 통해 유용한 정보를 휴대폰 스크린샷으로 저장해두고 잊어버리는 사용자를 위해, 캡처된 정보를 카테고리별로 자동 분류·추천·알림 기능을 제공해주는 AI 기반 스마트 정보 관리 및 활용 서비스|
 |[25](#team-25--바위너구리)|바위너구리|개인 생활패턴과 날씨를 고려해 청소 & 위생 루틴을 추천하는 AI 서비스|
-|[27](#team-27--용용)|용용|그린업(Green UP): CNN 기반 AI가 쓰레기 종류를 인식하고 올바른 분리배출 방법을 안내하는 스마트 분리배출 서비스|
+|[27](#team-27--용용)|용용|성큼성큼: 청소년이 성에 대해 건강하고 올바르게 배울 수 있도록 돕는 AI 기반 성교육 서비스|
 |[28](#team-28--e스타트)|e스타트|NLP와 오픈뱅킹 API를 활용한 20대의 과소비 방지를 위한 소비 패턴 분석 및 소비 습관 코칭 서비스|
 
 
@@ -386,18 +386,18 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
 ## Team 27  용용
-|항목| 내용                                                                                                                                                                                                                                                           |
-|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|프로젝트명| **성큼성큼**: 청소년이 성 지식에 한 걸음 더 나아갈 수 있도록 돕는 성교육 앱                                                                                                                                                                                                               |
-|프로젝트 키워드| 성교육, 청소년, 학습                                                                                                                                                                                                                                                 |
-|무엇을 만들고자 하는가| 성 지식에 미흡한 청소년이 성에 대해 건강하고 올바른 정보를 쉽게 접할 수 있는 서비스                                                                                                                                                                                                             |
-|고객| 10대 청소년                                                                                                                                                                                                                                                      |
-|Pain Point| - 청소년이 성 지식에 대해 궁금하지만, 믿을 수 있는 정보를 찾기가 어렵다. <br> - 부모, 교사와 대화하기 껄끄러워 인터넷에서 검색하는데, 부정확한 정보가 많다.<br>- 학교 교육만으로는 충분하지 않으며, 교과 과정에서도 성교육의 깊이가 부족하다.                                                                                                              |
-|기술 솔루션 서술| - NLP(자연어 처리)기반 AI 챗봇: ChatGPT API를 사용해 사용자 질문을 이해하고, 적절한 답변을 제공하며 채팅형 시뮬레이션을 통해 몰입도 높은 성교육 시나리오 제공 <br> - 성지식 수준 파악 테스트 : 사용자의 성지식 수준을 분석하여 개인 맞춤 콘텐츠 제공 <br> - 관심 카테고리 및 키워드 기반 추천 시스템: 검색 및 테스트 결과에서 추출한 키워드를 활용 <br> - FAQ 게시판: 청소년들이 자주 묻는 질문에 대한 답변 제공 |
-|구현기술 키워드| 자연어 처리(NLP), AI 챗봇                                                                                                                                                                                                                                           |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)| [BE]<br>- Framework: Spring https://spring.io/projects/spring-boot<br>- DB: MySQL https://www.mysql.com/<br>[FE]<br>- Framework: React https://react.dev/<br>[AI]<br>- NLP: ChatGPT API <br> - Lang Chain                                                    |
-|팀그라운드룰| https://github.com/EwhaCapstone-2025-Team27/GroundRule/blob/main/GroundRule.md                                                                                                                                                                               |
-|최종수정일| 2025.04.04                                                                                                                                                                                                                                                   |
+|항목|내용|
+|---|---|
+|프로젝트명| **성큼성큼**: 청소년이 성에 대해 건강하고 올바르게 배울 수 있도록 돕는 AI 기반 성교육 서비스 |
+|프로젝트 키워드| 성교육, 청소년, 학습 |
+|무엇을 만들고자 하는가| 성큼성큼은 청소년이 성에 대한 궁금증을 자연스럽고 안전하게 해결할 수 있는 서비스입니다. <br>- AI 챗봇: OCR로 추출한 성교육 자료를 벡터 검색과 GPT를 활용해, 실제 콘텐츠 기반의 응답을 제공하며, 10대 친구 말투로 후처리된 공감형 응답을 생성<br>- 시나리오형 퀴즈: 실제 상황을 기반으로 한 선택형 문항을 통해 청소년의 성 지식 수준을 진단하고, 자율적인 학습 유도를 목표로 함 |
+|고객| 10대 청소년 |
+|Pain Point| - 청소년이 성 지식에 대해 궁금하지만, 믿을 수 있는 정보를 찾기가 어렵다. <br> - 부모, 교사와 대화하기 껄끄러워 인터넷에서 검색하는데, 부정확한 정보가 많다.<br>- 학교 교육만으로는 충분하지 않으며, 교과 과정에서도 성교육의 깊이가 부족하다. |
+|기술 솔루션 서술| 1. OCR + 전처리<br>성교육 PDF 자료를 `pytesseract`와 `pdf2image`로 텍스트 추출하고, 정규표현식(`re`)으로 불필요한 기호와 줄바꿈을 제거<br/>2. 임베딩 + 벡터 검색<br>전처리된 문장을 `OpenAIEmbeddings`로 벡터화하고, `FAISS`를 활용해 유사 문서 검색이 가능한 데이터베이스로 구성<br/>3. RAG 기반 응답 생성<br>`LangChain`의 `RetrievalQA` 체인을 통해 유사 문서를 검색한 뒤, `GPT-3.5`로 해당 내용을 기반으로 응답을 생성 |
+|구현기술 키워드| RAG, FIASS |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)| [BE]<br>- Framework: Spring https://spring.io/projects/spring-boot<br>- DB: MySQL https://www.mysql.com/<br>[FE]<br>- Framework: React https://react.dev/<br>[AI]<br>- OpenAI API (GPT 기반 텍스트 응답 생성) https://platform.openai.com/docs/overview <br> - LangChain (RAG 흐름 구성 프레임워크) https://www.langchain.com/<br>- FAISS (벡터 기반 문서 검색 엔진) https://github.com/facebookresearch/faiss |
+|팀그라운드룰| https://github.com/EwhaCapstone-2025-Team27/GroundRule/blob/main/GroundRule.md |
+|최종수정일| 2025.06.19 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
