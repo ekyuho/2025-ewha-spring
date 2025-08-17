@@ -323,16 +323,16 @@ blank line을 넣으면 table form이 깨지니 주의요망. PR전에 확인해
 ## Team 22  큐리호스(Curihous)                                                                  
 |항목| 내용|
 |---|---|
-|프로젝트명| 초보 투자자를 위한 투자 스타일 맞춤형 AI 퀀트 트레이딩 기반 투자 훈련 플랫폼 QBit |
-|프로젝트 키워드| 투자 성향 진단, 투자 이론 학습, AI 기반 투자 전략, 금융 포트폴리오 최적화, 알고리즘 트레이딩 |
-|무엇을 만들고자 하는가| 금융 및 디지털 금융 이해도가 낮은 초보 투자자를 위해, 이론 학습과 투자 경험을 통합적으로 제공하는 플랫폼이다. 이 플랫폼은 모듈형 기초 학습 콘텐츠, 투자 성향 기반 맞춤 전략, AI 기반 피드백을 통해 사용자가 자신의 투자 역량을 점진적으로 키울 수 있도록 설계되었다. 사용자는 **투자 성향 진단 → 모의투자 → AI 피드백 및 전략 추천 → 맞춤형 학습 → 재진입**의 반복 루프 구조를 통해 투자 원리를 체계적으로 익히고, 시장 변화에 대응하는 실전 감각을 자연스럽게 길러갈 수 있다. |
-|고객| 투자 경험이 부족하고 금융·디지털 금융 이해도가 낮은 초보 투자자 |
-|Pain Point| - 정보 과잉 속에서 검증된 학습 경로 및 실습 환경 부재 <br> - 이론 중심 또는 감에 의존한 비효율적 투자 반복 <br> ⇒ 시장 진입 자체를 기피하게 되거나, 이론적 배경이 없는 상태로 무턱대고 투자 시작          |
-|기술 솔루션 서술|사용자가 직접 선택한 투자 성향을 바탕으로 초기 전략을 제공한 뒤, 모의투자 결과와 AI 분석을 활용해 투자 성향을 정교하게 재진단하고 전략을 고도화한다. 강화학습(FinRL) 기반의 모의투자 시스템을 통해 사용자의 투자 행동 데이터를 반영하고, FastAPI와 pandas-ta를 활용해 수익률, 판단 근거, 성향 변화 등을 요약한 투자 리포트를 자동 생성한다. 나아가 KeyBER와 뉴스 API를 이용하여 실시간 정보를 반영하고 그에 기반한 콘텐츠를 추천한다.  |
-|구현기술 키워드| 강화학습, 실시간 뉴스 API 연동, 기술적 지표 분석 자동화, 투자 시뮬레이션 기능  |
-|사용할 소프트웨어의 구체적 명세(명칭과 URL)| [Frontend] Flutter(iOS), Riverpod, Dio <br> [Backend] Java, Spring Boot, PostgreSQL <br> [AI / API] Python, FastAPI, FinRL(https://github.com/AI4Finance-Foundation/FinRL), pandas-ta(https://github.com/Data-Analisis/Technical-Analysis-Indicators---Pandas), KeyBERT(https://github.com/MaartenGr/KeyBERT), Polygon.io API  |
+|프로젝트명| 복잡한 금융·공공 앱을 위한 사용자 맞춤형 UI 최적화 SDK: IFIT |
+|프로젝트 키워드| 홈 화면 구성 최적화, 사용자 행동 기반 UI, 기능 탐색 효율 개선 |
+|무엇을 만들고자 하는가| 금융·정부 앱처럼 기능이 지나치게 많고, 정보 구조가 복잡해 사용자가 원하는 기능을 찾기 어려운 앱에 적용 가능한 Kotlin 기반 UI 최적화 SDK를 개발한다. <br> SDK는 사용자의 연령, 패턴, 자주 쓰는 기능을 분석하여 **홈 화면의 기능 배치·라벨링·아이콘**을 자동 구성한다. 앱은 자체 서버 대신 IFIT 서버가 전달하는 JSON UI Config를 기반으로 홈 화면을 구성하고, 고객사와 최종 사용자 모두에게 최적화된 경험을 제공한다. |
+|고객| - 금융사/정부기관 앱 개발팀(클라이언트) <br> - 실제 앱 사용자(최종 사용자) |
+|Pain Point| - 방대한 기능과 복잡한 메뉴 구조로 인한 탐색 불편 <br> - 시니어 사용자 접근성 저하 (작은 글씨, 높은 정보 밀도) <br> - 공공·금융앱은 사용자 맞춤 UI 부재로 효율성 및 만족도 저하 |
+|기술 솔루션 서술| 사용자 이벤트 로그를 Kafka로 수집하고 Airflow·Spark로 전처리한다. LightGBM과 HuggingFace 모델이 사용자 패턴을 분석해 기능 그룹과 우선순위를 산출하며, FastAPI 서버는 이를 JSON UI Config로 SDK에 전달한다. 앱은 해당 JSON을 기반으로 UI를 동적으로 최적화하고, PostgreSQL·Redis로 결과를 관리한다. 또한 React·Spring 대시보드를 통해 금융사·기관은 추천 화면과 pinned 기능을 제어할 수 있다.  |
+|구현기술 키워드| Kotlin SDK, Kafka 기반 이벤트 로그 스트리밍, Airflow와 Spark를 활용한 ETL 파이프라인, LightGBM 모델을 활용한 UI 구성 추천 시스템, Hugging Face 모델을 이용한 자연어 기반 기능 그룹 라벨링, React와 Spring Boot 기반의 모니터링 대시보드    |
+|사용할 소프트웨어의 구체적 명세(명칭과 URL)| **[SDK]** Kotlin(Android), Retrofit2, Coroutines <br> **[AI/ML]** LightGBM(https://github.com/microsoft/LightGBM), HuggingFace (https://huggingface.co/), FastAPI (https://fastapi.tiangolo.com/) <br> **[ETL/Data]** Kafka, Airflow, Spark, Amazon S3 <br> **[Dashboard]** React, Spring boot <br> **[Infra/Storage]** Redis, PostgreSQL |
 |팀그라운드룰| https://github.com/Curihous/2025-EWHA-CAPSTONE-CURIHOUS/blob/main/GroundRule.MD |
-|최종수정일| 2025.05.26 |
+|최종수정일| 2025.08.17 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 
